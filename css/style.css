@@ -6365,8 +6365,8 @@ pre .deletion {
 .first-screen-container .content .description {
   width: 100vw;
   font-weight: bold;
-  font-size: 2.4rem;
-  line-height: 1.5;
+  font-size: 2.2rem;
+  line-height: 1.8;
   text-align: center;
   color: var(--first-screen-text-color);
 }
@@ -6384,7 +6384,7 @@ pre .deletion {
 }
 @media (max-width: 780px) {
   .first-screen-container .content .description {
-    font-size: 2.16rem;
+    font-size: 1.98rem;
   }
 }
 .first-screen-container .content .social-contacts {
