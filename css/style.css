@@ -6789,13 +6789,13 @@ pre .deletion {
 }
 @media (max-width: 780px) {
   .article-meta-info .article-tags {
-    display: none;
+    display: inline;
   }
 }
 @media (max-width: 500px) {
   .article-meta-info .article-min2read,
   .article-meta-info .article-wordcount {
-    display: none;
+    display: inline;
   }
 }
 .article-copyright-info-container {
