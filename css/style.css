@@ -128,7 +128,7 @@
   --background-color-transparent: rgba(255,255,255,0.6);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
-  --primary-color: #c99;
+  --primary-color: #769edb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -136,7 +136,7 @@
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #d1a3a3;
+  --selection-color: #84a8df;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -173,7 +173,7 @@
     --background-color-transparent: rgba(255,255,255,0.6);
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
-    --primary-color: #c99;
+    --primary-color: #769edb;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
     --third-text-color: #5c6669;
@@ -181,7 +181,7 @@
     --default-text-color: #373d3f;
     --invert-text-color: #bebec6;
     --border-color: #b3b3b3;
-    --selection-color: #d1a3a3;
+    --selection-color: #84a8df;
     --shadow-color-1: rgba(0,0,0,0.08);
     --shadow-color-2: rgba(0,0,0,0.05);
     --shadow-hover-color: rgba(0,0,0,0.28);
@@ -219,7 +219,7 @@
     --background-color-transparent: rgba(32,33,36,0.4);
     --second-background-color: #242529;
     --third-background-color: #292b2f;
-    --primary-color: #c99;
+    --primary-color: #769edb;
     --first-text-color: #d2d2d7;
     --second-text-color: #cbcbd1;
     --third-text-color: #9595a2;
@@ -227,7 +227,7 @@
     --default-text-color: #bebec6;
     --invert-text-color: #373d3f;
     --border-color: #4a4c53;
-    --selection-color: #d1a3a3;
+    --selection-color: #84a8df;
     --shadow-color-1: rgba(255,255,255,0.08);
     --shadow-color-2: rgba(255,255,255,0.05);
     --shadow-hover-color: rgba(69,69,69,0.28);
@@ -249,7 +249,7 @@
     --note-black-title-bg: #1e1e1e;
     --note-purple-title-bg: #4e1e4e;
     --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
-    --first-screen-text-color: #d1d1b6;
+    --first-screen-text-color: #eee;
     --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
     --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
     --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -264,7 +264,7 @@
   --background-color-transparent: rgba(255,255,255,0.6);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
-  --primary-color: #c99;
+  --primary-color: #769edb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -272,7 +272,7 @@
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #d1a3a3;
+  --selection-color: #84a8df;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -308,7 +308,7 @@
   --background-color-transparent: rgba(32,33,36,0.4);
   --second-background-color: #242529;
   --third-background-color: #292b2f;
-  --primary-color: #c99;
+  --primary-color: #769edb;
   --first-text-color: #d2d2d7;
   --second-text-color: #cbcbd1;
   --third-text-color: #9595a2;
@@ -316,7 +316,7 @@
   --default-text-color: #bebec6;
   --invert-text-color: #373d3f;
   --border-color: #4a4c53;
-  --selection-color: #d1a3a3;
+  --selection-color: #84a8df;
   --shadow-color-1: rgba(255,255,255,0.08);
   --shadow-color-2: rgba(255,255,255,0.05);
   --shadow-hover-color: rgba(69,69,69,0.28);
@@ -338,7 +338,7 @@
   --note-black-title-bg: #1e1e1e;
   --note-purple-title-bg: #4e1e4e;
   --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
-  --first-screen-text-color: #d1d1b6;
+  --first-screen-text-color: #eee;
   --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
   --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
   --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -352,7 +352,7 @@
   --background-color-transparent: rgba(255,255,255,0.6);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
-  --primary-color: #c99;
+  --primary-color: #769edb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -360,7 +360,7 @@
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #d1a3a3;
+  --selection-color: #84a8df;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -397,7 +397,7 @@
     --background-color-transparent: rgba(255,255,255,0.6);
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
-    --primary-color: #c99;
+    --primary-color: #769edb;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
     --third-text-color: #5c6669;
@@ -405,7 +405,7 @@
     --default-text-color: #373d3f;
     --invert-text-color: #bebec6;
     --border-color: #b3b3b3;
-    --selection-color: #d1a3a3;
+    --selection-color: #84a8df;
     --shadow-color-1: rgba(0,0,0,0.08);
     --shadow-color-2: rgba(0,0,0,0.05);
     --shadow-hover-color: rgba(0,0,0,0.28);
@@ -443,7 +443,7 @@
     --background-color-transparent: rgba(32,33,36,0.4);
     --second-background-color: #242529;
     --third-background-color: #292b2f;
-    --primary-color: #c99;
+    --primary-color: #769edb;
     --first-text-color: #d2d2d7;
     --second-text-color: #cbcbd1;
     --third-text-color: #9595a2;
@@ -451,7 +451,7 @@
     --default-text-color: #bebec6;
     --invert-text-color: #373d3f;
     --border-color: #4a4c53;
-    --selection-color: #d1a3a3;
+    --selection-color: #84a8df;
     --shadow-color-1: rgba(255,255,255,0.08);
     --shadow-color-2: rgba(255,255,255,0.05);
     --shadow-hover-color: rgba(69,69,69,0.28);
@@ -473,7 +473,7 @@
     --note-black-title-bg: #1e1e1e;
     --note-purple-title-bg: #4e1e4e;
     --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
-    --first-screen-text-color: #d1d1b6;
+    --first-screen-text-color: #eee;
     --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
     --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
     --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -488,7 +488,7 @@
   --background-color-transparent: rgba(255,255,255,0.6);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
-  --primary-color: #c99;
+  --primary-color: #769edb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -496,7 +496,7 @@
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #d1a3a3;
+  --selection-color: #84a8df;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -532,7 +532,7 @@
   --background-color-transparent: rgba(32,33,36,0.4);
   --second-background-color: #242529;
   --third-background-color: #292b2f;
-  --primary-color: #c99;
+  --primary-color: #769edb;
   --first-text-color: #d2d2d7;
   --second-text-color: #cbcbd1;
   --third-text-color: #9595a2;
@@ -540,7 +540,7 @@
   --default-text-color: #bebec6;
   --invert-text-color: #373d3f;
   --border-color: #4a4c53;
-  --selection-color: #d1a3a3;
+  --selection-color: #84a8df;
   --shadow-color-1: rgba(255,255,255,0.08);
   --shadow-color-2: rgba(255,255,255,0.05);
   --shadow-hover-color: rgba(69,69,69,0.28);
@@ -562,7 +562,7 @@
   --note-black-title-bg: #1e1e1e;
   --note-purple-title-bg: #4e1e4e;
   --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
-  --first-screen-text-color: #d1d1b6;
+  --first-screen-text-color: #eee;
   --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
   --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
   --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -1066,7 +1066,7 @@ button {
   --background-color-transparent: rgba(255,255,255,0.6);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
-  --primary-color: #c99;
+  --primary-color: #769edb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -1074,7 +1074,7 @@ button {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #d1a3a3;
+  --selection-color: #84a8df;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -1111,7 +1111,7 @@ button {
     --background-color-transparent: rgba(255,255,255,0.6);
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
-    --primary-color: #c99;
+    --primary-color: #769edb;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
     --third-text-color: #5c6669;
@@ -1119,7 +1119,7 @@ button {
     --default-text-color: #373d3f;
     --invert-text-color: #bebec6;
     --border-color: #b3b3b3;
-    --selection-color: #d1a3a3;
+    --selection-color: #84a8df;
     --shadow-color-1: rgba(0,0,0,0.08);
     --shadow-color-2: rgba(0,0,0,0.05);
     --shadow-hover-color: rgba(0,0,0,0.28);
@@ -1157,7 +1157,7 @@ button {
     --background-color-transparent: rgba(32,33,36,0.4);
     --second-background-color: #242529;
     --third-background-color: #292b2f;
-    --primary-color: #c99;
+    --primary-color: #769edb;
     --first-text-color: #d2d2d7;
     --second-text-color: #cbcbd1;
     --third-text-color: #9595a2;
@@ -1165,7 +1165,7 @@ button {
     --default-text-color: #bebec6;
     --invert-text-color: #373d3f;
     --border-color: #4a4c53;
-    --selection-color: #d1a3a3;
+    --selection-color: #84a8df;
     --shadow-color-1: rgba(255,255,255,0.08);
     --shadow-color-2: rgba(255,255,255,0.05);
     --shadow-hover-color: rgba(69,69,69,0.28);
@@ -1187,7 +1187,7 @@ button {
     --note-black-title-bg: #1e1e1e;
     --note-purple-title-bg: #4e1e4e;
     --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
-    --first-screen-text-color: #d1d1b6;
+    --first-screen-text-color: #eee;
     --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
     --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
     --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -1202,7 +1202,7 @@ button {
   --background-color-transparent: rgba(255,255,255,0.6);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
-  --primary-color: #c99;
+  --primary-color: #769edb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -1210,7 +1210,7 @@ button {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #d1a3a3;
+  --selection-color: #84a8df;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -1246,7 +1246,7 @@ button {
   --background-color-transparent: rgba(32,33,36,0.4);
   --second-background-color: #242529;
   --third-background-color: #292b2f;
-  --primary-color: #c99;
+  --primary-color: #769edb;
   --first-text-color: #d2d2d7;
   --second-text-color: #cbcbd1;
   --third-text-color: #9595a2;
@@ -1254,7 +1254,7 @@ button {
   --default-text-color: #bebec6;
   --invert-text-color: #373d3f;
   --border-color: #4a4c53;
-  --selection-color: #d1a3a3;
+  --selection-color: #84a8df;
   --shadow-color-1: rgba(255,255,255,0.08);
   --shadow-color-2: rgba(255,255,255,0.05);
   --shadow-hover-color: rgba(69,69,69,0.28);
@@ -1276,7 +1276,7 @@ button {
   --note-black-title-bg: #1e1e1e;
   --note-purple-title-bg: #4e1e4e;
   --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
-  --first-screen-text-color: #d1d1b6;
+  --first-screen-text-color: #eee;
   --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
   --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
   --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -1700,7 +1700,7 @@ pre .deletion {
   --background-color-transparent: rgba(255,255,255,0.6);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
-  --primary-color: #c99;
+  --primary-color: #769edb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -1708,7 +1708,7 @@ pre .deletion {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #d1a3a3;
+  --selection-color: #84a8df;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -1745,7 +1745,7 @@ pre .deletion {
     --background-color-transparent: rgba(255,255,255,0.6);
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
-    --primary-color: #c99;
+    --primary-color: #769edb;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
     --third-text-color: #5c6669;
@@ -1753,7 +1753,7 @@ pre .deletion {
     --default-text-color: #373d3f;
     --invert-text-color: #bebec6;
     --border-color: #b3b3b3;
-    --selection-color: #d1a3a3;
+    --selection-color: #84a8df;
     --shadow-color-1: rgba(0,0,0,0.08);
     --shadow-color-2: rgba(0,0,0,0.05);
     --shadow-hover-color: rgba(0,0,0,0.28);
@@ -1791,7 +1791,7 @@ pre .deletion {
     --background-color-transparent: rgba(32,33,36,0.4);
     --second-background-color: #242529;
     --third-background-color: #292b2f;
-    --primary-color: #c99;
+    --primary-color: #769edb;
     --first-text-color: #d2d2d7;
     --second-text-color: #cbcbd1;
     --third-text-color: #9595a2;
@@ -1799,7 +1799,7 @@ pre .deletion {
     --default-text-color: #bebec6;
     --invert-text-color: #373d3f;
     --border-color: #4a4c53;
-    --selection-color: #d1a3a3;
+    --selection-color: #84a8df;
     --shadow-color-1: rgba(255,255,255,0.08);
     --shadow-color-2: rgba(255,255,255,0.05);
     --shadow-hover-color: rgba(69,69,69,0.28);
@@ -1821,7 +1821,7 @@ pre .deletion {
     --note-black-title-bg: #1e1e1e;
     --note-purple-title-bg: #4e1e4e;
     --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
-    --first-screen-text-color: #d1d1b6;
+    --first-screen-text-color: #eee;
     --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
     --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
     --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -1836,7 +1836,7 @@ pre .deletion {
   --background-color-transparent: rgba(255,255,255,0.6);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
-  --primary-color: #c99;
+  --primary-color: #769edb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -1844,7 +1844,7 @@ pre .deletion {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #d1a3a3;
+  --selection-color: #84a8df;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -1880,7 +1880,7 @@ pre .deletion {
   --background-color-transparent: rgba(32,33,36,0.4);
   --second-background-color: #242529;
   --third-background-color: #292b2f;
-  --primary-color: #c99;
+  --primary-color: #769edb;
   --first-text-color: #d2d2d7;
   --second-text-color: #cbcbd1;
   --third-text-color: #9595a2;
@@ -1888,7 +1888,7 @@ pre .deletion {
   --default-text-color: #bebec6;
   --invert-text-color: #373d3f;
   --border-color: #4a4c53;
-  --selection-color: #d1a3a3;
+  --selection-color: #84a8df;
   --shadow-color-1: rgba(255,255,255,0.08);
   --shadow-color-2: rgba(255,255,255,0.05);
   --shadow-hover-color: rgba(69,69,69,0.28);
@@ -1910,7 +1910,7 @@ pre .deletion {
   --note-black-title-bg: #1e1e1e;
   --note-purple-title-bg: #4e1e4e;
   --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
-  --first-screen-text-color: #d1d1b6;
+  --first-screen-text-color: #eee;
   --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
   --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
   --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -2038,7 +2038,7 @@ pre .deletion {
   --background-color-transparent: rgba(255,255,255,0.6);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
-  --primary-color: #c99;
+  --primary-color: #769edb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -2046,7 +2046,7 @@ pre .deletion {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #d1a3a3;
+  --selection-color: #84a8df;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -2083,7 +2083,7 @@ pre .deletion {
     --background-color-transparent: rgba(255,255,255,0.6);
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
-    --primary-color: #c99;
+    --primary-color: #769edb;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
     --third-text-color: #5c6669;
@@ -2091,7 +2091,7 @@ pre .deletion {
     --default-text-color: #373d3f;
     --invert-text-color: #bebec6;
     --border-color: #b3b3b3;
-    --selection-color: #d1a3a3;
+    --selection-color: #84a8df;
     --shadow-color-1: rgba(0,0,0,0.08);
     --shadow-color-2: rgba(0,0,0,0.05);
     --shadow-hover-color: rgba(0,0,0,0.28);
@@ -2129,7 +2129,7 @@ pre .deletion {
     --background-color-transparent: rgba(32,33,36,0.4);
     --second-background-color: #242529;
     --third-background-color: #292b2f;
-    --primary-color: #c99;
+    --primary-color: #769edb;
     --first-text-color: #d2d2d7;
     --second-text-color: #cbcbd1;
     --third-text-color: #9595a2;
@@ -2137,7 +2137,7 @@ pre .deletion {
     --default-text-color: #bebec6;
     --invert-text-color: #373d3f;
     --border-color: #4a4c53;
-    --selection-color: #d1a3a3;
+    --selection-color: #84a8df;
     --shadow-color-1: rgba(255,255,255,0.08);
     --shadow-color-2: rgba(255,255,255,0.05);
     --shadow-hover-color: rgba(69,69,69,0.28);
@@ -2159,7 +2159,7 @@ pre .deletion {
     --note-black-title-bg: #1e1e1e;
     --note-purple-title-bg: #4e1e4e;
     --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
-    --first-screen-text-color: #d1d1b6;
+    --first-screen-text-color: #eee;
     --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
     --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
     --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -2174,7 +2174,7 @@ pre .deletion {
   --background-color-transparent: rgba(255,255,255,0.6);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
-  --primary-color: #c99;
+  --primary-color: #769edb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -2182,7 +2182,7 @@ pre .deletion {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #d1a3a3;
+  --selection-color: #84a8df;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -2218,7 +2218,7 @@ pre .deletion {
   --background-color-transparent: rgba(32,33,36,0.4);
   --second-background-color: #242529;
   --third-background-color: #292b2f;
-  --primary-color: #c99;
+  --primary-color: #769edb;
   --first-text-color: #d2d2d7;
   --second-text-color: #cbcbd1;
   --third-text-color: #9595a2;
@@ -2226,7 +2226,7 @@ pre .deletion {
   --default-text-color: #bebec6;
   --invert-text-color: #373d3f;
   --border-color: #4a4c53;
-  --selection-color: #d1a3a3;
+  --selection-color: #84a8df;
   --shadow-color-1: rgba(255,255,255,0.08);
   --shadow-color-2: rgba(255,255,255,0.05);
   --shadow-hover-color: rgba(69,69,69,0.28);
@@ -2248,7 +2248,7 @@ pre .deletion {
   --note-black-title-bg: #1e1e1e;
   --note-purple-title-bg: #4e1e4e;
   --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
-  --first-screen-text-color: #d1d1b6;
+  --first-screen-text-color: #eee;
   --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
   --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
   --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -2434,7 +2434,7 @@ pre .deletion {
   --background-color-transparent: rgba(255,255,255,0.6);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
-  --primary-color: #c99;
+  --primary-color: #769edb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -2442,7 +2442,7 @@ pre .deletion {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #d1a3a3;
+  --selection-color: #84a8df;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -2479,7 +2479,7 @@ pre .deletion {
     --background-color-transparent: rgba(255,255,255,0.6);
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
-    --primary-color: #c99;
+    --primary-color: #769edb;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
     --third-text-color: #5c6669;
@@ -2487,7 +2487,7 @@ pre .deletion {
     --default-text-color: #373d3f;
     --invert-text-color: #bebec6;
     --border-color: #b3b3b3;
-    --selection-color: #d1a3a3;
+    --selection-color: #84a8df;
     --shadow-color-1: rgba(0,0,0,0.08);
     --shadow-color-2: rgba(0,0,0,0.05);
     --shadow-hover-color: rgba(0,0,0,0.28);
@@ -2525,7 +2525,7 @@ pre .deletion {
     --background-color-transparent: rgba(32,33,36,0.4);
     --second-background-color: #242529;
     --third-background-color: #292b2f;
-    --primary-color: #c99;
+    --primary-color: #769edb;
     --first-text-color: #d2d2d7;
     --second-text-color: #cbcbd1;
     --third-text-color: #9595a2;
@@ -2533,7 +2533,7 @@ pre .deletion {
     --default-text-color: #bebec6;
     --invert-text-color: #373d3f;
     --border-color: #4a4c53;
-    --selection-color: #d1a3a3;
+    --selection-color: #84a8df;
     --shadow-color-1: rgba(255,255,255,0.08);
     --shadow-color-2: rgba(255,255,255,0.05);
     --shadow-hover-color: rgba(69,69,69,0.28);
@@ -2555,7 +2555,7 @@ pre .deletion {
     --note-black-title-bg: #1e1e1e;
     --note-purple-title-bg: #4e1e4e;
     --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
-    --first-screen-text-color: #d1d1b6;
+    --first-screen-text-color: #eee;
     --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
     --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
     --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -2570,7 +2570,7 @@ pre .deletion {
   --background-color-transparent: rgba(255,255,255,0.6);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
-  --primary-color: #c99;
+  --primary-color: #769edb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -2578,7 +2578,7 @@ pre .deletion {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #d1a3a3;
+  --selection-color: #84a8df;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -2614,7 +2614,7 @@ pre .deletion {
   --background-color-transparent: rgba(32,33,36,0.4);
   --second-background-color: #242529;
   --third-background-color: #292b2f;
-  --primary-color: #c99;
+  --primary-color: #769edb;
   --first-text-color: #d2d2d7;
   --second-text-color: #cbcbd1;
   --third-text-color: #9595a2;
@@ -2622,7 +2622,7 @@ pre .deletion {
   --default-text-color: #bebec6;
   --invert-text-color: #373d3f;
   --border-color: #4a4c53;
-  --selection-color: #d1a3a3;
+  --selection-color: #84a8df;
   --shadow-color-1: rgba(255,255,255,0.08);
   --shadow-color-2: rgba(255,255,255,0.05);
   --shadow-hover-color: rgba(69,69,69,0.28);
@@ -2644,7 +2644,7 @@ pre .deletion {
   --note-black-title-bg: #1e1e1e;
   --note-purple-title-bg: #4e1e4e;
   --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
-  --first-screen-text-color: #d1d1b6;
+  --first-screen-text-color: #eee;
   --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
   --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
   --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -2904,7 +2904,7 @@ pre .deletion {
   --waline-light-grey: #999;
   --waline-dark-grey: #666;
   --waline-theme-color: var(--primary-color);
-  --waline-active-color: #d1a3a3;
+  --waline-active-color: #84a8df;
   --waline-color: #444;
   --waline-bgcolor: #fff;
   --waline-bgcolor-light: #f8f8f8;
@@ -4158,7 +4158,7 @@ pre .deletion {
   --background-color-transparent: rgba(255,255,255,0.6);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
-  --primary-color: #c99;
+  --primary-color: #769edb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -4166,7 +4166,7 @@ pre .deletion {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #d1a3a3;
+  --selection-color: #84a8df;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -4203,7 +4203,7 @@ pre .deletion {
     --background-color-transparent: rgba(255,255,255,0.6);
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
-    --primary-color: #c99;
+    --primary-color: #769edb;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
     --third-text-color: #5c6669;
@@ -4211,7 +4211,7 @@ pre .deletion {
     --default-text-color: #373d3f;
     --invert-text-color: #bebec6;
     --border-color: #b3b3b3;
-    --selection-color: #d1a3a3;
+    --selection-color: #84a8df;
     --shadow-color-1: rgba(0,0,0,0.08);
     --shadow-color-2: rgba(0,0,0,0.05);
     --shadow-hover-color: rgba(0,0,0,0.28);
@@ -4249,7 +4249,7 @@ pre .deletion {
     --background-color-transparent: rgba(32,33,36,0.4);
     --second-background-color: #242529;
     --third-background-color: #292b2f;
-    --primary-color: #c99;
+    --primary-color: #769edb;
     --first-text-color: #d2d2d7;
     --second-text-color: #cbcbd1;
     --third-text-color: #9595a2;
@@ -4257,7 +4257,7 @@ pre .deletion {
     --default-text-color: #bebec6;
     --invert-text-color: #373d3f;
     --border-color: #4a4c53;
-    --selection-color: #d1a3a3;
+    --selection-color: #84a8df;
     --shadow-color-1: rgba(255,255,255,0.08);
     --shadow-color-2: rgba(255,255,255,0.05);
     --shadow-hover-color: rgba(69,69,69,0.28);
@@ -4279,7 +4279,7 @@ pre .deletion {
     --note-black-title-bg: #1e1e1e;
     --note-purple-title-bg: #4e1e4e;
     --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
-    --first-screen-text-color: #d1d1b6;
+    --first-screen-text-color: #eee;
     --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
     --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
     --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -4294,7 +4294,7 @@ pre .deletion {
   --background-color-transparent: rgba(255,255,255,0.6);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
-  --primary-color: #c99;
+  --primary-color: #769edb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -4302,7 +4302,7 @@ pre .deletion {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #d1a3a3;
+  --selection-color: #84a8df;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -4338,7 +4338,7 @@ pre .deletion {
   --background-color-transparent: rgba(32,33,36,0.4);
   --second-background-color: #242529;
   --third-background-color: #292b2f;
-  --primary-color: #c99;
+  --primary-color: #769edb;
   --first-text-color: #d2d2d7;
   --second-text-color: #cbcbd1;
   --third-text-color: #9595a2;
@@ -4346,7 +4346,7 @@ pre .deletion {
   --default-text-color: #bebec6;
   --invert-text-color: #373d3f;
   --border-color: #4a4c53;
-  --selection-color: #d1a3a3;
+  --selection-color: #84a8df;
   --shadow-color-1: rgba(255,255,255,0.08);
   --shadow-color-2: rgba(255,255,255,0.05);
   --shadow-hover-color: rgba(69,69,69,0.28);
@@ -4368,7 +4368,7 @@ pre .deletion {
   --note-black-title-bg: #1e1e1e;
   --note-purple-title-bg: #4e1e4e;
   --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
-  --first-screen-text-color: #d1d1b6;
+  --first-screen-text-color: #eee;
   --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
   --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
   --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -4869,7 +4869,7 @@ pre .deletion {
   --background-color-transparent: rgba(255,255,255,0.6);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
-  --primary-color: #c99;
+  --primary-color: #769edb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -4877,7 +4877,7 @@ pre .deletion {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #d1a3a3;
+  --selection-color: #84a8df;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -4914,7 +4914,7 @@ pre .deletion {
     --background-color-transparent: rgba(255,255,255,0.6);
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
-    --primary-color: #c99;
+    --primary-color: #769edb;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
     --third-text-color: #5c6669;
@@ -4922,7 +4922,7 @@ pre .deletion {
     --default-text-color: #373d3f;
     --invert-text-color: #bebec6;
     --border-color: #b3b3b3;
-    --selection-color: #d1a3a3;
+    --selection-color: #84a8df;
     --shadow-color-1: rgba(0,0,0,0.08);
     --shadow-color-2: rgba(0,0,0,0.05);
     --shadow-hover-color: rgba(0,0,0,0.28);
@@ -4960,7 +4960,7 @@ pre .deletion {
     --background-color-transparent: rgba(32,33,36,0.4);
     --second-background-color: #242529;
     --third-background-color: #292b2f;
-    --primary-color: #c99;
+    --primary-color: #769edb;
     --first-text-color: #d2d2d7;
     --second-text-color: #cbcbd1;
     --third-text-color: #9595a2;
@@ -4968,7 +4968,7 @@ pre .deletion {
     --default-text-color: #bebec6;
     --invert-text-color: #373d3f;
     --border-color: #4a4c53;
-    --selection-color: #d1a3a3;
+    --selection-color: #84a8df;
     --shadow-color-1: rgba(255,255,255,0.08);
     --shadow-color-2: rgba(255,255,255,0.05);
     --shadow-hover-color: rgba(69,69,69,0.28);
@@ -4990,7 +4990,7 @@ pre .deletion {
     --note-black-title-bg: #1e1e1e;
     --note-purple-title-bg: #4e1e4e;
     --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
-    --first-screen-text-color: #d1d1b6;
+    --first-screen-text-color: #eee;
     --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
     --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
     --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -5005,7 +5005,7 @@ pre .deletion {
   --background-color-transparent: rgba(255,255,255,0.6);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
-  --primary-color: #c99;
+  --primary-color: #769edb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -5013,7 +5013,7 @@ pre .deletion {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #d1a3a3;
+  --selection-color: #84a8df;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -5049,7 +5049,7 @@ pre .deletion {
   --background-color-transparent: rgba(32,33,36,0.4);
   --second-background-color: #242529;
   --third-background-color: #292b2f;
-  --primary-color: #c99;
+  --primary-color: #769edb;
   --first-text-color: #d2d2d7;
   --second-text-color: #cbcbd1;
   --third-text-color: #9595a2;
@@ -5057,7 +5057,7 @@ pre .deletion {
   --default-text-color: #bebec6;
   --invert-text-color: #373d3f;
   --border-color: #4a4c53;
-  --selection-color: #d1a3a3;
+  --selection-color: #84a8df;
   --shadow-color-1: rgba(255,255,255,0.08);
   --shadow-color-2: rgba(255,255,255,0.05);
   --shadow-hover-color: rgba(69,69,69,0.28);
@@ -5079,7 +5079,7 @@ pre .deletion {
   --note-black-title-bg: #1e1e1e;
   --note-purple-title-bg: #4e1e4e;
   --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
-  --first-screen-text-color: #d1d1b6;
+  --first-screen-text-color: #eee;
   --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
   --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
   --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -5180,7 +5180,7 @@ pre .deletion {
   --background-color-transparent: rgba(255,255,255,0.6);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
-  --primary-color: #c99;
+  --primary-color: #769edb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -5188,7 +5188,7 @@ pre .deletion {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #d1a3a3;
+  --selection-color: #84a8df;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -5225,7 +5225,7 @@ pre .deletion {
     --background-color-transparent: rgba(255,255,255,0.6);
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
-    --primary-color: #c99;
+    --primary-color: #769edb;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
     --third-text-color: #5c6669;
@@ -5233,7 +5233,7 @@ pre .deletion {
     --default-text-color: #373d3f;
     --invert-text-color: #bebec6;
     --border-color: #b3b3b3;
-    --selection-color: #d1a3a3;
+    --selection-color: #84a8df;
     --shadow-color-1: rgba(0,0,0,0.08);
     --shadow-color-2: rgba(0,0,0,0.05);
     --shadow-hover-color: rgba(0,0,0,0.28);
@@ -5271,7 +5271,7 @@ pre .deletion {
     --background-color-transparent: rgba(32,33,36,0.4);
     --second-background-color: #242529;
     --third-background-color: #292b2f;
-    --primary-color: #c99;
+    --primary-color: #769edb;
     --first-text-color: #d2d2d7;
     --second-text-color: #cbcbd1;
     --third-text-color: #9595a2;
@@ -5279,7 +5279,7 @@ pre .deletion {
     --default-text-color: #bebec6;
     --invert-text-color: #373d3f;
     --border-color: #4a4c53;
-    --selection-color: #d1a3a3;
+    --selection-color: #84a8df;
     --shadow-color-1: rgba(255,255,255,0.08);
     --shadow-color-2: rgba(255,255,255,0.05);
     --shadow-hover-color: rgba(69,69,69,0.28);
@@ -5301,7 +5301,7 @@ pre .deletion {
     --note-black-title-bg: #1e1e1e;
     --note-purple-title-bg: #4e1e4e;
     --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
-    --first-screen-text-color: #d1d1b6;
+    --first-screen-text-color: #eee;
     --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
     --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
     --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -5316,7 +5316,7 @@ pre .deletion {
   --background-color-transparent: rgba(255,255,255,0.6);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
-  --primary-color: #c99;
+  --primary-color: #769edb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -5324,7 +5324,7 @@ pre .deletion {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #d1a3a3;
+  --selection-color: #84a8df;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -5360,7 +5360,7 @@ pre .deletion {
   --background-color-transparent: rgba(32,33,36,0.4);
   --second-background-color: #242529;
   --third-background-color: #292b2f;
-  --primary-color: #c99;
+  --primary-color: #769edb;
   --first-text-color: #d2d2d7;
   --second-text-color: #cbcbd1;
   --third-text-color: #9595a2;
@@ -5368,7 +5368,7 @@ pre .deletion {
   --default-text-color: #bebec6;
   --invert-text-color: #373d3f;
   --border-color: #4a4c53;
-  --selection-color: #d1a3a3;
+  --selection-color: #84a8df;
   --shadow-color-1: rgba(255,255,255,0.08);
   --shadow-color-2: rgba(255,255,255,0.05);
   --shadow-hover-color: rgba(69,69,69,0.28);
@@ -5390,7 +5390,7 @@ pre .deletion {
   --note-black-title-bg: #1e1e1e;
   --note-purple-title-bg: #4e1e4e;
   --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
-  --first-screen-text-color: #d1d1b6;
+  --first-screen-text-color: #eee;
   --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
   --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
   --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -5406,7 +5406,7 @@ pre .deletion {
   min-height: 100px;
   font-size: 1rem;
   color: var(--third-text-color);
-  background-color: rgba(204,153,153,0.15);
+  background-color: rgba(118,158,219,0.15);
   border-radius: 0 !important;
   padding: 0;
   border-radius: 18px;
@@ -5667,7 +5667,7 @@ pre .deletion {
   --background-color-transparent: rgba(255,255,255,0.6);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
-  --primary-color: #c99;
+  --primary-color: #769edb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -5675,7 +5675,7 @@ pre .deletion {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #d1a3a3;
+  --selection-color: #84a8df;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -5712,7 +5712,7 @@ pre .deletion {
     --background-color-transparent: rgba(255,255,255,0.6);
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
-    --primary-color: #c99;
+    --primary-color: #769edb;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
     --third-text-color: #5c6669;
@@ -5720,7 +5720,7 @@ pre .deletion {
     --default-text-color: #373d3f;
     --invert-text-color: #bebec6;
     --border-color: #b3b3b3;
-    --selection-color: #d1a3a3;
+    --selection-color: #84a8df;
     --shadow-color-1: rgba(0,0,0,0.08);
     --shadow-color-2: rgba(0,0,0,0.05);
     --shadow-hover-color: rgba(0,0,0,0.28);
@@ -5758,7 +5758,7 @@ pre .deletion {
     --background-color-transparent: rgba(32,33,36,0.4);
     --second-background-color: #242529;
     --third-background-color: #292b2f;
-    --primary-color: #c99;
+    --primary-color: #769edb;
     --first-text-color: #d2d2d7;
     --second-text-color: #cbcbd1;
     --third-text-color: #9595a2;
@@ -5766,7 +5766,7 @@ pre .deletion {
     --default-text-color: #bebec6;
     --invert-text-color: #373d3f;
     --border-color: #4a4c53;
-    --selection-color: #d1a3a3;
+    --selection-color: #84a8df;
     --shadow-color-1: rgba(255,255,255,0.08);
     --shadow-color-2: rgba(255,255,255,0.05);
     --shadow-hover-color: rgba(69,69,69,0.28);
@@ -5788,7 +5788,7 @@ pre .deletion {
     --note-black-title-bg: #1e1e1e;
     --note-purple-title-bg: #4e1e4e;
     --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
-    --first-screen-text-color: #d1d1b6;
+    --first-screen-text-color: #eee;
     --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
     --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
     --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -5803,7 +5803,7 @@ pre .deletion {
   --background-color-transparent: rgba(255,255,255,0.6);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
-  --primary-color: #c99;
+  --primary-color: #769edb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -5811,7 +5811,7 @@ pre .deletion {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #d1a3a3;
+  --selection-color: #84a8df;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -5847,7 +5847,7 @@ pre .deletion {
   --background-color-transparent: rgba(32,33,36,0.4);
   --second-background-color: #242529;
   --third-background-color: #292b2f;
-  --primary-color: #c99;
+  --primary-color: #769edb;
   --first-text-color: #d2d2d7;
   --second-text-color: #cbcbd1;
   --third-text-color: #9595a2;
@@ -5855,7 +5855,7 @@ pre .deletion {
   --default-text-color: #bebec6;
   --invert-text-color: #373d3f;
   --border-color: #4a4c53;
-  --selection-color: #d1a3a3;
+  --selection-color: #84a8df;
   --shadow-color-1: rgba(255,255,255,0.08);
   --shadow-color-2: rgba(255,255,255,0.05);
   --shadow-hover-color: rgba(69,69,69,0.28);
@@ -5877,7 +5877,7 @@ pre .deletion {
   --note-black-title-bg: #1e1e1e;
   --note-purple-title-bg: #4e1e4e;
   --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
-  --first-screen-text-color: #d1d1b6;
+  --first-screen-text-color: #eee;
   --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
   --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
   --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -6127,7 +6127,7 @@ pre .deletion {
   --background-color-transparent: rgba(255,255,255,0.6);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
-  --primary-color: #c99;
+  --primary-color: #769edb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -6135,7 +6135,7 @@ pre .deletion {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #d1a3a3;
+  --selection-color: #84a8df;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -6172,7 +6172,7 @@ pre .deletion {
     --background-color-transparent: rgba(255,255,255,0.6);
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
-    --primary-color: #c99;
+    --primary-color: #769edb;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
     --third-text-color: #5c6669;
@@ -6180,7 +6180,7 @@ pre .deletion {
     --default-text-color: #373d3f;
     --invert-text-color: #bebec6;
     --border-color: #b3b3b3;
-    --selection-color: #d1a3a3;
+    --selection-color: #84a8df;
     --shadow-color-1: rgba(0,0,0,0.08);
     --shadow-color-2: rgba(0,0,0,0.05);
     --shadow-hover-color: rgba(0,0,0,0.28);
@@ -6218,7 +6218,7 @@ pre .deletion {
     --background-color-transparent: rgba(32,33,36,0.4);
     --second-background-color: #242529;
     --third-background-color: #292b2f;
-    --primary-color: #c99;
+    --primary-color: #769edb;
     --first-text-color: #d2d2d7;
     --second-text-color: #cbcbd1;
     --third-text-color: #9595a2;
@@ -6226,7 +6226,7 @@ pre .deletion {
     --default-text-color: #bebec6;
     --invert-text-color: #373d3f;
     --border-color: #4a4c53;
-    --selection-color: #d1a3a3;
+    --selection-color: #84a8df;
     --shadow-color-1: rgba(255,255,255,0.08);
     --shadow-color-2: rgba(255,255,255,0.05);
     --shadow-hover-color: rgba(69,69,69,0.28);
@@ -6248,7 +6248,7 @@ pre .deletion {
     --note-black-title-bg: #1e1e1e;
     --note-purple-title-bg: #4e1e4e;
     --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
-    --first-screen-text-color: #d1d1b6;
+    --first-screen-text-color: #eee;
     --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
     --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
     --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -6263,7 +6263,7 @@ pre .deletion {
   --background-color-transparent: rgba(255,255,255,0.6);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
-  --primary-color: #c99;
+  --primary-color: #769edb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -6271,7 +6271,7 @@ pre .deletion {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #d1a3a3;
+  --selection-color: #84a8df;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -6307,7 +6307,7 @@ pre .deletion {
   --background-color-transparent: rgba(32,33,36,0.4);
   --second-background-color: #242529;
   --third-background-color: #292b2f;
-  --primary-color: #c99;
+  --primary-color: #769edb;
   --first-text-color: #d2d2d7;
   --second-text-color: #cbcbd1;
   --third-text-color: #9595a2;
@@ -6315,7 +6315,7 @@ pre .deletion {
   --default-text-color: #bebec6;
   --invert-text-color: #373d3f;
   --border-color: #4a4c53;
-  --selection-color: #d1a3a3;
+  --selection-color: #84a8df;
   --shadow-color-1: rgba(255,255,255,0.08);
   --shadow-color-2: rgba(255,255,255,0.05);
   --shadow-hover-color: rgba(69,69,69,0.28);
@@ -6337,7 +6337,7 @@ pre .deletion {
   --note-black-title-bg: #1e1e1e;
   --note-purple-title-bg: #4e1e4e;
   --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
-  --first-screen-text-color: #d1d1b6;
+  --first-screen-text-color: #eee;
   --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
   --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
   --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -6365,7 +6365,7 @@ pre .deletion {
 .first-screen-container .content .description {
   width: 100vw;
   font-weight: bold;
-  font-size: 2.5rem;
+  font-size: 2.4rem;
   line-height: 1.5;
   text-align: center;
   color: var(--first-screen-text-color);
@@ -6384,7 +6384,7 @@ pre .deletion {
 }
 @media (max-width: 780px) {
   .first-screen-container .content .description {
-    font-size: 2.25rem;
+    font-size: 2.16rem;
   }
 }
 .first-screen-container .content .social-contacts {
@@ -6509,7 +6509,7 @@ pre .deletion {
   --background-color-transparent: rgba(255,255,255,0.6);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
-  --primary-color: #c99;
+  --primary-color: #769edb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -6517,7 +6517,7 @@ pre .deletion {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #d1a3a3;
+  --selection-color: #84a8df;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -6554,7 +6554,7 @@ pre .deletion {
     --background-color-transparent: rgba(255,255,255,0.6);
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
-    --primary-color: #c99;
+    --primary-color: #769edb;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
     --third-text-color: #5c6669;
@@ -6562,7 +6562,7 @@ pre .deletion {
     --default-text-color: #373d3f;
     --invert-text-color: #bebec6;
     --border-color: #b3b3b3;
-    --selection-color: #d1a3a3;
+    --selection-color: #84a8df;
     --shadow-color-1: rgba(0,0,0,0.08);
     --shadow-color-2: rgba(0,0,0,0.05);
     --shadow-hover-color: rgba(0,0,0,0.28);
@@ -6600,7 +6600,7 @@ pre .deletion {
     --background-color-transparent: rgba(32,33,36,0.4);
     --second-background-color: #242529;
     --third-background-color: #292b2f;
-    --primary-color: #c99;
+    --primary-color: #769edb;
     --first-text-color: #d2d2d7;
     --second-text-color: #cbcbd1;
     --third-text-color: #9595a2;
@@ -6608,7 +6608,7 @@ pre .deletion {
     --default-text-color: #bebec6;
     --invert-text-color: #373d3f;
     --border-color: #4a4c53;
-    --selection-color: #d1a3a3;
+    --selection-color: #84a8df;
     --shadow-color-1: rgba(255,255,255,0.08);
     --shadow-color-2: rgba(255,255,255,0.05);
     --shadow-hover-color: rgba(69,69,69,0.28);
@@ -6630,7 +6630,7 @@ pre .deletion {
     --note-black-title-bg: #1e1e1e;
     --note-purple-title-bg: #4e1e4e;
     --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
-    --first-screen-text-color: #d1d1b6;
+    --first-screen-text-color: #eee;
     --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
     --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
     --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -6645,7 +6645,7 @@ pre .deletion {
   --background-color-transparent: rgba(255,255,255,0.6);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
-  --primary-color: #c99;
+  --primary-color: #769edb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -6653,7 +6653,7 @@ pre .deletion {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #d1a3a3;
+  --selection-color: #84a8df;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -6689,7 +6689,7 @@ pre .deletion {
   --background-color-transparent: rgba(32,33,36,0.4);
   --second-background-color: #242529;
   --third-background-color: #292b2f;
-  --primary-color: #c99;
+  --primary-color: #769edb;
   --first-text-color: #d2d2d7;
   --second-text-color: #cbcbd1;
   --third-text-color: #9595a2;
@@ -6697,7 +6697,7 @@ pre .deletion {
   --default-text-color: #bebec6;
   --invert-text-color: #373d3f;
   --border-color: #4a4c53;
-  --selection-color: #d1a3a3;
+  --selection-color: #84a8df;
   --shadow-color-1: rgba(255,255,255,0.08);
   --shadow-color-2: rgba(255,255,255,0.05);
   --shadow-hover-color: rgba(69,69,69,0.28);
@@ -6719,7 +6719,7 @@ pre .deletion {
   --note-black-title-bg: #1e1e1e;
   --note-purple-title-bg: #4e1e4e;
   --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
-  --first-screen-text-color: #d1d1b6;
+  --first-screen-text-color: #eee;
   --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
   --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
   --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -6839,7 +6839,7 @@ pre .deletion {
   --background-color-transparent: rgba(255,255,255,0.6);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
-  --primary-color: #c99;
+  --primary-color: #769edb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -6847,7 +6847,7 @@ pre .deletion {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #d1a3a3;
+  --selection-color: #84a8df;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -6884,7 +6884,7 @@ pre .deletion {
     --background-color-transparent: rgba(255,255,255,0.6);
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
-    --primary-color: #c99;
+    --primary-color: #769edb;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
     --third-text-color: #5c6669;
@@ -6892,7 +6892,7 @@ pre .deletion {
     --default-text-color: #373d3f;
     --invert-text-color: #bebec6;
     --border-color: #b3b3b3;
-    --selection-color: #d1a3a3;
+    --selection-color: #84a8df;
     --shadow-color-1: rgba(0,0,0,0.08);
     --shadow-color-2: rgba(0,0,0,0.05);
     --shadow-hover-color: rgba(0,0,0,0.28);
@@ -6930,7 +6930,7 @@ pre .deletion {
     --background-color-transparent: rgba(32,33,36,0.4);
     --second-background-color: #242529;
     --third-background-color: #292b2f;
-    --primary-color: #c99;
+    --primary-color: #769edb;
     --first-text-color: #d2d2d7;
     --second-text-color: #cbcbd1;
     --third-text-color: #9595a2;
@@ -6938,7 +6938,7 @@ pre .deletion {
     --default-text-color: #bebec6;
     --invert-text-color: #373d3f;
     --border-color: #4a4c53;
-    --selection-color: #d1a3a3;
+    --selection-color: #84a8df;
     --shadow-color-1: rgba(255,255,255,0.08);
     --shadow-color-2: rgba(255,255,255,0.05);
     --shadow-hover-color: rgba(69,69,69,0.28);
@@ -6960,7 +6960,7 @@ pre .deletion {
     --note-black-title-bg: #1e1e1e;
     --note-purple-title-bg: #4e1e4e;
     --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
-    --first-screen-text-color: #d1d1b6;
+    --first-screen-text-color: #eee;
     --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
     --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
     --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -6975,7 +6975,7 @@ pre .deletion {
   --background-color-transparent: rgba(255,255,255,0.6);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
-  --primary-color: #c99;
+  --primary-color: #769edb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -6983,7 +6983,7 @@ pre .deletion {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #d1a3a3;
+  --selection-color: #84a8df;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -7019,7 +7019,7 @@ pre .deletion {
   --background-color-transparent: rgba(32,33,36,0.4);
   --second-background-color: #242529;
   --third-background-color: #292b2f;
-  --primary-color: #c99;
+  --primary-color: #769edb;
   --first-text-color: #d2d2d7;
   --second-text-color: #cbcbd1;
   --third-text-color: #9595a2;
@@ -7027,7 +7027,7 @@ pre .deletion {
   --default-text-color: #bebec6;
   --invert-text-color: #373d3f;
   --border-color: #4a4c53;
-  --selection-color: #d1a3a3;
+  --selection-color: #84a8df;
   --shadow-color-1: rgba(255,255,255,0.08);
   --shadow-color-2: rgba(255,255,255,0.05);
   --shadow-hover-color: rgba(69,69,69,0.28);
@@ -7049,7 +7049,7 @@ pre .deletion {
   --note-black-title-bg: #1e1e1e;
   --note-purple-title-bg: #4e1e4e;
   --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
-  --first-screen-text-color: #d1d1b6;
+  --first-screen-text-color: #eee;
   --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
   --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
   --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -7200,12 +7200,12 @@ pre .deletion {
 }
 @media (max-width: 500px) {
   .home-content-container .home-article-list .home-article-item .home-article-meta-info-container .home-article-meta-info .home-article-category {
-    display: none;
+    display: inline;
   }
 }
 @media (max-width: 780px) {
   .home-content-container .home-article-list .home-article-item .home-article-meta-info-container .home-article-meta-info .home-article-tag {
-    display: none;
+    display: inline;
   }
 }
 .home-content-container .home-article-list .home-article-item .home-article-meta-info-container hr {
@@ -7259,7 +7259,7 @@ pre .deletion {
   --background-color-transparent: rgba(255,255,255,0.6);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
-  --primary-color: #c99;
+  --primary-color: #769edb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -7267,7 +7267,7 @@ pre .deletion {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #d1a3a3;
+  --selection-color: #84a8df;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -7304,7 +7304,7 @@ pre .deletion {
     --background-color-transparent: rgba(255,255,255,0.6);
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
-    --primary-color: #c99;
+    --primary-color: #769edb;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
     --third-text-color: #5c6669;
@@ -7312,7 +7312,7 @@ pre .deletion {
     --default-text-color: #373d3f;
     --invert-text-color: #bebec6;
     --border-color: #b3b3b3;
-    --selection-color: #d1a3a3;
+    --selection-color: #84a8df;
     --shadow-color-1: rgba(0,0,0,0.08);
     --shadow-color-2: rgba(0,0,0,0.05);
     --shadow-hover-color: rgba(0,0,0,0.28);
@@ -7350,7 +7350,7 @@ pre .deletion {
     --background-color-transparent: rgba(32,33,36,0.4);
     --second-background-color: #242529;
     --third-background-color: #292b2f;
-    --primary-color: #c99;
+    --primary-color: #769edb;
     --first-text-color: #d2d2d7;
     --second-text-color: #cbcbd1;
     --third-text-color: #9595a2;
@@ -7358,7 +7358,7 @@ pre .deletion {
     --default-text-color: #bebec6;
     --invert-text-color: #373d3f;
     --border-color: #4a4c53;
-    --selection-color: #d1a3a3;
+    --selection-color: #84a8df;
     --shadow-color-1: rgba(255,255,255,0.08);
     --shadow-color-2: rgba(255,255,255,0.05);
     --shadow-hover-color: rgba(69,69,69,0.28);
@@ -7380,7 +7380,7 @@ pre .deletion {
     --note-black-title-bg: #1e1e1e;
     --note-purple-title-bg: #4e1e4e;
     --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
-    --first-screen-text-color: #d1d1b6;
+    --first-screen-text-color: #eee;
     --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
     --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
     --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -7395,7 +7395,7 @@ pre .deletion {
   --background-color-transparent: rgba(255,255,255,0.6);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
-  --primary-color: #c99;
+  --primary-color: #769edb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -7403,7 +7403,7 @@ pre .deletion {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #d1a3a3;
+  --selection-color: #84a8df;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -7439,7 +7439,7 @@ pre .deletion {
   --background-color-transparent: rgba(32,33,36,0.4);
   --second-background-color: #242529;
   --third-background-color: #292b2f;
-  --primary-color: #c99;
+  --primary-color: #769edb;
   --first-text-color: #d2d2d7;
   --second-text-color: #cbcbd1;
   --third-text-color: #9595a2;
@@ -7447,7 +7447,7 @@ pre .deletion {
   --default-text-color: #bebec6;
   --invert-text-color: #373d3f;
   --border-color: #4a4c53;
-  --selection-color: #d1a3a3;
+  --selection-color: #84a8df;
   --shadow-color-1: rgba(255,255,255,0.08);
   --shadow-color-2: rgba(255,255,255,0.05);
   --shadow-hover-color: rgba(69,69,69,0.28);
@@ -7469,7 +7469,7 @@ pre .deletion {
   --note-black-title-bg: #1e1e1e;
   --note-purple-title-bg: #4e1e4e;
   --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
-  --first-screen-text-color: #d1d1b6;
+  --first-screen-text-color: #eee;
   --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
   --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
   --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -7959,7 +7959,7 @@ pre .deletion {
   --background-color-transparent: rgba(255,255,255,0.6);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
-  --primary-color: #c99;
+  --primary-color: #769edb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -7967,7 +7967,7 @@ pre .deletion {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #d1a3a3;
+  --selection-color: #84a8df;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -8004,7 +8004,7 @@ pre .deletion {
     --background-color-transparent: rgba(255,255,255,0.6);
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
-    --primary-color: #c99;
+    --primary-color: #769edb;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
     --third-text-color: #5c6669;
@@ -8012,7 +8012,7 @@ pre .deletion {
     --default-text-color: #373d3f;
     --invert-text-color: #bebec6;
     --border-color: #b3b3b3;
-    --selection-color: #d1a3a3;
+    --selection-color: #84a8df;
     --shadow-color-1: rgba(0,0,0,0.08);
     --shadow-color-2: rgba(0,0,0,0.05);
     --shadow-hover-color: rgba(0,0,0,0.28);
@@ -8050,7 +8050,7 @@ pre .deletion {
     --background-color-transparent: rgba(32,33,36,0.4);
     --second-background-color: #242529;
     --third-background-color: #292b2f;
-    --primary-color: #c99;
+    --primary-color: #769edb;
     --first-text-color: #d2d2d7;
     --second-text-color: #cbcbd1;
     --third-text-color: #9595a2;
@@ -8058,7 +8058,7 @@ pre .deletion {
     --default-text-color: #bebec6;
     --invert-text-color: #373d3f;
     --border-color: #4a4c53;
-    --selection-color: #d1a3a3;
+    --selection-color: #84a8df;
     --shadow-color-1: rgba(255,255,255,0.08);
     --shadow-color-2: rgba(255,255,255,0.05);
     --shadow-hover-color: rgba(69,69,69,0.28);
@@ -8080,7 +8080,7 @@ pre .deletion {
     --note-black-title-bg: #1e1e1e;
     --note-purple-title-bg: #4e1e4e;
     --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
-    --first-screen-text-color: #d1d1b6;
+    --first-screen-text-color: #eee;
     --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
     --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
     --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -8095,7 +8095,7 @@ pre .deletion {
   --background-color-transparent: rgba(255,255,255,0.6);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
-  --primary-color: #c99;
+  --primary-color: #769edb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -8103,7 +8103,7 @@ pre .deletion {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #d1a3a3;
+  --selection-color: #84a8df;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -8139,7 +8139,7 @@ pre .deletion {
   --background-color-transparent: rgba(32,33,36,0.4);
   --second-background-color: #242529;
   --third-background-color: #292b2f;
-  --primary-color: #c99;
+  --primary-color: #769edb;
   --first-text-color: #d2d2d7;
   --second-text-color: #cbcbd1;
   --third-text-color: #9595a2;
@@ -8147,7 +8147,7 @@ pre .deletion {
   --default-text-color: #bebec6;
   --invert-text-color: #373d3f;
   --border-color: #4a4c53;
-  --selection-color: #d1a3a3;
+  --selection-color: #84a8df;
   --shadow-color-1: rgba(255,255,255,0.08);
   --shadow-color-2: rgba(255,255,255,0.05);
   --shadow-hover-color: rgba(69,69,69,0.28);
@@ -8169,7 +8169,7 @@ pre .deletion {
   --note-black-title-bg: #1e1e1e;
   --note-purple-title-bg: #4e1e4e;
   --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
-  --first-screen-text-color: #d1d1b6;
+  --first-screen-text-color: #eee;
   --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
   --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
   --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -8237,7 +8237,7 @@ pre .deletion {
   --background-color-transparent: rgba(255,255,255,0.6);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
-  --primary-color: #c99;
+  --primary-color: #769edb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -8245,7 +8245,7 @@ pre .deletion {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #d1a3a3;
+  --selection-color: #84a8df;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -8282,7 +8282,7 @@ pre .deletion {
     --background-color-transparent: rgba(255,255,255,0.6);
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
-    --primary-color: #c99;
+    --primary-color: #769edb;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
     --third-text-color: #5c6669;
@@ -8290,7 +8290,7 @@ pre .deletion {
     --default-text-color: #373d3f;
     --invert-text-color: #bebec6;
     --border-color: #b3b3b3;
-    --selection-color: #d1a3a3;
+    --selection-color: #84a8df;
     --shadow-color-1: rgba(0,0,0,0.08);
     --shadow-color-2: rgba(0,0,0,0.05);
     --shadow-hover-color: rgba(0,0,0,0.28);
@@ -8328,7 +8328,7 @@ pre .deletion {
     --background-color-transparent: rgba(32,33,36,0.4);
     --second-background-color: #242529;
     --third-background-color: #292b2f;
-    --primary-color: #c99;
+    --primary-color: #769edb;
     --first-text-color: #d2d2d7;
     --second-text-color: #cbcbd1;
     --third-text-color: #9595a2;
@@ -8336,7 +8336,7 @@ pre .deletion {
     --default-text-color: #bebec6;
     --invert-text-color: #373d3f;
     --border-color: #4a4c53;
-    --selection-color: #d1a3a3;
+    --selection-color: #84a8df;
     --shadow-color-1: rgba(255,255,255,0.08);
     --shadow-color-2: rgba(255,255,255,0.05);
     --shadow-hover-color: rgba(69,69,69,0.28);
@@ -8358,7 +8358,7 @@ pre .deletion {
     --note-black-title-bg: #1e1e1e;
     --note-purple-title-bg: #4e1e4e;
     --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
-    --first-screen-text-color: #d1d1b6;
+    --first-screen-text-color: #eee;
     --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
     --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
     --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -8373,7 +8373,7 @@ pre .deletion {
   --background-color-transparent: rgba(255,255,255,0.6);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
-  --primary-color: #c99;
+  --primary-color: #769edb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -8381,7 +8381,7 @@ pre .deletion {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #d1a3a3;
+  --selection-color: #84a8df;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -8417,7 +8417,7 @@ pre .deletion {
   --background-color-transparent: rgba(32,33,36,0.4);
   --second-background-color: #242529;
   --third-background-color: #292b2f;
-  --primary-color: #c99;
+  --primary-color: #769edb;
   --first-text-color: #d2d2d7;
   --second-text-color: #cbcbd1;
   --third-text-color: #9595a2;
@@ -8425,7 +8425,7 @@ pre .deletion {
   --default-text-color: #bebec6;
   --invert-text-color: #373d3f;
   --border-color: #4a4c53;
-  --selection-color: #d1a3a3;
+  --selection-color: #84a8df;
   --shadow-color-1: rgba(255,255,255,0.08);
   --shadow-color-2: rgba(255,255,255,0.05);
   --shadow-hover-color: rgba(69,69,69,0.28);
@@ -8447,7 +8447,7 @@ pre .deletion {
   --note-black-title-bg: #1e1e1e;
   --note-purple-title-bg: #4e1e4e;
   --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
-  --first-screen-text-color: #d1d1b6;
+  --first-screen-text-color: #eee;
   --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
   --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
   --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -8644,7 +8644,7 @@ pre .deletion {
   --background-color-transparent: rgba(255,255,255,0.6);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
-  --primary-color: #c99;
+  --primary-color: #769edb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -8652,7 +8652,7 @@ pre .deletion {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #d1a3a3;
+  --selection-color: #84a8df;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -8689,7 +8689,7 @@ pre .deletion {
     --background-color-transparent: rgba(255,255,255,0.6);
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
-    --primary-color: #c99;
+    --primary-color: #769edb;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
     --third-text-color: #5c6669;
@@ -8697,7 +8697,7 @@ pre .deletion {
     --default-text-color: #373d3f;
     --invert-text-color: #bebec6;
     --border-color: #b3b3b3;
-    --selection-color: #d1a3a3;
+    --selection-color: #84a8df;
     --shadow-color-1: rgba(0,0,0,0.08);
     --shadow-color-2: rgba(0,0,0,0.05);
     --shadow-hover-color: rgba(0,0,0,0.28);
@@ -8735,7 +8735,7 @@ pre .deletion {
     --background-color-transparent: rgba(32,33,36,0.4);
     --second-background-color: #242529;
     --third-background-color: #292b2f;
-    --primary-color: #c99;
+    --primary-color: #769edb;
     --first-text-color: #d2d2d7;
     --second-text-color: #cbcbd1;
     --third-text-color: #9595a2;
@@ -8743,7 +8743,7 @@ pre .deletion {
     --default-text-color: #bebec6;
     --invert-text-color: #373d3f;
     --border-color: #4a4c53;
-    --selection-color: #d1a3a3;
+    --selection-color: #84a8df;
     --shadow-color-1: rgba(255,255,255,0.08);
     --shadow-color-2: rgba(255,255,255,0.05);
     --shadow-hover-color: rgba(69,69,69,0.28);
@@ -8765,7 +8765,7 @@ pre .deletion {
     --note-black-title-bg: #1e1e1e;
     --note-purple-title-bg: #4e1e4e;
     --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
-    --first-screen-text-color: #d1d1b6;
+    --first-screen-text-color: #eee;
     --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
     --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
     --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -8780,7 +8780,7 @@ pre .deletion {
   --background-color-transparent: rgba(255,255,255,0.6);
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
-  --primary-color: #c99;
+  --primary-color: #769edb;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -8788,7 +8788,7 @@ pre .deletion {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: #b3b3b3;
-  --selection-color: #d1a3a3;
+  --selection-color: #84a8df;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -8824,7 +8824,7 @@ pre .deletion {
   --background-color-transparent: rgba(32,33,36,0.4);
   --second-background-color: #242529;
   --third-background-color: #292b2f;
-  --primary-color: #c99;
+  --primary-color: #769edb;
   --first-text-color: #d2d2d7;
   --second-text-color: #cbcbd1;
   --third-text-color: #9595a2;
@@ -8832,7 +8832,7 @@ pre .deletion {
   --default-text-color: #bebec6;
   --invert-text-color: #373d3f;
   --border-color: #4a4c53;
-  --selection-color: #d1a3a3;
+  --selection-color: #84a8df;
   --shadow-color-1: rgba(255,255,255,0.08);
   --shadow-color-2: rgba(255,255,255,0.05);
   --shadow-hover-color: rgba(69,69,69,0.28);
@@ -8854,7 +8854,7 @@ pre .deletion {
   --note-black-title-bg: #1e1e1e;
   --note-purple-title-bg: #4e1e4e;
   --first-screen-img: url("/images/wallhaven-wqery6-dark.webp");
-  --first-screen-text-color: #d1d1b6;
+  --first-screen-text-color: #eee;
   --first-screen-icons-container-border-color: rgba(197,197,197,0.35);
   --first-screen-icons-container-background-color: rgba(197,197,197,0.3);
   --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
