@@ -967,6 +967,7 @@ button {
 @media (max-width: 780px) {
   .markdown-body h2 {
     font-size: 1.6rem;
+    font-weight: 600;
   }
 }
 .markdown-body h3 {
