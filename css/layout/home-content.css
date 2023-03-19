@@ -334,7 +334,7 @@
 }
 @media (max-width: 780px) {
   .home-content-container .home-article-list .home-article-item .home-article-meta-info-container .home-article-meta-info .home-article-tag {
-    display: inline;
+    display: flex;
   }
 }
 .home-content-container .home-article-list .home-article-item .home-article-meta-info-container hr {
