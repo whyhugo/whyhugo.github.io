@@ -1,40 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Beta1</title>
-    <url>/2023/01/31/beta1/</url>
-    <content><![CDATA[<h1 id="title1"><a href="#title1" class="headerlink" title="title1"></a>title1</h1><p>text</p>
-<h2 id="title2"><a href="#title2" class="headerlink" title="title2"></a>title2</h2><ul>
-<li>text<ul>
-<li>jj</li>
-</ul>
-</li>
-<li>jj</li>
-</ul>
-<h3 id="title3"><a href="#title3" class="headerlink" title="title3"></a>title3</h3>]]></content>
-      <tags>
-        <tag>測試</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/2023/03/08/undefined/</url>
-    <content><![CDATA[<p>Welcome to <a class="link"   href="https://hexo.io/" >Hexo <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>! This is your very first post. Check <a class="link"   href="https://hexo.io/docs/" >documentation <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> for more info. If you get any problems when using Hexo, you can find the answer in <a class="link"   href="https://hexo.io/docs/troubleshooting.html" >troubleshooting <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> or you can ask me on <a class="link"   href="https://github.com/hexojs/hexo/issues" >GitHub <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure></div>
-
-<p>More info: <a class="link"   href="https://hexo.io/docs/writing.html" >Writing <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure></div>
-
-<p>More info: <a class="link"   href="https://hexo.io/docs/server.html" >Server <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure></div>
-
-<p>More info: <a class="link"   href="https://hexo.io/docs/generating.html" >Generating <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure></div>
-
-<p>More info: <a class="link"   href="https://hexo.io/docs/one-command-deployment.html" >Deployment <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>2022臺灣國際科展心得</title>
     <url>/2022/02/01/2022%E8%87%BA%E7%81%A3%E5%9C%8B%E9%9A%9B%E7%A7%91%E5%B1%95%E5%BF%83%E5%BE%97/</url>
     <content><![CDATA[<blockquote>
@@ -63,28 +29,6 @@
         <tag>專題研究</tag>
         <tag>NLP</tag>
         <tag>人工智慧</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Beta</title>
-    <url>/2023/01/29/beta/</url>
-    <content><![CDATA[<h1 id="title1"><a href="#title1" class="headerlink" title="title1"></a>title1</h1><hr>
-<p>text</p>
-<h2 id="title2"><a href="#title2" class="headerlink" title="title2"></a>title2</h2><ul>
-<li>text<ul>
-<li>jj</li>
-</ul>
-</li>
-<li>jj</li>
-</ul>
-<h3 id="title3"><a href="#title3" class="headerlink" title="title3"></a>title3</h3>]]></content>
-      <categories>
-        <category>beta</category>
-      </categories>
-      <tags>
-        <tag>測試1</tag>
-        <tag>測試2</tag>
-        <tag>測試3</tag>
       </tags>
   </entry>
 </search>
