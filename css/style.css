@@ -832,8 +832,10 @@ button {
   clear: both;
 }
 .markdown-body {
-  font-family: 'Open Sans', 'Noto Sans', sans-serif, 'Noto Sans SC', sans-serif, sans-serif;
-  font-size: 1rem;
+  font-family: sans-serif, 'Open Sans', 'Noto Sans', sans-serif, 'Noto Sans SC', sans-serif;
+  font-size: 16px;
+  letter-spacing: 0.02em;
+  font-weight: 400;
 }
 .markdown-body blockquote {
   box-sizing: border-box;
@@ -851,7 +853,7 @@ button {
   padding: 5px 5px 5px 10px;
 }
 .markdown-body p {
-  line-height: 1.5;
+  line-height: 1.6;
   color: var(--default-text-color);
   margin-bottom: 1rem;
   margin-top: 0;
@@ -945,7 +947,7 @@ button {
   }
 }
 .markdown-body h1 {
-  font-size: 3.2rem;
+  font-size: 1.75rem;
   font-weight: 600;
   border-bottom: solid 2px var(--fourth-text-color);
   margin-top: 5rem;
@@ -956,7 +958,7 @@ button {
   }
 }
 .markdown-body h2 {
-  font-size: 2.5rem;
+  font-size: 1.5rem;
   font-weight: 600;
   padding: 3px 0;
   border-bottom: solid 2px var(--fourth-text-color);
@@ -968,7 +970,7 @@ button {
   }
 }
 .markdown-body h3 {
-  font-size: 1.8rem;
+  font-size: 1.25rem;
   font-weight: 550;
   margin-top: 2.8rem;
 }
@@ -978,7 +980,7 @@ button {
   }
 }
 .markdown-body h4 {
-  font-size: 1.5rem;
+  font-size: 1rem;
   font-weight: 550;
   margin-top: 2.5rem;
 }
@@ -988,7 +990,7 @@ button {
   }
 }
 .markdown-body h5 {
-  font-size: 1.28rem;
+  font-size: 0.75rem;
   font-weight: 550;
   margin-top: 2.2rem;
 }
@@ -998,7 +1000,7 @@ button {
   }
 }
 .markdown-body h6 {
-  font-size: 1.2rem;
+  font-size: 0.5rem;
   font-weight: 550;
   line-height: 1.2;
   margin-top: 2rem;
@@ -7665,7 +7667,7 @@ pre .deletion {
   }
 }
 .post-page-container .article-content-container .article-title .article-title-regular {
-  font-size: 3.2rem;
+  font-size: 2.5rem;
   font-weight: bold;
   margin: 10px 0 30px 0;
   line-height: 1;
@@ -7683,7 +7685,7 @@ pre .deletion {
   text-align: center;
   font-family: 'Open Sans', 'Noto Sans', sans-serif, 'Noto Sans SC', sans-serif, "Noto Sans SC", sans-serif;
   color: var(--second-text-color);
-  font-size: 3.2rem;
+  font-size: 2.5rem;
   font-weight: 600;
   background-color: var(--background-color-transparent);
   backdrop-filter: blur(10px);
@@ -7693,13 +7695,13 @@ pre .deletion {
 }
 @media (max-width: 780px) {
   .post-page-container .article-content-container .article-title .article-title-cover {
-    font-size: 2.56rem;
+    font-size: 2rem;
     bottom: 28.8px;
   }
 }
 @media (max-width: 500px) {
   .post-page-container .article-content-container .article-title .article-title-cover {
-    font-size: 1.92rem;
+    font-size: 1.5rem;
     bottom: 21.599999999999998px;
     border-radius: 14px;
   }
@@ -7773,7 +7775,6 @@ pre .deletion {
   word-wrap: break-word;
   border-bottom: 1px solid var(--border-color);
   color: var(--default-text-color);
-  font-size: 20px;
 }
 .post-page-container .article-content-container .article-content>:first-child {
   margin-top: 0 !important;
