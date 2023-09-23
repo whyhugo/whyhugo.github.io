@@ -38,109 +38,78 @@
       </tags>
   </entry>
   <entry>
-    <title>2022 臺灣國際科展心得</title>
-    <url>/2022/02/01/%E8%87%BA%E7%81%A3%E5%9C%8B%E9%9A%9B%E7%A7%91%E5%B1%95%E5%BF%83%E5%BE%97/</url>
-    <content><![CDATA[<blockquote>
-<p>2022 臺灣國際科展(TISF) 電腦科學與資訊工程科</p>
-</blockquote>
-<blockquote>
-<p>以深度學習與遷移學習防範社群媒體片面新聞訊息之研究<br><a class="link"   href="https://www.ntsec.edu.tw/science/detail.aspx?a=21&cat=19270&sid=19394" >https://www.ntsec.edu.tw/science/detail.aspx?a=21&amp;cat=19270&amp;sid=19394 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-</blockquote>
-<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>2022 TISF 台灣國際科學展覽會終於在 1&#x2F;28 落幕了，疫情的緣故原本為期五天的盛會取消了開幕典禮、孫維新教授講座、二階評審、許多交流活動等，閉幕典禮也改為線上，真的非常可惜讓整個活動感覺競賽大於實質交流，無法感受到往年的盛大，不過能有機會站上有科展界奧林匹亞選拔之稱的TISF舞台真的很開心也很榮幸。</p>
-<h2 id="是這樣開始的"><a href="#是這樣開始的" class="headerlink" title="是這樣開始的"></a>是這樣開始的</h2><p>參與 TISF 的機緣得從 2021 年 4 月說起，當時在楊博欽學長推薦下半推半就的決定參加未來之星培訓計畫甄選，那幾個月在子儀老師的指導以及國內疫情“幫助”得以居家上課的情形下完成了研究計畫書，錄取培訓營隊後經過提案報告選拔也順利獲得媒合專家指導的機會；當時大概八、九月整個 NLP 研究計畫還欠缺許多細節的考量，更嚴重的是連 train data 都還沒有，接下來一個半月陸續看了許多 references，也和教授、學長討論了不少研究方向與細節，一番爆肝的努力下，在 10 月底 2022 TISF 報名截止前趕出一份研究報告書，整份報告書中我非常清楚計畫與方法大於研究成果（講難聽可能有點像幹話書😅），繳件完成後第一點我估計初審就會被刷掉、第二點我已經脫鉤課業有點久、第三點社團大小雜事、第四點緊接著還有已經答應要參加的 AIdea，因此 TISF 的研究被我完全置之一旁；</p>
-<h2 id="意外進入複試"><a href="#意外進入複試" class="headerlink" title="意外進入複試"></a>意外進入複試</h2><p>直到 12 月初公告進入複審的名單，自己的研究出現在 18 件電腦科學類作品當中才開始重啟研究工作，處理好前期的一些程序，年底前正式全面開始進行研究，經過從跨年連假一路到 1&#x2F;23 連續整整一個月不曾間斷、沒日沒夜、無數個累倒趴在書桌與電腦共度夜晚的努力完成了整個研究，雖說成果的規模比起預期縮減一些但過程中能克服那麼多不論硬體或是軟體的困難、一個人完成研究報告書、英文簡報、解說影片、海報等，能走到這真的十分感動。</p>
-<h2 id="無悔足矣"><a href="#無悔足矣" class="headerlink" title="無悔足矣"></a>無悔足矣</h2><p>至於最終的結果雖然沒如願以償抱回那夢寐以求的大會獎，看著同為培訓計畫的同學榮獲大獎、國手代表……難免有些感觸，說失敗不如說是彌足珍貴的經驗，相信這不只是為我高中生涯添上不朽的一筆更是未來路上美麗且無可取代的傷痕； 2022 TISF 我一直視為高中生涯最重要的一戰同時也是學測前的最終戰，從去年一路上經歷這些努力、困難、酸甜苦辣、現實的困境……，如今卻又再次與榮耀甚至是升學的機會擦身而過，這個學期更是放掉了段考、一些必修學分😅，或許這次你說我賭輸了，可惜嗎？後悔嗎？「不」，因為我認為不做不嘗試我才會後悔，能有勇氣與熱情完成一個自己熱衷的領域與專題，更能在有生之年最後一次機會踏上 TISF 的殿堂，不論是否得獎真的已經非常開心，就算能重新來過我依然會選擇這條「無悔」的路，渴望在追尋目標的路途留下些什麼，就像日曆即便撕下後也會留下殘膠一般，而且我想我可以做的更好！（這次的缺失檢討以及其他技術面的經驗我就留到之後分享啦~）</p>
-<h2 id="致謝"><a href="#致謝" class="headerlink" title="致謝"></a>致謝</h2><p>雖說這次研究是一個人，但我要感謝以下這些我最強隊友們的扶持，首先特別特別感謝國立臺灣科技大學資訊工程學系 鮑興國教授、Machine Learning Lab 選庭學長、北醫 NLP Lab 子儀學姐一路以來的細心指導、照顧、支持以及鼓勵，即便半夜一兩點依然無償的陪我討論研究、修改英文稿、借我 TWCC 的資源，讓我遇到困境時總是能迎刃而解，同時也使我在過程中不斷成長、進步；感謝國立臺灣大學電機工程學系、聯發科技教育基金會與國立臺灣科教館辦理培訓營隊、並且對我研究主題的青睞、給予我媒合教授指導的機會以及研究經費；再來要感謝政大附中珮安老師、秀帆老師、于珊老師、芝敏老師、建隆老師在即便學校砍掉許多資源的情形下一直以來的協助、支持與勉勵、盡可能借我設備、替我說服爸媽的擔憂、更為我處理好行政上的大小事；最後感謝所有過去曾經在資訊領域、科學領域、科展研究幫助、指導過我的師長、前輩、合作過的隊友以及總是在我失落時給予我鼓勵與掌聲的同學們！（最後感謝我超 carry 的筆電，研究期間從未關機、休息，辛苦了！😁）</p>
-<blockquote>
-<p>願未來的道路即使崎嶇蜿蜒，你依然不畏艱難持續前行！</p>
-</blockquote>
-<blockquote>
-<p>「每當我遲疑 從不曾忘記 活在我心深處 那頑固的自己」——五月天《頑固》</p>
-</blockquote>
+    <title>112 特殊選才｜熱門校系簡章彙整</title>
+    <url>/2022/12/18/%E7%89%B9%E6%AE%8A%E9%81%B8%E6%89%8D%E7%B0%A1%E7%AB%A0/</url>
+    <content><![CDATA[<p>今年度特殊選才招生在近期即將邁入尾聲~<br>這次彙整今年度有招收不分系、電資學系的熱門校系簡章跟大家分享，<br>給各位學弟妹參考招生方式與資格，<br>資工、不分系從特選開辦以來一直穩坐報名人數龍頭，競爭強度更是海放他系🥵<br>有計畫想嘗試的人可以盡早準備充實自己！</p>
+<h2 id="🗂️檔案連結"><a href="#🗂️檔案連結" class="headerlink" title="🗂️檔案連結"></a>🗂️檔案連結</h2><table>
+<thead>
+<tr>
+<th>學校簡章</th>
+<th>學校簡章</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><a class="link"   href="https://drive.google.com/file/d/1MvSx-yugc1fsDHP-sUS6-nCELFgFKKo5/view?usp=sharing" >國立臺灣大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+<td><a class="link"   href="https://drive.google.com/file/d/12dQeETKWSMecNmpsfHHqukKDbBhGs7Mz/view?usp=sharing" >國立中山大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+</tr>
+<tr>
+<td><a class="link"   href="https://drive.google.com/file/d/1shx2jgua5xMZRdFFwgsf_gvp6Z-pL9Hy/view?usp=sharing" >國立臺灣師範大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+<td><a class="link"   href="https://drive.google.com/file/d/1ylJTXJRA5oet7tASjjodyPlk1Z1RKEmS/view?usp=sharing" >國立中正大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+</tr>
+<tr>
+<td><a class="link"   href="https://drive.google.com/file/d/1f37NdnIMhx3Yb5s0Ooj1matulp9L_x0N/view?usp=sharing" >國立中興大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+<td><a class="link"   href="https://drive.google.com/file/d/1yE3cIz5e_PHDtrGlzOy-3h2ql3YAunSt/view?usp=sharing" >國立東華大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+</tr>
+<tr>
+<td><a class="link"   href="https://drive.google.com/file/d/19dDLmJlSu2cOUDual4X0cQ5rQMGZDXqY/view?usp=sharing" >國立成功大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+<td><a class="link"   href="https://drive.google.com/file/d/1WL8qf7xXZkfhyeTt8qBaNbFJ7awVf6ho/view?usp=sharing" >國立台北大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+</tr>
+<tr>
+<td><a class="link"   href="https://drive.google.com/file/d/1A65houjakXAo6vIPtcOFi094XYuW63cA/view?usp=sharing" >國立政治大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+<td><a class="link"   href="https://drive.google.com/file/d/13scHH-5mvW7UaMueoQTiMhg9TUbFjgnQ/view?usp=sharing" >中原大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+</tr>
+<tr>
+<td><a class="link"   href="https://drive.google.com/file/d/1gZDLHHhQ1_lbeb7NBSS7vV7xtNF8AeSq/view?usp=sharing" >國立清華大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+<td><a class="link"   href="https://drive.google.com/file/d/1rzvwcJF0odeOFMSojnJH2Lt9oTtpFf1O/view?usp=sharing" >逢甲大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+</tr>
+<tr>
+<td><a class="link"   href="https://drive.google.com/file/d/1100pUIf64_wEO1O5vlv_hsQU3aQEjQMu/view?usp=sharing" >國立陽明交通大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+<td><a class="link"   href="https://drive.google.com/file/d/1wB3-8U6kl88_DrxwkaiNCsk4j_sriXKk/view?usp=sharing" >輔仁大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+</tr>
+<tr>
+<td><a class="link"   href="https://drive.google.com/file/d/1qDoEAe8myagunjn-4NYgZb7pNe6hQI26/view?usp=sharing" >國立中央大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+<td><a class="link"   href="https://drive.google.com/file/d/1g7LkGeXlVBleEhgOsp7nNHgCaIU3hhwO/view?usp=sharing" >元智大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+</tr>
+<tr>
+<td><a class="link"   href="https://drive.google.com/file/d/1-uPFMQK2f6r01Vw9wpKWjeEladWonbgs/view?usp=sharing" >國立臺灣海洋大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+<td></td>
+</tr>
+</tbody></table>
+<h3 id="📑收錄："><a href="#📑收錄：" class="headerlink" title="📑收錄："></a>📑收錄：</h3><ul>
+<li>國立：中山、中央、中正、中興、北大、台大、臺師大、成大、東華、政大、海大、清大、陽明交大。</li>
+<li>私立：中原、元智、逢甲、輔仁。</li>
+</ul>
+<h3 id="💡觀看重點："><a href="#💡觀看重點：" class="headerlink" title="💡觀看重點："></a>💡觀看重點：</h3><ul>
+<li>學系報考資格</li>
+<li>計分項目</li>
+<li>報名日程先後：例如，中央歷年幾乎都會最早開始 (今年 9&#x2F;29~10&#x2F;5)，私校期程最長且最晚(逢甲今年 10&#x2F;24~11&#x2F;23)</li>
+<li>招收人數：每年變動不大，之後我會分享我整理好的更詳細的統計資料~</li>
+<li>資安外加名額：（配合國家資安培育資安學研人才計畫，首度辦理）今年有台、政、清、師、興、央、海</li>
+<li>抉擇考量：特選期程會跟學測準備期完全重疊，若是落榜 大機率要退守分科，是否保守走個申，把豐富的學習歷程留到二階，是一個值得討論的想法~  (而且若特選上了是不能參與繁星、個申、分發入學的喔)</li>
+</ul>
+<hr>
+<h3 id="相關連結"><a href="#相關連結" class="headerlink" title="相關連結"></a>相關連結</h3><ul>
+<li><a class="link"   href="https://drive.google.com/file/d/1I_4nXczCJbcGica2nqz62rwdrvc3QbQT/view?usp=sharing" >112 學年度大學辦理特殊選才招生計畫學校招生資訊 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://drive.google.com/file/d/1yl6SD626JX1nETaimg7GPvZutc-117jj/view?usp=sharing" >112 學年度大學辦理特殊選才招生-資安外加名額招生資訊 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a href="https://whyhugo.github.io/2023/03/27/%E7%89%B9%E6%AE%8A%E9%81%B8%E6%89%8D%E4%BA%BA%E6%95%B8%E6%95%B8%E6%93%9A/">112 特殊選才電資類學生熱門校系數據統計</a></li>
+</ul>
 ]]></content>
       <categories>
-        <category>專題開發</category>
+        <category>特殊選才</category>
       </categories>
       <tags>
-        <tag>科展</tag>
-        <tag>專題開發</tag>
-        <tag>NLP</tag>
-        <tag>機器學習</tag>
-        <tag>心得</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>My First CTF 2023｜心得</title>
-    <url>/2023/06/04/MyFirstCTF%E5%BF%83%E5%BE%97/</url>
-    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>進高中開始玩電資圈後就一直有想學資安的念頭，<br>但自學資源不易取得且入門門檻相對高，<br>於是就一頭栽入了 AI 領域；<br>直到剛好特選上岸後，有了相當長一段自由的時間，<br>於是這次決定來打一生一次的 My First CTF 2023。</p>
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/images/MyFirstCTF心得/20230513_094339.jpg"
-                      
-                >
-
-<h2 id="賽前"><a href="#賽前" class="headerlink" title="賽前"></a>賽前</h2><p>我很早以前大概就知道 CTF 競賽的概念，<br>大概就是類似用程式解謎獲得 flag 提交後得分，<br>（My First CTF 屬於 Jeopardy 類型的比賽，基本上目前國內給高中生的競賽都是此類）<br>不過究竟是如何實作我實在是毫無頭緒，<br>在網路上蒐集一些資料後開始在 picoCTF 上刷題。</p>
-<p>👇以下也附上幾個蠻多人推薦的練習網站 &amp; 資源~</p>
-<ul>
-<li><a class="link"   href="https://picoctf.org/" >picoCTF <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link"   href="https://www.ctfhub.com/#/index" >CTFHub <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link"   href="https://lotuxctf.com/" >LoTuX CTF <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link"   href="https://ctflearn.com/" >CTFLEARN <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link"   href="https://hackmd.io/@hSnxK9vjScK81ezlVUOpZA/HyS2ErKm9?print-pdf#/" >資安 X CTF的介紹 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link"   href="https://infosecdecompress.com/posts/patches_study_resources_for_cybersecurity?fbclid=IwAR0kRJjlsHsx8dX9GyFPiw2PeURMgBAL6pG4rFyk0NfWB4OzMS1yJc_ZALo" >資安學習資源包 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link"   href="https://github.com/Ice1187/TW-Security-and-CTF-Resource" >台灣資安 &#x2F; CTF 學習資源整理 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link"   href="https://github.com/ktecv2000/How-to-play-CTF" >How to play CTF <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-</ul>
-<p>由於賽前這幾週有些忙碌，<br>最終只刷了 General Skill 480 分，<br>基本上只有很 basic 的下指令能力而已，<br>而且其中蠻多題都是靠網路上的 Write up 提示才解出來。</p>
-<h2 id="MFC-當天"><a href="#MFC-當天" class="headerlink" title="MFC 當天"></a>MFC 當天</h2><p>到賽前我都還以為比賽名稱 My First CTF 會在現場帶大家簡介一下 CTF 賽制和一些 Linux 操作之類的，結果完全沒有！<br>教授們致詞完後就直接開始比賽～<br>所以我當下是有點慌張的，因為對我來說這真的是 My First CTF，所以這邊建議之後來參賽的人，務必先裝好 Linux (我自己是用裝 ubuntu 在VM)，然後熟悉一下操作方式，特別是 terminal !<br>千萬別像我傻傻的想用 Windows 解題，impossible~ （真的要說還是有機會啦，不過很少）<br>今年題目的部分，基本上我只解了大約兩三題，不過因為 Write up 好像來不能公開，所以這段我先略過，七月再補上來。<br>（七月補上：結果主辦方沒有給 Write up，附上我解的三個入門題的 Write up <a class="link"   href="https://hackmd.io/@whyhugo/HJUBFS3S2" >🫠點我 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>）<br>其中最有趣的是比賽接近尾聲時突然出現一題“問卷回饋”，填完表單就能拿到 flag😂</p>
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/images/MyFirstCTF心得/20230513_094401.jpg"
-                      
-                >
-
-<p>另外現場的飲料可以一直拿，超讚！<br>而且午餐便當好吃的外還有附一大杯奶綠，好爽ouo<br>整體體驗 UP👍</p>
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/images/MyFirstCTF心得/20230513_174033.jpg"
-                      
-                >
-
-<h2 id="SecurityFocus-Online"><a href="#SecurityFocus-Online" class="headerlink" title="SecurityFocus Online"></a>SecurityFocus Online</h2><p>我在賽後真的開始覺得自己有夠廢，所以報了教育部資通計畫的 SecurityFocus Online，真心大推，特別是北部缺乏資安學習資源的同學，想入門 CTF 來報這個準沒錯～</p>
-<p>課程為期 5 天，完全線上，<br>流程大概是，<br>主辦單位會給 GitHub 和 Notion 筆記給你先自學一些基礎知識，教材寫得很清楚，連我這種 0 經驗的都看得懂，<br>接著是一天上午+下午的 meet 課程，老師會講解筆記中的題目、一些技術原理、為何這樣解等等，有問題也可以即時跟老師討論。<br>最後兩天給大家在 CTF 平台解題，<br>題目算很豐富的，有編解碼、網站安全、古典密碼學、Linux command、隱寫術、鑑識分析、Python、編解密碼學、PPC 解題等，<br>解不出來有 Write up 可以看，有一些程式基礎的人應該都看得懂，阿如果遇到真的不行的也可以在dc上直接討論（我是直接私訊高英耀老師，老師人超好，每個回答都很完整，感受到老師滿滿的教學熱忱）。<br>我最後有解完所有題目 2620 分，排名第三，解題過程看著排行榜一直往前衝，蠻有成就感的，一不小心就解到凌晨五點XD<br>重要的事，真的學到很多很多各種 CTF 題型的方法！真心大推！</p>
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/images/MyFirstCTF心得/CTFd_scoreboard_2023-05-27T17 52 40.png"
-                      
-                >
-<center>SecurityFocus Online CTF Top 10 Users</center>
-
-<h2 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h2><p>最後整理以上建議，<br>跟我一樣的完全新手來 My First CTF 前務必：</p>
-<ul>
-<li>架好並熟悉 Linux </li>
-<li>去參加一下SecurityFocus Online</li>
-<li>刷一些 picoCTF</li>
-</ul>
-<p>其他就是比賽現場的手感、經驗和通靈了吧XD</p>
-<p>另外，在 MFC 除了可以拿來參與資工資安組的特殊選才招考，<br>表現優異者有機會直接保送進 AIS3 培訓營隊喔！</p>
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/images/MyFirstCTF心得/FB_IMG_1684084518635.jpg"
-                      
-                >
-]]></content>
-      <categories>
-        <category>資安</category>
-      </categories>
-      <tags>
-        <tag>心得</tag>
-        <tag>CTF</tag>
-        <tag>資安</tag>
+        <tag>特殊選才</tag>
+        <tag>簡章</tag>
       </tags>
   </entry>
   <entry>
@@ -220,9 +189,115 @@
         <category>資安</category>
       </categories>
       <tags>
-        <tag>心得</tag>
-        <tag>資安</tag>
         <tag>HITCON</tag>
+        <tag>資安</tag>
+        <tag>心得</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2022 臺灣國際科展心得</title>
+    <url>/2022/02/01/%E8%87%BA%E7%81%A3%E5%9C%8B%E9%9A%9B%E7%A7%91%E5%B1%95%E5%BF%83%E5%BE%97/</url>
+    <content><![CDATA[<blockquote>
+<p>2022 臺灣國際科展(TISF) 電腦科學與資訊工程科</p>
+</blockquote>
+<blockquote>
+<p>以深度學習與遷移學習防範社群媒體片面新聞訊息之研究<br><a class="link"   href="https://www.ntsec.edu.tw/science/detail.aspx?a=21&cat=19270&sid=19394" >https://www.ntsec.edu.tw/science/detail.aspx?a=21&amp;cat=19270&amp;sid=19394 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+</blockquote>
+<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>2022 TISF 台灣國際科學展覽會終於在 1&#x2F;28 落幕了，疫情的緣故原本為期五天的盛會取消了開幕典禮、孫維新教授講座、二階評審、許多交流活動等，閉幕典禮也改為線上，真的非常可惜讓整個活動感覺競賽大於實質交流，無法感受到往年的盛大，不過能有機會站上有科展界奧林匹亞選拔之稱的TISF舞台真的很開心也很榮幸。</p>
+<h2 id="是這樣開始的"><a href="#是這樣開始的" class="headerlink" title="是這樣開始的"></a>是這樣開始的</h2><p>參與 TISF 的機緣得從 2021 年 4 月說起，當時在楊博欽學長推薦下半推半就的決定參加未來之星培訓計畫甄選，那幾個月在子儀老師的指導以及國內疫情“幫助”得以居家上課的情形下完成了研究計畫書，錄取培訓營隊後經過提案報告選拔也順利獲得媒合專家指導的機會；當時大概八、九月整個 NLP 研究計畫還欠缺許多細節的考量，更嚴重的是連 train data 都還沒有，接下來一個半月陸續看了許多 references，也和教授、學長討論了不少研究方向與細節，一番爆肝的努力下，在 10 月底 2022 TISF 報名截止前趕出一份研究報告書，整份報告書中我非常清楚計畫與方法大於研究成果（講難聽可能有點像幹話書😅），繳件完成後第一點我估計初審就會被刷掉、第二點我已經脫鉤課業有點久、第三點社團大小雜事、第四點緊接著還有已經答應要參加的 AIdea，因此 TISF 的研究被我完全置之一旁；</p>
+<h2 id="意外進入複試"><a href="#意外進入複試" class="headerlink" title="意外進入複試"></a>意外進入複試</h2><p>直到 12 月初公告進入複審的名單，自己的研究出現在 18 件電腦科學類作品當中才開始重啟研究工作，處理好前期的一些程序，年底前正式全面開始進行研究，經過從跨年連假一路到 1&#x2F;23 連續整整一個月不曾間斷、沒日沒夜、無數個累倒趴在書桌與電腦共度夜晚的努力完成了整個研究，雖說成果的規模比起預期縮減一些但過程中能克服那麼多不論硬體或是軟體的困難、一個人完成研究報告書、英文簡報、解說影片、海報等，能走到這真的十分感動。</p>
+<h2 id="無悔足矣"><a href="#無悔足矣" class="headerlink" title="無悔足矣"></a>無悔足矣</h2><p>至於最終的結果雖然沒如願以償抱回那夢寐以求的大會獎，看著同為培訓計畫的同學榮獲大獎、國手代表……難免有些感觸，說失敗不如說是彌足珍貴的經驗，相信這不只是為我高中生涯添上不朽的一筆更是未來路上美麗且無可取代的傷痕； 2022 TISF 我一直視為高中生涯最重要的一戰同時也是學測前的最終戰，從去年一路上經歷這些努力、困難、酸甜苦辣、現實的困境……，如今卻又再次與榮耀甚至是升學的機會擦身而過，這個學期更是放掉了段考、一些必修學分😅，或許這次你說我賭輸了，可惜嗎？後悔嗎？「不」，因為我認為不做不嘗試我才會後悔，能有勇氣與熱情完成一個自己熱衷的領域與專題，更能在有生之年最後一次機會踏上 TISF 的殿堂，不論是否得獎真的已經非常開心，就算能重新來過我依然會選擇這條「無悔」的路，渴望在追尋目標的路途留下些什麼，就像日曆即便撕下後也會留下殘膠一般，而且我想我可以做的更好！（這次的缺失檢討以及其他技術面的經驗我就留到之後分享啦~）</p>
+<h2 id="致謝"><a href="#致謝" class="headerlink" title="致謝"></a>致謝</h2><p>雖說這次研究是一個人，但我要感謝以下這些我最強隊友們的扶持，首先特別特別感謝國立臺灣科技大學資訊工程學系 鮑興國教授、Machine Learning Lab 選庭學長、北醫 NLP Lab 子儀學姐一路以來的細心指導、照顧、支持以及鼓勵，即便半夜一兩點依然無償的陪我討論研究、修改英文稿、借我 TWCC 的資源，讓我遇到困境時總是能迎刃而解，同時也使我在過程中不斷成長、進步；感謝國立臺灣大學電機工程學系、聯發科技教育基金會與國立臺灣科教館辦理培訓營隊、並且對我研究主題的青睞、給予我媒合教授指導的機會以及研究經費；再來要感謝政大附中珮安老師、秀帆老師、于珊老師、芝敏老師、建隆老師在即便學校砍掉許多資源的情形下一直以來的協助、支持與勉勵、盡可能借我設備、替我說服爸媽的擔憂、更為我處理好行政上的大小事；最後感謝所有過去曾經在資訊領域、科學領域、科展研究幫助、指導過我的師長、前輩、合作過的隊友以及總是在我失落時給予我鼓勵與掌聲的同學們！（最後感謝我超 carry 的筆電，研究期間從未關機、休息，辛苦了！😁）</p>
+<blockquote>
+<p>願未來的道路即使崎嶇蜿蜒，你依然不畏艱難持續前行！</p>
+</blockquote>
+<blockquote>
+<p>「每當我遲疑 從不曾忘記 活在我心深處 那頑固的自己」——五月天《頑固》</p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>專題開發</category>
+      </categories>
+      <tags>
+        <tag>心得</tag>
+        <tag>科展</tag>
+        <tag>專題開發</tag>
+        <tag>NLP</tag>
+        <tag>機器學習</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>My First CTF 2023｜心得</title>
+    <url>/2023/06/04/MyFirstCTF%E5%BF%83%E5%BE%97/</url>
+    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>進高中開始玩電資圈後就一直有想學資安的念頭，<br>但自學資源不易取得且入門門檻相對高，<br>於是就一頭栽入了 AI 領域；<br>直到剛好特選上岸後，有了相當長一段自由的時間，<br>於是這次決定來打一生一次的 My First CTF 2023。</p>
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/MyFirstCTF心得/20230513_094339.jpg"
+                      
+                >
+
+<h2 id="賽前"><a href="#賽前" class="headerlink" title="賽前"></a>賽前</h2><p>我很早以前大概就知道 CTF 競賽的概念，<br>大概就是類似用程式解謎獲得 flag 提交後得分，<br>（My First CTF 屬於 Jeopardy 類型的比賽，基本上目前國內給高中生的競賽都是此類）<br>不過究竟是如何實作我實在是毫無頭緒，<br>在網路上蒐集一些資料後開始在 picoCTF 上刷題。</p>
+<p>👇以下也附上幾個蠻多人推薦的練習網站 &amp; 資源~</p>
+<ul>
+<li><a class="link"   href="https://picoctf.org/" >picoCTF <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://www.ctfhub.com/#/index" >CTFHub <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://lotuxctf.com/" >LoTuX CTF <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://ctflearn.com/" >CTFLEARN <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://hackmd.io/@hSnxK9vjScK81ezlVUOpZA/HyS2ErKm9?print-pdf#/" >資安 X CTF的介紹 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://infosecdecompress.com/posts/patches_study_resources_for_cybersecurity?fbclid=IwAR0kRJjlsHsx8dX9GyFPiw2PeURMgBAL6pG4rFyk0NfWB4OzMS1yJc_ZALo" >資安學習資源包 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://github.com/Ice1187/TW-Security-and-CTF-Resource" >台灣資安 &#x2F; CTF 學習資源整理 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://github.com/ktecv2000/How-to-play-CTF" >How to play CTF <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+</ul>
+<p>由於賽前這幾週有些忙碌，<br>最終只刷了 General Skill 480 分，<br>基本上只有很 basic 的下指令能力而已，<br>而且其中蠻多題都是靠網路上的 Write up 提示才解出來。</p>
+<h2 id="MFC-當天"><a href="#MFC-當天" class="headerlink" title="MFC 當天"></a>MFC 當天</h2><p>到賽前我都還以為比賽名稱 My First CTF 會在現場帶大家簡介一下 CTF 賽制和一些 Linux 操作之類的，結果完全沒有！<br>教授們致詞完後就直接開始比賽～<br>所以我當下是有點慌張的，因為對我來說這真的是 My First CTF，所以這邊建議之後來參賽的人，務必先裝好 Linux (我自己是用裝 ubuntu 在VM)，然後熟悉一下操作方式，特別是 terminal !<br>千萬別像我傻傻的想用 Windows 解題，impossible~ （真的要說還是有機會啦，不過很少）<br>今年題目的部分，基本上我只解了大約兩三題，不過因為 Write up 好像來不能公開，所以這段我先略過，七月再補上來。<br>（七月補上：結果主辦方沒有給 Write up，附上我解的三個入門題的 Write up <a class="link"   href="https://hackmd.io/@whyhugo/HJUBFS3S2" >🫠點我 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>）<br>其中最有趣的是比賽接近尾聲時突然出現一題“問卷回饋”，填完表單就能拿到 flag😂</p>
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/MyFirstCTF心得/20230513_094401.jpg"
+                      
+                >
+
+<p>另外現場的飲料可以一直拿，超讚！<br>而且午餐便當好吃的外還有附一大杯奶綠，好爽ouo<br>整體體驗 UP👍</p>
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/MyFirstCTF心得/20230513_174033.jpg"
+                      
+                >
+
+<h2 id="SecurityFocus-Online"><a href="#SecurityFocus-Online" class="headerlink" title="SecurityFocus Online"></a>SecurityFocus Online</h2><p>我在賽後真的開始覺得自己有夠廢，所以報了教育部資通計畫的 SecurityFocus Online，真心大推，特別是北部缺乏資安學習資源的同學，想入門 CTF 來報這個準沒錯～</p>
+<p>課程為期 5 天，完全線上，<br>流程大概是，<br>主辦單位會給 GitHub 和 Notion 筆記給你先自學一些基礎知識，教材寫得很清楚，連我這種 0 經驗的都看得懂，<br>接著是一天上午+下午的 meet 課程，老師會講解筆記中的題目、一些技術原理、為何這樣解等等，有問題也可以即時跟老師討論。<br>最後兩天給大家在 CTF 平台解題，<br>題目算很豐富的，有編解碼、網站安全、古典密碼學、Linux command、隱寫術、鑑識分析、Python、編解密碼學、PPC 解題等，<br>解不出來有 Write up 可以看，有一些程式基礎的人應該都看得懂，阿如果遇到真的不行的也可以在dc上直接討論（我是直接私訊高英耀老師，老師人超好，每個回答都很完整，感受到老師滿滿的教學熱忱）。<br>我最後有解完所有題目 2620 分，排名第三，解題過程看著排行榜一直往前衝，蠻有成就感的，一不小心就解到凌晨五點XD<br>重要的事，真的學到很多很多各種 CTF 題型的方法！真心大推！</p>
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/MyFirstCTF心得/CTFd_scoreboard_2023-05-27T17 52 40.png"
+                      
+                >
+<center>SecurityFocus Online CTF Top 10 Users</center>
+
+<h2 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h2><p>最後整理以上建議，<br>跟我一樣的完全新手來 My First CTF 前務必：</p>
+<ul>
+<li>架好並熟悉 Linux </li>
+<li>去參加一下SecurityFocus Online</li>
+<li>刷一些 picoCTF</li>
+</ul>
+<p>其他就是比賽現場的手感、經驗和通靈了吧XD</p>
+<p>另外，在 MFC 除了可以拿來參與資工資安組的特殊選才招考，<br>表現優異者有機會直接保送進 AIS3 培訓營隊喔！</p>
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/MyFirstCTF心得/FB_IMG_1684084518635.jpg"
+                      
+                >
+]]></content>
+      <categories>
+        <category>資安</category>
+      </categories>
+      <tags>
+        <tag>資安</tag>
+        <tag>心得</tag>
+        <tag>CTF</tag>
       </tags>
   </entry>
   <entry>
@@ -403,70 +478,143 @@
       </tags>
   </entry>
   <entry>
-    <title>112 特殊選才｜熱門校系簡章彙整</title>
-    <url>/2022/12/18/%E7%89%B9%E6%AE%8A%E9%81%B8%E6%89%8D%E7%B0%A1%E7%AB%A0/</url>
-    <content><![CDATA[<p>今年度特殊選才招生在近期即將邁入尾聲~<br>這次彙整今年度有招收不分系、電資學系的熱門校系簡章跟大家分享，<br>給各位學弟妹參考招生方式與資格，<br>資工、不分系從特選開辦以來一直穩坐報名人數龍頭，競爭強度更是海放他系🥵<br>有計畫想嘗試的人可以盡早準備充實自己！</p>
-<h2 id="🗂️檔案連結"><a href="#🗂️檔案連結" class="headerlink" title="🗂️檔案連結"></a>🗂️檔案連結</h2><table>
+    <title>中央資工特殊選才｜心得</title>
+    <url>/2023/03/29/%E4%B8%AD%E5%A4%AE%E8%B3%87%E5%B7%A5%E7%89%B9%E9%81%B8%E5%BF%83%E5%BE%97/</url>
+    <content><![CDATA[<blockquote>
+<p><strong>112 特殊選才 - 應試資訊</strong><br>學系全名：國立中央大學資訊工程學系<br>報名截止：2022&#x2F;10&#x2F;05 Wed. 網路上傳<br>初審放榜：2022&#x2F;10&#x2F;21 Fri.<br>複試日期：2022&#x2F;11&#x2F;01 Tue.<br>複試地點：NCU 工程五館<br>結果放榜：2022&#x2F;11&#x2F;21 Mon.<br><a class="link"   href="https://drive.google.com/file/d/1qDoEAe8myagunjn-4NYgZb7pNe6hQI26/view?usp=sharing" >NCU 簡章點我 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> (檔案第 32~33 頁)</p>
+</blockquote>
+<blockquote>
+<p><strong>關於中央資工</strong><br>隸屬資訊電機學院，位在桃園市中壢區，校園環境優美；<br>2023 QS 電腦科學類排名為全台第八，世界前 550；<br>2023 THE 電腦科學類排名為全台第八，世界前 800。</p>
+</blockquote>
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/中央資工特選心得/20230404_005931.jpg"
+                      
+                >
+<center>複試贈品：飲料提袋（左）；資工系館（右）</center>
+
+<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><blockquote>
+<p>以下分享為為資工一般組</p>
+</blockquote>
+<p>面試順序是按照初審成績高低，越高越先面試。</p>
+<p>因為是和資安組聯招(填志願)，全部 22 人都是排在上午，兩組混在一起。</p>
+<p>系館有開一間教室作為備考休息室(但大家後來都到外面走廊晃晃)~</p>
+<p>快輪到你的時候，會有學長姊在外面叫名字，一次會有兩個人在樓上考場教室外等待。</p>
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/中央資工特選心得/20221101_090752.jpg"
+                      
+                >
+<center>備考休息室</center>
+
+<h3 id="相關數據"><a href="#相關數據" class="headerlink" title="相關數據"></a>相關數據</h3><h4 id="人數"><a href="#人數" class="headerlink" title="人數"></a>人數</h4><table>
 <thead>
 <tr>
-<th>學校簡章</th>
-<th>學校簡章</th>
+<th>額定錄取</th>
+<th>榜單備取</th>
+<th>報名人數</th>
+<th>複試人數</th>
 </tr>
 </thead>
 <tbody><tr>
-<td><a class="link"   href="https://drive.google.com/file/d/1MvSx-yugc1fsDHP-sUS6-nCELFgFKKo5/view?usp=sharing" >國立臺灣大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-<td><a class="link"   href="https://drive.google.com/file/d/12dQeETKWSMecNmpsfHHqukKDbBhGs7Mz/view?usp=sharing" >國立中山大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-</tr>
-<tr>
-<td><a class="link"   href="https://drive.google.com/file/d/1shx2jgua5xMZRdFFwgsf_gvp6Z-pL9Hy/view?usp=sharing" >國立臺灣師範大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-<td><a class="link"   href="https://drive.google.com/file/d/1ylJTXJRA5oet7tASjjodyPlk1Z1RKEmS/view?usp=sharing" >國立中正大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-</tr>
-<tr>
-<td><a class="link"   href="https://drive.google.com/file/d/1f37NdnIMhx3Yb5s0Ooj1matulp9L_x0N/view?usp=sharing" >國立中興大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-<td><a class="link"   href="https://drive.google.com/file/d/1yE3cIz5e_PHDtrGlzOy-3h2ql3YAunSt/view?usp=sharing" >國立東華大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-</tr>
-<tr>
-<td><a class="link"   href="https://drive.google.com/file/d/19dDLmJlSu2cOUDual4X0cQ5rQMGZDXqY/view?usp=sharing" >國立成功大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-<td><a class="link"   href="https://drive.google.com/file/d/1WL8qf7xXZkfhyeTt8qBaNbFJ7awVf6ho/view?usp=sharing" >國立台北大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-</tr>
-<tr>
-<td><a class="link"   href="https://drive.google.com/file/d/1A65houjakXAo6vIPtcOFi094XYuW63cA/view?usp=sharing" >國立政治大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-<td><a class="link"   href="https://drive.google.com/file/d/13scHH-5mvW7UaMueoQTiMhg9TUbFjgnQ/view?usp=sharing" >中原大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-</tr>
-<tr>
-<td><a class="link"   href="https://drive.google.com/file/d/1gZDLHHhQ1_lbeb7NBSS7vV7xtNF8AeSq/view?usp=sharing" >國立清華大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-<td><a class="link"   href="https://drive.google.com/file/d/1rzvwcJF0odeOFMSojnJH2Lt9oTtpFf1O/view?usp=sharing" >逢甲大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-</tr>
-<tr>
-<td><a class="link"   href="https://drive.google.com/file/d/1100pUIf64_wEO1O5vlv_hsQU3aQEjQMu/view?usp=sharing" >國立陽明交通大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-<td><a class="link"   href="https://drive.google.com/file/d/1wB3-8U6kl88_DrxwkaiNCsk4j_sriXKk/view?usp=sharing" >輔仁大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-</tr>
-<tr>
-<td><a class="link"   href="https://drive.google.com/file/d/1qDoEAe8myagunjn-4NYgZb7pNe6hQI26/view?usp=sharing" >國立中央大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-<td><a class="link"   href="https://drive.google.com/file/d/1g7LkGeXlVBleEhgOsp7nNHgCaIU3hhwO/view?usp=sharing" >元智大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-</tr>
-<tr>
-<td><a class="link"   href="https://drive.google.com/file/d/1-uPFMQK2f6r01Vw9wpKWjeEladWonbgs/view?usp=sharing" >國立臺灣海洋大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-<td></td>
+<td>3</td>
+<td>6</td>
+<td>72</td>
+<td>22</td>
 </tr>
 </tbody></table>
-<h3 id="📑收錄："><a href="#📑收錄：" class="headerlink" title="📑收錄："></a>📑收錄：</h3><ul>
-<li>國立：中山、中央、中正、中興、北大、台大、臺師大、成大、東華、政大、海大、清大、陽明交大。</li>
-<li>私立：中原、元智、逢甲、輔仁。</li>
+<h4 id="錄取率"><a href="#錄取率" class="headerlink" title="錄取率"></a>錄取率</h4><table>
+<thead>
+<tr>
+<th>初試通過率</th>
+<th>複試通過率</th>
+<th>總錄取率</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>30.56%</td>
+<td>27.27%</td>
+<td>8.33%</td>
+</tr>
+</tbody></table>
+<blockquote>
+<p>初試通過率：複試人數 ÷ 報名人數<br>複試通過率：正取名額 ÷ 複試人數<br>總錄取率：正取名額 ÷ 報名人數</p>
+</blockquote>
+<h3 id="成績與結果"><a href="#成績與結果" class="headerlink" title="成績與結果"></a>成績與結果</h3><table>
+<thead>
+<tr>
+<th>初試成績&#x2F;及格分數</th>
+<th>複試成績</th>
+<th>總分&#x2F;備取及格分數&#x2F;正取分</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>84.70&#x2F;84.70 <b><font style="color:#21A600;">通過</font></b></td>
+<td>84.33</td>
+<td>169.03&#x2F;172.67&#x2F;? <font style="color:red"><b>不錄取</b></font></td>
+</tr>
+</tbody></table>
+<blockquote>
+<p>初試：書審；複試：口試<br>總分 &#x3D; 初試 * 100% + 複試 * 100%</p>
+</blockquote>
+<h2 id="面試方式"><a href="#面試方式" class="headerlink" title="面試方式"></a>面試方式</h2><p>總共有三個教授相隔一個位子坐在教室第一橫排進行面試，3 分鐘自介 + 3 分鐘問答。</p>
+<p>三位教授面前都有一台平板，我猜應該是在看考生的備審。</p>
+<p>簡報的部分，考生需事前將簡報傳給系辦，使用現場的筆電進行present。</p>
+<p>複試的簡報要求如下圖<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/中央資工特選心得/中央資工複試簡報要求.jpg"
+                      
+                ></p>
+<h2 id="面試過程"><a href="#面試過程" class="headerlink" title="面試過程"></a>面試過程</h2><ul>
+<li>自我介紹(3 mins.)<ul>
+<li>報告檔案要提前傳給系辦，進考場有設備可以直接用。(沒有簡報筆，記得要自己帶)</li>
+<li>我的講得有點快，大概只講了 2 分 50 秒；聽其他同學說，3 分鐘鬧鈴響教授會直接打岔，展開他的問題。</li>
 </ul>
-<h3 id="💡觀看重點："><a href="#💡觀看重點：" class="headerlink" title="💡觀看重點："></a>💡觀看重點：</h3><ul>
-<li>學系報考資格</li>
-<li>計分項目</li>
-<li>報名日程先後：例如，中央歷年幾乎都會最早開始 (今年 9&#x2F;29~10&#x2F;5)，私校期程最長且最晚(逢甲今年 10&#x2F;24~11&#x2F;23)</li>
-<li>招收人數：每年變動不大，之後我會分享我整理好的更詳細的統計資料~</li>
-<li>資安外加名額：（配合國家資安培育資安學研人才計畫，首度辦理）今年有台、政、清、師、興、央、海</li>
-<li>抉擇考量：特選期程會跟學測準備期完全重疊，若是落榜 大機率要退守分科，是否保守走個申，把豐富的學習歷程留到二階，是一個值得討論的想法~  (而且若特選上了是不能參與繁星、個申、分發入學的喔)</li>
+</li>
+<li>QA (3 mins.)<ul>
+<li>你過去有相當豐富的自學經歷，甚至在網路上尋找你需要的工具，如果未來你要自己創造一個工具，你認為有甚麼樣的能力是你未來需要再精進的？<ul>
+<li>從ML的經驗中發現數學能力的重要，包含到什麼是 training lose 以及一些其他的參數，甚至建立一個NN、優化一個模型，這些都需要數學的能力，我想未來包含線性代數、離散、微積分都是未來需要持續精進的方向。</li>
 </ul>
+</li>
+<li>研究進行的期間多久，和教授及學長姐指導的模式？<ul>
+<li>研究是從去年暑假錄取培訓營，八月底開始到台科大接受教授指導、進行研究，一直到今年一月的比賽；教授是大方向，定期討論&amp;回報進度；學長則是技術面的討論、解決問題。</li>
+</ul>
+</li>
+<li>你的自學經歷相當豐富，請問期間你最印象深刻的困難？<ul>
+<li>日以繼夜的爬蟲，<br>  由於想要為研究增加獨特性而爬取 fb 上美國媒體的貼文摘要及新聞，修正程式來適應不同的爬取目標，過程中花費大量時間來一一解析每一家媒體每一類報導的 html 結構，過程中更時常遇到爬到一半突然失敗或被阻擋，像是我後來發現從 fb 點擊連結時會有一個 “你是否確定要前往……網頁” 的畫面，我就在去設計一層迴圈去點擊確定，來解決問題，後續還要再去把資料整理成我要的格式 column &amp; row。</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/中央資工特選心得/20230331_142745.jpg"
+                      
+                >
+<center>面試當天拍攝的中央大學校園</center>
+
+<h2 id="心得-amp-小建議"><a href="#心得-amp-小建議" class="headerlink" title="心得 &amp; 小建議"></a>心得 &amp; 小建議</h2><p>關於面試，因為只有三分鐘 present，內容要盡量減短，不然就會像我一樣講太快造成講得不夠清晰🥲</p>
+<p>此外，現場記得要自備簡報筆，效果會加分，不然就會像我只能站在旁邊的筆電旁邊。</p>
+<p>由於我是最後一個面試，從 9 點報到，一直到 12 點半才輪到我，真的是等到都不緊張了&gt;&lt;，建議如果你是較後面面試的人，可以先報到後去校園走走、吃點東西，不然一直在系館等、翻閱自己的備考資料三個小時還蠻無聊的。</p>
+<p>關於結果，雖然我書審成績是所有進複試中的最後，但放榜連備取都沒有🥲其實有點小意外，看了往年學長的經驗分享，中央備取應該都會排到11以上；</p>
+<p>然而今年複試 22 人，正取 3 一般 + 3 資安，最終共 6 人正取，8 人備取資格，淘汰了 8 人。（因為是聯招所以有的人同時佔了兩組備取）</p>
+<p>看這個備取的人數，感覺沒要招滿，想把名額留用到申請入學(?</p>
+<p>至於過去很多人說中央對競程沒興趣，我感覺這次還好，競程&amp;研究，沒有比較偏好哪一邊</p>
+<p>我報名時因為想說沒有資安經驗，所以只填了一個志願，若多填一個反而可以多一個機會~</p>
+<p>中央是第一個報名的學校，也是第一個複試，所有流程、事物都非常生疏</p>
+<p>書審僅僅準備了一週多壓線上傳（超爆肝）</p>
+<p>第一次面試，不論問答還是報告，很多細節和技巧都還要精進，特別是如何減少敘述句增加具體內容讓整體更順暢~</p>
+<p>還要快速抓到問題的重點，想清楚再講讓每個答覆更有邏輯，更要有 topic sentence!</p>
+<p>特選之旅第一站能進入複試說實在蠻驚喜的~</p>
 <hr>
 <h3 id="相關連結"><a href="#相關連結" class="headerlink" title="相關連結"></a>相關連結</h3><ul>
 <li><a class="link"   href="https://drive.google.com/file/d/1I_4nXczCJbcGica2nqz62rwdrvc3QbQT/view?usp=sharing" >112 學年度大學辦理特殊選才招生計畫學校招生資訊 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
 <li><a class="link"   href="https://drive.google.com/file/d/1yl6SD626JX1nETaimg7GPvZutc-117jj/view?usp=sharing" >112 學年度大學辦理特殊選才招生-資安外加名額招生資訊 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a href="https://whyhugo.github.io/2023/03/27/%E7%89%B9%E6%AE%8A%E9%81%B8%E6%89%8D%E4%BA%BA%E6%95%B8%E6%95%B8%E6%93%9A/">112 特殊選才電資類學生熱門校系數據統計</a></li>
 </ul>
 ]]></content>
       <categories>
@@ -474,7 +622,7 @@
       </categories>
       <tags>
         <tag>特殊選才</tag>
-        <tag>簡章</tag>
+        <tag>心得</tag>
       </tags>
   </entry>
   <entry>
@@ -636,161 +784,13 @@
       </tags>
   </entry>
   <entry>
-    <title>中央資工特殊選才｜心得</title>
-    <url>/2023/03/29/%E4%B8%AD%E5%A4%AE%E8%B3%87%E5%B7%A5%E7%89%B9%E9%81%B8%E5%BF%83%E5%BE%97/</url>
-    <content><![CDATA[<blockquote>
-<p><strong>112 特殊選才 - 應試資訊</strong><br>學系全名：國立中央大學資訊工程學系<br>報名截止：2022&#x2F;10&#x2F;05 Wed. 網路上傳<br>初審放榜：2022&#x2F;10&#x2F;21 Fri.<br>複試日期：2022&#x2F;11&#x2F;01 Tue.<br>複試地點：NCU 工程五館<br>結果放榜：2022&#x2F;11&#x2F;21 Mon.<br><a class="link"   href="https://drive.google.com/file/d/1qDoEAe8myagunjn-4NYgZb7pNe6hQI26/view?usp=sharing" >NCU 簡章點我 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> (檔案第 32~33 頁)</p>
-</blockquote>
-<blockquote>
-<p><strong>關於中央資工</strong><br>隸屬資訊電機學院，位在桃園市中壢區，校園環境優美；<br>2023 QS 電腦科學類排名為全台第八，世界前 550；<br>2023 THE 電腦科學類排名為全台第八，世界前 800。</p>
-</blockquote>
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/images/中央資工特選心得/20230404_005931.jpg"
-                      
-                >
-<center>複試贈品：飲料提袋（左）；資工系館（右）</center>
-
-<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><blockquote>
-<p>以下分享為為資工一般組</p>
-</blockquote>
-<p>面試順序是按照初審成績高低，越高越先面試。</p>
-<p>因為是和資安組聯招(填志願)，全部 22 人都是排在上午，兩組混在一起。</p>
-<p>系館有開一間教室作為備考休息室(但大家後來都到外面走廊晃晃)~</p>
-<p>快輪到你的時候，會有學長姊在外面叫名字，一次會有兩個人在樓上考場教室外等待。</p>
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/images/中央資工特選心得/20221101_090752.jpg"
-                      
-                >
-<center>備考休息室</center>
-
-<h3 id="相關數據"><a href="#相關數據" class="headerlink" title="相關數據"></a>相關數據</h3><h4 id="人數"><a href="#人數" class="headerlink" title="人數"></a>人數</h4><table>
-<thead>
-<tr>
-<th>額定錄取</th>
-<th>榜單備取</th>
-<th>報名人數</th>
-<th>複試人數</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>3</td>
-<td>6</td>
-<td>72</td>
-<td>22</td>
-</tr>
-</tbody></table>
-<h4 id="錄取率"><a href="#錄取率" class="headerlink" title="錄取率"></a>錄取率</h4><table>
-<thead>
-<tr>
-<th>初試通過率</th>
-<th>複試通過率</th>
-<th>總錄取率</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>30.56%</td>
-<td>27.27%</td>
-<td>8.33%</td>
-</tr>
-</tbody></table>
-<blockquote>
-<p>初試通過率：複試人數 ÷ 報名人數<br>複試通過率：正取名額 ÷ 複試人數<br>總錄取率：正取名額 ÷ 報名人數</p>
-</blockquote>
-<h3 id="成績與結果"><a href="#成績與結果" class="headerlink" title="成績與結果"></a>成績與結果</h3><table>
-<thead>
-<tr>
-<th>初試成績&#x2F;及格分數</th>
-<th>複試成績</th>
-<th>總分&#x2F;備取及格分數&#x2F;正取分</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>84.70&#x2F;84.70 <b><font style="color:#21A600;">通過</font></b></td>
-<td>84.33</td>
-<td>169.03&#x2F;172.67&#x2F;? <font style="color:red"><b>不錄取</b></font></td>
-</tr>
-</tbody></table>
-<blockquote>
-<p>初試：書審；複試：口試<br>總分 &#x3D; 初試 * 100% + 複試 * 100%</p>
-</blockquote>
-<h2 id="面試方式"><a href="#面試方式" class="headerlink" title="面試方式"></a>面試方式</h2><p>總共有三個教授相隔一個位子坐在教室第一橫排進行面試，3 分鐘自介 + 3 分鐘問答。</p>
-<p>三位教授面前都有一台平板，我猜應該是在看考生的備審。</p>
-<p>簡報的部分，考生需事前將簡報傳給系辦，使用現場的筆電進行present。</p>
-<p>複試的簡報要求如下圖<br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/images/中央資工特選心得/中央資工複試簡報要求.jpg"
-                      
-                ></p>
-<h2 id="面試過程"><a href="#面試過程" class="headerlink" title="面試過程"></a>面試過程</h2><ul>
-<li>自我介紹(3 mins.)<ul>
-<li>報告檔案要提前傳給系辦，進考場有設備可以直接用。(沒有簡報筆，記得要自己帶)</li>
-<li>我的講得有點快，大概只講了 2 分 50 秒；聽其他同學說，3 分鐘鬧鈴響教授會直接打岔，展開他的問題。</li>
-</ul>
-</li>
-<li>QA (3 mins.)<ul>
-<li>你過去有相當豐富的自學經歷，甚至在網路上尋找你需要的工具，如果未來你要自己創造一個工具，你認為有甚麼樣的能力是你未來需要再精進的？<ul>
-<li>從ML的經驗中發現數學能力的重要，包含到什麼是 training lose 以及一些其他的參數，甚至建立一個NN、優化一個模型，這些都需要數學的能力，我想未來包含線性代數、離散、微積分都是未來需要持續精進的方向。</li>
-</ul>
-</li>
-<li>研究進行的期間多久，和教授及學長姐指導的模式？<ul>
-<li>研究是從去年暑假錄取培訓營，八月底開始到台科大接受教授指導、進行研究，一直到今年一月的比賽；教授是大方向，定期討論&amp;回報進度；學長則是技術面的討論、解決問題。</li>
-</ul>
-</li>
-<li>你的自學經歷相當豐富，請問期間你最印象深刻的困難？<ul>
-<li>日以繼夜的爬蟲，<br>  由於想要為研究增加獨特性而爬取 fb 上美國媒體的貼文摘要及新聞，修正程式來適應不同的爬取目標，過程中花費大量時間來一一解析每一家媒體每一類報導的 html 結構，過程中更時常遇到爬到一半突然失敗或被阻擋，像是我後來發現從 fb 點擊連結時會有一個 “你是否確定要前往……網頁” 的畫面，我就在去設計一層迴圈去點擊確定，來解決問題，後續還要再去把資料整理成我要的格式 column &amp; row。</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/images/中央資工特選心得/20230331_142745.jpg"
-                      
-                >
-<center>面試當天拍攝的中央大學校園</center>
-
-<h2 id="心得-amp-小建議"><a href="#心得-amp-小建議" class="headerlink" title="心得 &amp; 小建議"></a>心得 &amp; 小建議</h2><p>關於面試，因為只有三分鐘 present，內容要盡量減短，不然就會像我一樣講太快造成講得不夠清晰🥲</p>
-<p>此外，現場記得要自備簡報筆，效果會加分，不然就會像我只能站在旁邊的筆電旁邊。</p>
-<p>由於我是最後一個面試，從 9 點報到，一直到 12 點半才輪到我，真的是等到都不緊張了&gt;&lt;，建議如果你是較後面面試的人，可以先報到後去校園走走、吃點東西，不然一直在系館等、翻閱自己的備考資料三個小時還蠻無聊的。</p>
-<p>關於結果，雖然我書審成績是所有進複試中的最後，但放榜連備取都沒有🥲其實有點小意外，看了往年學長的經驗分享，中央備取應該都會排到11以上；</p>
-<p>然而今年複試 22 人，正取 3 一般 + 3 資安，最終共 6 人正取，8 人備取資格，淘汰了 8 人。（因為是聯招所以有的人同時佔了兩組備取）</p>
-<p>看這個備取的人數，感覺沒要招滿，想把名額留用到申請入學(?</p>
-<p>至於過去很多人說中央對競程沒興趣，我感覺這次還好，競程&amp;研究，沒有比較偏好哪一邊</p>
-<p>我報名時因為想說沒有資安經驗，所以只填了一個志願，若多填一個反而可以多一個機會~</p>
-<p>中央是第一個報名的學校，也是第一個複試，所有流程、事物都非常生疏</p>
-<p>書審僅僅準備了一週多壓線上傳（超爆肝）</p>
-<p>第一次面試，不論問答還是報告，很多細節和技巧都還要精進，特別是如何減少敘述句增加具體內容讓整體更順暢~</p>
-<p>還要快速抓到問題的重點，想清楚再講讓每個答覆更有邏輯，更要有 topic sentence!</p>
-<p>特選之旅第一站能進入複試說實在蠻驚喜的~</p>
-<hr>
-<h3 id="相關連結"><a href="#相關連結" class="headerlink" title="相關連結"></a>相關連結</h3><ul>
-<li><a class="link"   href="https://drive.google.com/file/d/1I_4nXczCJbcGica2nqz62rwdrvc3QbQT/view?usp=sharing" >112 學年度大學辦理特殊選才招生計畫學校招生資訊 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link"   href="https://drive.google.com/file/d/1yl6SD626JX1nETaimg7GPvZutc-117jj/view?usp=sharing" >112 學年度大學辦理特殊選才招生-資安外加名額招生資訊 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-</ul>
-]]></content>
-      <categories>
-        <category>特殊選才</category>
-      </categories>
-      <tags>
-        <tag>特殊選才</tag>
-        <tag>心得</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>臺灣師大資工特殊選才｜心得</title>
     <url>/2023/04/04/%E5%B8%AB%E5%A4%A7%E8%B3%87%E5%B7%A5%E7%89%B9%E9%81%B8%E5%BF%83%E5%BE%97/</url>
     <content><![CDATA[<blockquote>
-<p><strong>112特殊選才 - 應試資訊</strong><br>學系全名：國立臺灣師範大學資訊工程學系<br>報名截止：2022&#x2F;11&#x2F;10 Thu. 郵寄備審<br>初審放榜：2022&#x2F;12&#x2F;06 Tue.<br>複試日期：2022&#x2F;12&#x2F;09 Fri.<br>複試地點：NTNU公館校區 應科大樓<br>結果放榜：2022&#x2F;12&#x2F;22 Thu.<br><a class="link"   href="https://drive.google.com/file/d/1shx2jgua5xMZRdFFwgsf_gvp6Z-pL9Hy/view?usp=sharing" >NTNU簡章點我 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> (檔案第27~28頁)</p>
+<p><strong>112特殊選才 - 應試資訊</strong><br>學系全名：國立臺灣師範大學資訊工程學系<br>報名截止：2022&#x2F;11&#x2F;10 Thu. 郵寄備審<br>初審放榜：2022&#x2F;12&#x2F;06 Tue.<br>複試日期：2022&#x2F;12&#x2F;09 Fri.<br>複試地點：NTNU 公館校區 應科大樓<br>結果放榜：2022&#x2F;12&#x2F;22 Thu.<br><a class="link"   href="https://drive.google.com/file/d/1shx2jgua5xMZRdFFwgsf_gvp6Z-pL9Hy/view?usp=sharing" >NTNU簡章點我 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> (檔案第 27~28 頁)</p>
 </blockquote>
 <blockquote>
-<p><strong>關於臺師大資工</strong><br>隸屬理學院，位在臺北市文山區的公館校區，校區旁即為公館商圈，同時與鄰近的台大與台科大組成<a class="link"   href="https://triangle.ntu.edu.tw/Default.html" >臺灣大學三校聯盟 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>；<br>2023 QS電腦科學類排名為全台第八，世界前550；<br>2023 THE電腦科學類排名為全台第六，世界前600。</p>
+<p><strong>關於臺師大資工</strong><br>隸屬理學院，位在臺北市文山區的公館校區，校區旁即為公館商圈，同時與鄰近的台大與台科大組成<a class="link"   href="https://triangle.ntu.edu.tw/Default.html" >臺灣大學三校聯盟 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>；<br>2023 QS 電腦科學類排名為全台第八，世界前 550；<br>2023 THE 電腦科學類排名為全台第六，世界前 600。</p>
 </blockquote>
 <img  
                      lazyload
@@ -804,7 +804,7 @@
 <h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><blockquote>
 <p>以下分享為為資工一般組（沒有與資安組聯招）</p>
 </blockquote>
-<p>一般組面試順序有點謎，推測是類似往年慣例，這次資安組由於還有術科測驗，所以同時錄取兩組的先面，再來是一般組北部學生，最後是南部學生 (不過我住附近卻算是在中後段11&#x2F;15🤔)</p>
+<p>一般組面試順序有點謎，推測是類似往年慣例，這次資安組由於還有術科測驗，所以同時錄取兩組的先面，再來是一般組北部學生，最後是南部學生 (不過我住附近卻算是在中後段 11&#x2F;15🤔)</p>
 <p>一般組面完，資安組剛考完上機考，接著面資安組。</p>
 <p>大概表定面試時間前 1 hr.報到，然後先到系辦上傳等等要報告的檔案，同時有開一間會客室給考生等待</p>
 <p>系辦老師一次會叫一個人到樓上準備，樓上會有系上的人負責簡單尬聊~</p>
@@ -833,7 +833,7 @@
 </tr>
 </tbody></table>
 <blockquote>
-<p>一般組有逕取2名</p>
+<p>一般組有逕取 2 名</p>
 </blockquote>
 <h4 id="錄取率"><a href="#錄取率" class="headerlink" title="錄取率"></a>錄取率</h4><table>
 <thead>
@@ -850,7 +850,7 @@
 </tr>
 </tbody></table>
 <blockquote>
-<p>初試通過率：複試人數÷報名人數<br>複試通過率：正取名額÷複試人數<br>總錄取率：正取名額÷報名人數</p>
+<p>初試通過率：複試人數 ÷ 報名人數<br>複試通過率：正取名額 ÷ 複試人數<br>總錄取率：正取名額 ÷ 報名人數</p>
 </blockquote>
 <h3 id="成績與結果"><a href="#成績與結果" class="headerlink" title="成績與結果"></a>成績與結果</h3><table>
 <thead>
@@ -869,9 +869,9 @@
 <blockquote>
 <p>初試：書審；複試：口試<br>總分 &#x3D; 初試*50% + 複試*50%</p>
 </blockquote>
-<h2 id="面試方式"><a href="#面試方式" class="headerlink" title="面試方式"></a>面試方式</h2><p>共兩間面試，B考場會是你前前一位，A考場是你前一位</p>
-<p>一間大約8分鐘，A考場兩位教授，自介+提問，時間到會有人敲門，結束馬上接著去B考場</p>
-<p>B考場一位教授，主要就輕鬆面對面坐著閒聊(? </p>
+<h2 id="面試方式"><a href="#面試方式" class="headerlink" title="面試方式"></a>面試方式</h2><p>共兩間面試，B 考場會是你前前一位，A考場是你前一位</p>
+<p>一間大約 8 分鐘，A 考場兩位教授，自介+提問，時間到會有人敲門，結束馬上接著去 B 考場</p>
+<p>B 考場一位教授，主要就輕鬆面對面坐著閒聊(? </p>
 <p>(另外，第一間試場有錄影，第二間我沒注意，所以第二間的那位教授應該是會去看錄影帶，所以才會問有沒有想補充甚麼)</p>
 <h2 id="面試過程"><a href="#面試過程" class="headerlink" title="面試過程"></a>面試過程</h2><ul>
 <li>第一間<ul>
@@ -881,18 +881,18 @@
 </li>
 <li>QA (3 mins.)<ul>
 <li>關於科展專題的內容，你做了那些深度學習的過程，做了哪些探討或是實驗?<ul>
-<li>我先從data的部分進行說明，我是運用美國一個組織找了記者一同建立的fnc-1 dataset，模型訓練的部分是運用Pytorch的Transformer進行遷移學習，嘗試BERT, RoBERTa, XLNet，最終使用我們評估acc, f1-score結果最適合長度較長文本的XLNet，並且到FB上實際去爬取文本，使用這個NLP模型進行預測，將結果與牛津大學的media report進行媒體品質現況的比對，最終也發現像是Buzzfeed這種比較小眾的媒體確實在受眾的信任度較低。</li>
+<li>我先從 data 的部分進行說明，我是運用美國一個組織找了記者一同建立的 fnc-1 dataset，模型訓練的部分是運用 Pytorch 的 Transformer 進行遷移學習，嘗試 BERT, RoBERTa, XLNet，最終使用我們評估 acc, f1-score 結果最適合長度較長文本的 XLNet，並且到 FB 上實際去爬取文本，使用這個 NLP 模型進行預測，將結果與牛津大學的 media report 進行媒體品質現況的比對，最終也發現像是 Buzzfeed 這種比較小眾的媒體確實在受眾的信任度較低。</li>
 </ul>
 </li>
-<li>延續問專題的內容，你對NLP的基礎傳統知識?<ul>
-<li>在傳統基礎知識方面，我主要是在人工智慧導論中有所學習，像是SVM、random forest這些基礎的演算法，而我主要是在海廢預測競賽中實際運用，當時平台直接打包好的dataset要廣泛嘗試相對方便，所以我才會在那次最終嘗試了AutoGluon的方式試試看能不能更有效率快速的完成較佳accuracy的模型。</li>
+<li>延續問專題的內容，你對 NLP 的基礎傳統知識?<ul>
+<li>在傳統基礎知識方面，我主要是在人工智慧導論中有所學習，像是 SVM、random forest 這些基礎的演算法，而我主要是在海廢預測競賽中實際運用，當時平台直接打包好的 dataset 要廣泛嘗試相對方便，所以我才會在那次最終嘗試了 AutoGluon 的方式試試看能不能更有效率快速的完成較佳 accuracy 的模型。</li>
 </ul>
 </li>
 </ul>
 </li>
 </ul>
 </li>
-<li>第二間 (直接進入QA，非常閒聊，以下對話呈現)<ul>
+<li>第二間 (直接進入 QA，非常閒聊，以下對話呈現)<ul>
 <li>還有沒有前面沒講到或來不及講完的或想問甚麼？<ul>
 <li>看教授對於我的專題實作、自學經歷或是團隊領導哪一方面比較有興趣，我可以來多做說明</li>
 </ul>
@@ -914,7 +914,7 @@
 </ul>
 </li>
 <li>所以你比較沒在打競程，還是你也跟學弟一起打?<ul>
-<li>我自己主要還是專題這方面，競程方面同學也會拿題目來跟我一起討論，所以我自己時不時會去zero judge找一些題目解一下玩玩看，接觸一下不同領域。</li>
+<li>我自己主要還是專題這方面，競程方面同學也會拿題目來跟我一起討論，所以我自己時不時會去 zero judge 找一些題目解一下玩玩看，接觸一下不同領域。</li>
 </ul>
 </li>
 <li>對啊對啊，我印象中政大附中沒在打競程。</li>
@@ -924,10 +924,10 @@
 </li>
 <li>什麼是你進來之後最想要做的?以及這些學校你的比較是甚麼?<ul>
 <li>師大的部分對我來說最大的優勢就是離家近，我就住附近而已，應該會是我的優先選擇。</li>
-<li>由於我哥哥大我一歲也是讀相關電資科系，所以我也蠻了解哪些課程會很硬，所以首先最基本的是顧好資工的必修課程，另外希望可以學習data mining相關課程，同時善用三校聯盟資源在現有的ML, NLP領域持續加深，然後參與科技部大專生計畫。</li>
+<li>由於我哥哥大我一歲也是讀相關電資科系，所以我也蠻了解哪些課程會很硬，所以首先最基本的是顧好資工的必修課程，另外希望可以學習 data mining 相關課程，同時善用三校聯盟資源在現有的 ML, NLP 領域持續加深，然後參與科技部大專生計畫。</li>
 </ul>
 </li>
-<li>你有沒有了解過系上有哪些老師可以指導NLP?<ul>
+<li>你有沒有了解過系上有哪些老師可以指導 NLP?<ul>
 <li>沒有誒，想說進來之後可以再來慢慢聊</li>
 </ul>
 </li>
@@ -935,7 +935,7 @@
 <li>阿…沒有了解到耶&gt;&lt; (後來查了一下是陳柏琳教授XD)</li>
 </ul>
 </li>
-<li>&gt;&lt;進來之後要做NLP沒問題，系上有很棒的老師可以指導</li>
+<li>&gt;&lt;進來之後要做 NLP 沒問題，系上有很棒的老師可以指導</li>
 <li>三校聯盟確實是相當大的助益，而且實際有在運作，對我們來說三校地域性是優勢，想跨修雙主修都沒問題<ul>
 <li>對呀，像我也聽哥哥說過像是台聯大系統就比較沒太大效益，確實沒像三校聯盟這樣有頻繁的交流，而且我之前專題的指導教授也是台科大的鮑興國教授。</li>
 </ul>
@@ -956,24 +956,24 @@
 <h2 id="心得-amp-小建議"><a href="#心得-amp-小建議" class="headerlink" title="心得&amp;小建議"></a>心得&amp;小建議</h2><p>此次面試整體的感覺很讚</p>
 <p>報到分流、等待的過程，系主任還來跟學生&amp;家長聊天</p>
 <p>同時，這次面試是這次特選之旅的第三間，也是最後一站</p>
-<p>present &amp; QA準備的也非<del>常</del>充足，基本上已經沒啥緊張感</p>
-<p>面試的教授也都很nice，另外我有發現我在面A考場的時候，兩位教授現場在”翻閱”我的備審，所以我想紙本裝訂和美編排版的誠意似乎就有點重要了</p>
-<p>第一間教授問到「延續問專題的內容，你對NLP的基礎傳統知識？」，我最後只講了SVM和隨機森林（這些比較不算是針對NLP的演算法），竟然忘記可以分享naive bayes、梯度下降，不然分數應該可以更高🤦‍♂️</p>
+<p>present &amp; QA 準備的也非<del>常</del>充足，基本上已經沒啥緊張感</p>
+<p>面試的教授也都很 nice，另外我有發現我在面 A 考場的時候，兩位教授現場在「翻閱」我的備審，所以我想紙本裝訂和美編排版的誠意似乎就有點重要了</p>
+<p>第一間教授問到「延續問專題的內容，你對 NLP 的基礎傳統知識？」，我最後只講了 SVM 和隨機森林（這些比較不算是針對NLP的演算法），竟然忘記可以分享 naive bayes、梯度下降，不然分數應該可以更高🤦‍♂️</p>
 <p>第二間雖然氣氛輕鬆，我也跟教授聊的很愉快</p>
 <p>但建議大家切記對話的內容不可因此過於閒聊，能抓到可以有深度的答覆的問題一定要掌握</p>
-<p>同時，可以show一下簡報補充說明，所以建議簡報可以除了預定要講的頁數，可以多製作幾頁，用來輔助說明一些歷程經驗</p>
-<p>另外，我覺得臺師大的面試方式真的很讚，任何人想編故事來QA，我想絕對會被識破</p>
+<p>同時，可以 show 一下簡報補充說明，所以建議簡報可以除了預定要講的頁數，可以多製作幾頁，用來輔助說明一些歷程經驗<br>（所以建議可以帶個平板，沒有的人可以跟學校借~）</p>
+<p>另外，我覺得臺師大的面試方式真的很讚，任何人想編故事來 QA，我想絕對會被識破</p>
 <p>兩間的教授都問得很認真</p>
-<p>特別是第二間聊天式的QA</p>
-<p>最能展現考生真實的一面，所以就有多少講多少，盡量把事情講清楚不然容易被教授誤會（像是我社團那一part就講的有點模糊），當然也不要屈就自己，自信拿出來會有好成績的！</p>
+<p>特別是第二間聊天式的 QA</p>
+<p>最能展現考生真實的一面，所以就有多少講多少，盡量把事情講清楚不然容易被教授誤會（像是我社團那一 part 就講的有點模糊），當然也不要屈就自己，自信拿出來會有好成績的！</p>
 <p>至於台師大有偏好哪一類型的學生嗎？我是看不出來，我想更看中的是潛力和態度吧~</p>
 <blockquote>
-<p>補充說明：<br>為啥會有逕取？根據系主任說法，其實逕取是他們認為那些人會再其他學校重榜，學系想要在有線量能內增加複試能面的人才，才讓這些人逕取（白話文就是逕取的這些人高機率會去清交，所以就直接不面了，就算來了 能力也絕對沒問題）。</p>
+<p>補充說明：<br>為啥會有逕取？根據系主任說法，其實逕取是他們認為那些人會再其他學校重榜，學系想要在有限量能內增加複試能面的人才，才讓這些人逕取（白話文就是逕取的這些人高機率會去清交，所以就直接不面了，就算來了 能力也絕對沒問題）。</p>
 </blockquote>
 <hr>
 <h3 id="相關連結"><a href="#相關連結" class="headerlink" title="相關連結"></a>相關連結</h3><ul>
-<li><a class="link"   href="https://drive.google.com/file/d/1I_4nXczCJbcGica2nqz62rwdrvc3QbQT/view?usp=sharing" >112學年度大學辦理特殊選才招生計畫學校招生資訊 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link"   href="https://drive.google.com/file/d/1yl6SD626JX1nETaimg7GPvZutc-117jj/view?usp=sharing" >112學年度大學辦理特殊選才招生-資安外加名額招生資訊 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://drive.google.com/file/d/1I_4nXczCJbcGica2nqz62rwdrvc3QbQT/view?usp=sharing" >112 學年度大學辦理特殊選才招生計畫學校招生資訊 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://drive.google.com/file/d/1yl6SD626JX1nETaimg7GPvZutc-117jj/view?usp=sharing" >112 學年度大學辦理特殊選才招生-資安外加名額招生資訊 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
 </ul>
 ]]></content>
       <categories>
