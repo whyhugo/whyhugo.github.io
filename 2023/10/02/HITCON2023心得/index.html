@@ -14,18 +14,18 @@
     
     <!--- Seo Part-->
     
-    <link rel="canonical" href="https://whyhugo.github.io/2023/09/03/hitcon2023心得/"/>
+    <link rel="canonical" href="https://whyhugo.github.io/2023/10/02/hitcon2023心得/"/>
     <meta name="robots" content="index,follow">
     <meta name="googlebot" content="index,follow">
     <meta name="revisit-after" content="1 days">
     <meta property="og:type" content="article">
-    <meta property="og:title" content="HITCON CMT 2023｜心得">
+    <meta property="og:title" content="在 colab 上使用 selenium 與 webdriver 不報錯！">
     <meta property="og:description" content="電資｜生活｜分享">
-    <meta property="og:url" content="https://whyhugo.github.io2023/09/03/HITCON2023心得/">
+    <meta property="og:url" content="https://whyhugo.github.io2023/10/02/HITCON2023心得/">
     
     <meta property="og:site_name" content="WHY Garage">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="HITCON CMT 2023｜心得">
+    <meta name="twitter:title" content="在 colab 上使用 selenium 與 webdriver 不報錯！">
     <meta name="twitter:description" content="電資｜生活｜分享">
     <meta name="twitter:image" content="/images/WHY_favicon.png">
     <!--- Icon Part-->
@@ -37,7 +37,7 @@
     
     <title>
         
-            HITCON CMT 2023｜心得 -
+            在 colab 上使用 selenium 與 webdriver 不報錯！ -
         
         WHY Garage
     </title>
@@ -344,7 +344,7 @@
             
             
                 <div class="article-title">
-                    <h1 class="article-title-regular">HITCON CMT 2023｜心得</h1>
+                    <h1 class="article-title-regular">在 colab 上使用 selenium 與 webdriver 不報錯！</h1>
                 </div>
             
                 
@@ -364,16 +364,16 @@
                             <div class="article-meta-info">
     <span class="article-date article-meta-item">
         <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="pc">2023-09-03</span>
-        <span class="mobile">2023-09-03</span>
+        <span class="pc">2023-10-02</span>
+        <span class="mobile">2023-10-02</span>
         <span class="hover-info">撰寫</span>
     </span>
     <!--
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="pc">2023-09-03</span>
-            <span class="mobile">2023-09-03</span>
+            <span class="pc">2023-10-02</span>
+            <span class="mobile">2023-10-02</span>
             <span class="hover-info">更新</span>
         </span>
     
@@ -385,7 +385,7 @@
             <ul>
                 
                     <li>
-                        <a href="/categories/%E8%B3%87%E5%AE%89/">資安</a>&nbsp;
+                        <a href="/categories/%E6%8A%80%E8%A1%93%E7%AD%86%E8%A8%98/">技術筆記</a>&nbsp;
                     </li>
                 
             </ul>
@@ -397,15 +397,19 @@
             <ul>
                 
                     <li>
-                        <a href="/tags/%E5%BF%83%E5%BE%97/">心得</a>&nbsp;
+                        <a href="/tags/colab/">colab</a>&nbsp;
                     </li>
                 
                     <li>
-                        | <a href="/tags/HITCON/">HITCON</a>&nbsp;
+                        | <a href="/tags/selenium/">selenium</a>&nbsp;
                     </li>
                 
                     <li>
-                        | <a href="/tags/%E8%B3%87%E5%AE%89/">資安</a>&nbsp;
+                        | <a href="/tags/%E7%88%AC%E8%9F%B2/">爬蟲</a>&nbsp;
+                    </li>
+                
+                    <li>
+                        | <a href="/tags/webdriver/">webdriver</a>&nbsp;
                     </li>
                 
             </ul>
@@ -415,7 +419,7 @@
     
     
         <span class="article-wordcount article-meta-item">
-            <i class="fa-regular fa-file-word"></i>&nbsp;<span>919 字數</span>
+            <i class="fa-regular fa-file-word"></i>&nbsp;<span>776 字數</span>
         </span>
     
     
@@ -436,74 +440,52 @@
             
 
             <div class="article-content markdown-body">
-                <img  
+                <h2 id="requests-可以"><a href="#requests-可以" class="headerlink" title="requests 可以"></a>requests 可以</h2><p>起初，我原本以為 colab 設計上有限制使用者在上面爬蟲，不過實測過後，使用 requests get 可以確實取得資料。<br><img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/images/HITCON2023心得/20230903_234918.jpg"
+                     data-src="/images/using-selenium-in-colab/螢幕擷取畫面 2023-10-02 093430.png"
                       
-                >
-<center>2023/08/18~19 @中研院人文社會科學館</center>
-
-<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>HITCON 為臺灣重要的資安國際研討會，過去幾年我皆因為票價金錢因素而無緣參與。今年很幸運參與了「HITCON 2023 學生免費專案」獲得免費進場的機會，當然也是我第一次接觸資安相關主題的研討會，同時更成為了我繼七月底完成 AIS3 課程後持續探索的機會。</p>
+                ></p>
+<h2 id="selenium-想必也可以？"><a href="#selenium-想必也可以？" class="headerlink" title="selenium 想必也可以？"></a>selenium 想必也可以？</h2><p>在本機端爬蟲時我都是在 Windows 11 環境下運行 chromedriver；因此剛開始測試時，我直接將 chromedriver 上傳至雲端並使用 </p>
+<div class="highlight-container" data-rel="Python"><figure class="iseeu highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">from</span> google.colab <span class="keyword">import</span> driver</span><br><span class="line">drive.mount(<span class="string">&#x27;/content/drive&#x27;</span>)</span><br></pre></td></tr></table></figure></div>
+<p>來架接 Google Drive 路徑存取 chrome-driver<br>卻忽略了一個重點：<br>Google Colab 是 Linux 架構！！！！！<br>Google Colab 是 Linux 架構！！！！！<br>Google Colab 是 Linux 架構！！！！！<br>（很重要講三次）</p>
+<blockquote>
+<p><a class="link"   target="_blank" rel="noopener" href="https://googlechromelabs.github.io/chrome-for-testing/" >最新版 chromedriver 載點 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+</blockquote>
+<p>接著，我讓程式讀取 Linux64 的 chromedriver 的雲端路徑，並參考了需多網路上的做法卻依然持續出現 <code>wrong permissions</code> 的報錯。</p>
 <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/images/HITCON2023心得/20230818_135201.jpg"
-                      
-                >
-<center>人滿為患的 R0 會議廳</center>
-
-<h2 id="我參與的議程"><a href="#我參與的議程" class="headerlink" title="我參與的議程"></a>我參與的議程</h2><p>為期兩天的議程，印象最深刻的兩場分別是一場 Keynote：Your Teammate Isn’t Human: Mixing Decompilation and AI for Modern Reverse Engineering 與一場一般議程：Pennywise - Invisible privacy risk in the new AI era。兩場議程都跟過往我熟悉的 AI、ML 相關，其中 Pennywise - Invisible privacy risk in the new AI era 這場議程中分享生成式 AI 與 LLM 的發展過程中在法律、隱私權上的議題與風險，講者實際舉出現在產學界的現況與應對方法，在議程間我也協助撰寫共筆，整體的體驗使我對這場議程留下深刻的回憶與學習。</p>
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/images/HITCON2023心得/20230819_150952.jpg"
+                     data-src="/images/using-selenium-in-colab/螢幕擷取畫面 2023-10-02 091935.png"
                       
                 >
 
-<h2 id="其他讚讚的活動"><a href="#其他讚讚的活動" class="headerlink" title="其他讚讚的活動"></a>其他讚讚的活動</h2><p>兩天的研討會當中我花了不少時間在體驗大地遊戲，其中盲文、地圖等題都讓我花了不少時間才解出來，而摩斯密碼則是以外的立即通靈出來！最後也成功完成了所有關卡獲得獎品—Google 口罩套👍，不得不說真的很佩服設計這些關卡的團隊，要把這些主線、支線、故事劇情、技術題目拼湊起來真的超強的。</p>
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/images/HITCON2023心得/20230903_225523.jpg"
-                      
-                >
-<center>大地遊戲</center>
-<br>
-另外，兩天下午的茶點真的是太強了，從鹹的到甜的的樣樣都有，而且精緻程度大概我過往參加過的研討會中最猛的。甚至我還為了超強的茶點，放棄參與 Day 2 與 Tea Time 時間重疊的 Hacking 101 議程：麋鹿在芝麻街 - ELK x BERT 資安分析實戰XD，因此這次完全沒有參與到超級搶手的 Hacking 101 活動，希望未來這個議程可以延續辦下去。
-<br>
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/images/HITCON2023心得/20230903_233716.jpg"
-                      
-                >
-<center>超強的茶點 & 打卡就送的冰淇淋</center>
-
-<h2 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h2><p>能有幸參與今年的 HITCON CMT 2023 要非常感謝籌辦團隊提供學生免費專案的申請機會，讓身為學生目前口袋有點緊的我可以在資安領域獲得更廣闊的學習機會（讓我拿了紀念 T-shirt和不少企業贈品XD）。在 Day 2 的協會時間中也讓我更認識 HIT 的精神與在資安發展上的實務行動，同時更清楚這次研討會籌備、審稿背後的故事與秘辛；在各企業的攤位中使我更加了解目前業界職缺、實習機會與各企業致力發展的方向，也感受到各企業在為這次演討會設計的小遊戲上滿滿的用心，包括：奧義智慧的自創攻防指令比分遊戲、中華資安的投資遊戲甚至要去翻前端 code 才能解出來。這次的研討會真的不枉費我連續兩天早起參與，當然會場早茶提供的熱咖啡確實給我了精神上的調劑👍，真心希望明年還有學生免費專案可以參與，不然我就只能跳坑了啊。&gt;&lt;</p>
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/images/HITCON2023心得/20230819_165639.jpg"
-                      
-                >
-<center>閉幕散場與會場酷酷的燈光</center>
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/images/HITCON2023心得/20230818_121228.jpg"
-                      
-                >
-<center>很喜歡今年的設計風格</center>
-
-<hr>
+<h3 id="出-bug-的解方"><a href="#出-bug-的解方" class="headerlink" title="出 bug 的解方"></a>出 bug 的解方</h3><p>解決的過程中，歷經了腦袋一片混亂，到處翻了各種語言的資料，被 ChatGPT 耍了一波……QAQ</p>
+<p>這邊就直接讓大家少走這些冤枉路吧~<br>(以下解方為 Oct. 2nd, 2023 時適用的方法)</p>
 <ul>
-<li><a class="link"   target="_blank" rel="noopener" href="https://hackmd.io/@HITCON/2023-note" >HITCON CMT 2023 議程共筆 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link"   target="_blank" rel="noopener" href="https://hitcon.org/2023/CMT/" >HITCON CMT 2023 官網 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link"   target="_blank" rel="noopener" href="https://www.facebook.com/HITCON/" >Facebook @HITCON <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link"   target="_blank" rel="noopener" href="https://twitter.com/HacksInTaiwan" >X @HacksInTaiwan <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link"   target="_blank" rel="noopener" href="https://blog.hitcon.org/" >HITCON’s blog <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link"   target="_blank" rel="noopener" href="https://instagram.com/hacksintaiwan" >IG @hacksintaiwan <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>為何 Google Colab 無法直接執行 selenium 與 webdriver(chromedriver)?<ul>
+<li>Colab 架構為 Linux 雲端虛擬機，由於目前使用 Ubuntu 20.04 LTS，已不再支援直接使用 chromium-browser</li>
+<li><strong>解決辦法為：從 Debian buster repository 安裝套件</strong></li>
+</ul>
+</li>
+<li>若完成上述步驟後為何還是會有其他報錯<ul>
+<li>完成上述步驟後基本上已經可以執行程式，若還有報錯，此時大多數的原因為 selenium 在 4.10.0 版後，陸續有不少語法上的更新，而 <code>pip install selemium</code> 預設安裝最新版本 4.13.0，許多網路上及書本中的 source code 無法相容</li>
+<li><strong>解決辦法為：安裝時指定 4.3.0 版，<code>pip install selenium==4.3.0</code></strong></li>
+</ul>
+</li>
+</ul>
+<h3 id="source-code"><a href="#source-code" class="headerlink" title="source code"></a>source code</h3><ol>
+<li><p>從 Debian buster repository 安裝套件</p>
+<div class="highlight-container" data-rel="Python"><figure class="iseeu highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br></pre></td><td class="code"><pre><span class="line">%%shell</span><br><span class="line"><span class="comment"># Ubuntu no longer distributes chromium-browser outside of snap</span></span><br><span class="line"><span class="comment">#</span></span><br><span class="line"><span class="comment"># Proposed solution: https://askubuntu.com/questions/1204571/how-to-install-chromium-without-snap</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># Add debian buster</span></span><br><span class="line">cat &gt; /etc/apt/sources.<span class="built_in">list</span>.d/debian.<span class="built_in">list</span> &lt;&lt;<span class="string">&#x27;EOF&#x27;</span></span><br><span class="line">deb [arch=amd64 signed-by=/usr/share/keyrings/debian-buster.gpg] http://deb.debian.org/debian buster main</span><br><span class="line">deb [arch=amd64 signed-by=/usr/share/keyrings/debian-buster-updates.gpg] http://deb.debian.org/debian buster-updates main</span><br><span class="line">deb [arch=amd64 signed-by=/usr/share/keyrings/debian-security-buster.gpg] http://deb.debian.org/debian-security buster/updates main</span><br><span class="line">EOF</span><br><span class="line"></span><br><span class="line"><span class="comment"># Add keys</span></span><br><span class="line">apt-key adv --keyserver keyserver.ubuntu.com --recv-keys DCC9EFBF77E11517</span><br><span class="line">apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 648ACFD622F3D138</span><br><span class="line">apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 112695A0E562B32A</span><br><span class="line"></span><br><span class="line">apt-key export <span class="number">77E11517</span> | gpg --dearmour -o /usr/share/keyrings/debian-buster.gpg</span><br><span class="line">apt-key export 22F3D138 | gpg --dearmour -o /usr/share/keyrings/debian-buster-updates.gpg</span><br><span class="line">apt-key export E562B32A | gpg --dearmour -o /usr/share/keyrings/debian-security-buster.gpg</span><br><span class="line"></span><br><span class="line"><span class="comment"># Prefer debian repo for chromium* packages only</span></span><br><span class="line"><span class="comment"># Note the double-blank lines between entries</span></span><br><span class="line">cat &gt; /etc/apt/preferences.d/chromium.pref &lt;&lt; <span class="string">&#x27;EOF&#x27;</span></span><br><span class="line">Package: *</span><br><span class="line">Pin: release a=eoan</span><br><span class="line">Pin-Priority: <span class="number">500</span></span><br><span class="line"></span><br><span class="line">Package: *</span><br><span class="line">Pin: origin <span class="string">&quot;deb.debian.org&quot;</span></span><br><span class="line">Pin-Priority: <span class="number">300</span></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">Package: chromium*</span><br><span class="line">Pin: origin <span class="string">&quot;deb.debian.org&quot;</span></span><br><span class="line">Pin-Priority: <span class="number">700</span></span><br><span class="line">EOF</span><br><span class="line"></span><br><span class="line"><span class="comment"># Install chromium and chromium-driver</span></span><br><span class="line">apt-get update</span><br><span class="line">apt-get install chromium chromium-driver</span><br><span class="line"></span><br><span class="line"><span class="comment"># Install selenium</span></span><br><span class="line">pip install selenium <span class="comment">#若要指定版本，在這行後邊直接加上 ==版本號碼</span></span><br></pre></td></tr></table></figure></div>
+</li>
+<li><p>執行 selenium 程式</p>
+<div class="highlight-container" data-rel="Python"><figure class="iseeu highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">from</span> selenium <span class="keyword">import</span> webdriver</span><br><span class="line">chrome_options = webdriver.ChromeOptions()</span><br><span class="line">chrome_options.add_argument(<span class="string">&#x27;--headless&#x27;</span>)</span><br><span class="line">chrome_options.add_argument(<span class="string">&#x27;--no-sandbox&#x27;</span>)</span><br><span class="line">chrome_options.headless = <span class="literal">True</span></span><br><span class="line">drive = webdriver.Chrome(<span class="string">&#x27;chromedriver&#x27;</span>,options=chrome_options)</span><br><span class="line">drive.get(<span class="string">&quot;https://www.google.com&quot;</span>)</span><br></pre></td></tr></table></figure></div></li>
+</ol>
+<h2 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h2><ul>
+<li><a class="link"   target="_blank" rel="noopener" href="https://github.com/SeleniumHQ/selenium/issues/12746" >https://github.com/SeleniumHQ/selenium/issues/12746 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   target="_blank" rel="noopener" href="https://stackoverflow.com/questions/51046454/how-can-we-use-selenium-webdriver-in-colab-research-google-com" >https://stackoverflow.com/questions/51046454/how-can-we-use-selenium-webdriver-in-colab-research-google-com <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   target="_blank" rel="noopener" href="https://github.com/googlecolab/colabtools/issues/3347/" >https://github.com/googlecolab/colabtools/issues/3347/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   target="_blank" rel="noopener" href="https://ithelp.ithome.com.tw/questions/10211773?sc=pt" >https://ithelp.ithome.com.tw/questions/10211773?sc=pt <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
 </ul>
 
             </div>
@@ -512,15 +494,15 @@
                 <div class="post-copyright-info">
                     <div class="article-copyright-info-container">
     <ul>
-        <li><b>HITCON CMT 2023｜心得</b></li>
+        <li><b>在 colab 上使用 selenium 與 webdriver 不報錯！</b></li>
 
         <li style="font-size:13.5px">
-            https://whyhugo.github.io/2023/09/03/HITCON2023心得/
+            https://whyhugo.github.io/2023/10/02/HITCON2023心得/
         </li>        
 
         <li>文章作者：Hugo Wang</li>
 
-        <li>撰寫時間：2023-09-03</li>
+        <li>撰寫時間：2023-10-02</li>
 
         <li align="center">
             《版權宣告》
@@ -544,15 +526,19 @@
                 <ul class="post-tags-box">
                     
                         <li class="tag-item">
-                            <a href="/tags/%E5%BF%83%E5%BE%97/">#心得</a>&nbsp;
+                            <a href="/tags/colab/">#colab</a>&nbsp;
                         </li>
                     
                         <li class="tag-item">
-                            <a href="/tags/HITCON/">#HITCON</a>&nbsp;
+                            <a href="/tags/selenium/">#selenium</a>&nbsp;
                         </li>
                     
                         <li class="tag-item">
-                            <a href="/tags/%E8%B3%87%E5%AE%89/">#資安</a>&nbsp;
+                            <a href="/tags/%E7%88%AC%E8%9F%B2/">#爬蟲</a>&nbsp;
+                        </li>
+                    
+                        <li class="tag-item">
+                            <a href="/tags/webdriver/">#webdriver</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -563,29 +549,14 @@
             
                 <div class="article-nav">
                     
-                        <div class="article-prev">
-                            <a class="prev"
-                            rel="prev"
-                            href="/2023/10/02/HITCON2023%E5%BF%83%E5%BE%97/"
-                            >
-                                <span class="left arrow-icon flex-center">
-                                    <i class="fa-solid fa-chevron-left"></i>
-                                </span>
-                                <span class="title flex-center">
-                                    <span class="post-nav-title-item">在 colab 上使用 selenium 與 webdriver 不報錯！</span>
-                                    <span class="post-nav-item">上一篇</span>
-                                </span>
-                            </a>
-                        </div>
-                    
                     
                         <div class="article-next">
                             <a class="next"
                             rel="next"
-                            href="/2023/06/04/MyFirstCTF%E5%BF%83%E5%BE%97/"
+                            href="/2023/09/03/HITCON2023%E5%BF%83%E5%BE%97/"
                             >
                                 <span class="title flex-center">
-                                    <span class="post-nav-title-item">My First CTF 2023｜心得</span>
+                                    <span class="post-nav-title-item">HITCON CMT 2023｜心得</span>
                                     <span class="post-nav-item">下一篇</span>
                                 </span>
                                 <span class="right arrow-icon flex-center">
@@ -650,8 +621,8 @@
                 <div class="post-toc-wrap">
     <div class="post-toc">
         <div class="toc-title"><i class="fa-regular fa-list-dropdown"></i> 文章目錄</div>
-        <div class="page-title">HITCON CMT 2023｜心得</div>
-        <ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%89%8D%E8%A8%80"><span class="nav-text">前言</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E6%88%91%E5%8F%83%E8%88%87%E7%9A%84%E8%AD%B0%E7%A8%8B"><span class="nav-text">我參與的議程</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%85%B6%E4%BB%96%E8%AE%9A%E8%AE%9A%E7%9A%84%E6%B4%BB%E5%8B%95"><span class="nav-text">其他讚讚的活動</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%B8%BD%E7%B5%90"><span class="nav-text">總結</span></a></li></ol>
+        <div class="page-title">在 colab 上使用 selenium 與 webdriver 不報錯！</div>
+        <ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#requests-%E5%8F%AF%E4%BB%A5"><span class="nav-text">requests 可以</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#selenium-%E6%83%B3%E5%BF%85%E4%B9%9F%E5%8F%AF%E4%BB%A5%EF%BC%9F"><span class="nav-text">selenium 想必也可以？</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%87%BA-bug-%E7%9A%84%E8%A7%A3%E6%96%B9"><span class="nav-text">出 bug 的解方</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#source-code"><span class="nav-text">source code</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Reference"><span class="nav-text">Reference</span></a></li></ol>
 
     </div>
 </div>
