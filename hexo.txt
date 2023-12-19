@@ -1,0 +1,14 @@
+hexo server
+
+hexo new [layout] "<title>"
+
+hexo cl
+hexo g -d
+
+color leap
+khroma
+brand colors
+adobe color
+chinese/nippon colors
+pigment
+palettable
