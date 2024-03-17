@@ -38,166 +38,146 @@
       </tags>
   </entry>
   <entry>
-    <title>My First CTF 2023｜心得</title>
-    <url>/2023/06/04/MyFirstCTF%E5%BF%83%E5%BE%97/</url>
-    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>進高中開始玩電資圈後就一直有想學資安的念頭，<br>但自學資源不易取得且入門門檻相對高，<br>於是就一頭栽入了 AI 領域；<br>直到剛好特選上岸後，有了相當長一段自由的時間，<br>於是這次決定來打一生一次的 My First CTF 2023。</p>
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/images/MyFirstCTF心得/20230513_094339.jpg"
-                      
-                >
-
-<h2 id="賽前"><a href="#賽前" class="headerlink" title="賽前"></a>賽前</h2><p>我很早以前大概就知道 CTF 競賽的概念，<br>大概就是類似用程式解謎獲得 flag 提交後得分，<br>（My First CTF 屬於 Jeopardy 類型的比賽，基本上目前國內給高中生的競賽都是此類）<br>不過究竟是如何實作我實在是毫無頭緒，<br>在網路上蒐集一些資料後開始在 picoCTF 上刷題。</p>
-<p>👇以下也附上幾個蠻多人推薦的練習網站 &amp; 資源~</p>
-<ul>
-<li><a class="link"   href="https://picoctf.org/" >picoCTF <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link"   href="https://www.ctfhub.com/#/index" >CTFHub <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link"   href="https://lotuxctf.com/" >LoTuX CTF <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link"   href="https://ctflearn.com/" >CTFLEARN <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link"   href="https://hackmd.io/@hSnxK9vjScK81ezlVUOpZA/HyS2ErKm9?print-pdf#/" >資安 X CTF的介紹 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link"   href="https://infosecdecompress.com/posts/patches_study_resources_for_cybersecurity?fbclid=IwAR0kRJjlsHsx8dX9GyFPiw2PeURMgBAL6pG4rFyk0NfWB4OzMS1yJc_ZALo" >資安學習資源包 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link"   href="https://github.com/Ice1187/TW-Security-and-CTF-Resource" >台灣資安 &#x2F; CTF 學習資源整理 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link"   href="https://github.com/ktecv2000/How-to-play-CTF" >How to play CTF <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+    <title>112 特殊選才｜熱門校系簡章彙整</title>
+    <url>/2022/12/18/%E7%89%B9%E6%AE%8A%E9%81%B8%E6%89%8D%E7%B0%A1%E7%AB%A0/</url>
+    <content><![CDATA[<p>今年度特殊選才招生在近期即將邁入尾聲~<br>這次彙整今年度有招收不分系、電資學系的熱門校系簡章跟大家分享，<br>給各位學弟妹參考招生方式與資格，<br>資工、不分系從特選開辦以來一直穩坐報名人數龍頭，競爭強度更是海放他系🥵<br>有計畫想嘗試的人可以盡早準備充實自己！</p>
+<h2 id="🗂️檔案連結"><a href="#🗂️檔案連結" class="headerlink" title="🗂️檔案連結"></a>🗂️檔案連結</h2><table>
+<thead>
+<tr>
+<th>學校簡章</th>
+<th>學校簡章</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><a class="link"   href="https://drive.google.com/file/d/1MvSx-yugc1fsDHP-sUS6-nCELFgFKKo5/view?usp=sharing" >國立臺灣大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+<td><a class="link"   href="https://drive.google.com/file/d/12dQeETKWSMecNmpsfHHqukKDbBhGs7Mz/view?usp=sharing" >國立中山大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+</tr>
+<tr>
+<td><a class="link"   href="https://drive.google.com/file/d/1shx2jgua5xMZRdFFwgsf_gvp6Z-pL9Hy/view?usp=sharing" >國立臺灣師範大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+<td><a class="link"   href="https://drive.google.com/file/d/1ylJTXJRA5oet7tASjjodyPlk1Z1RKEmS/view?usp=sharing" >國立中正大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+</tr>
+<tr>
+<td><a class="link"   href="https://drive.google.com/file/d/1f37NdnIMhx3Yb5s0Ooj1matulp9L_x0N/view?usp=sharing" >國立中興大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+<td><a class="link"   href="https://drive.google.com/file/d/1yE3cIz5e_PHDtrGlzOy-3h2ql3YAunSt/view?usp=sharing" >國立東華大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+</tr>
+<tr>
+<td><a class="link"   href="https://drive.google.com/file/d/19dDLmJlSu2cOUDual4X0cQ5rQMGZDXqY/view?usp=sharing" >國立成功大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+<td><a class="link"   href="https://drive.google.com/file/d/1WL8qf7xXZkfhyeTt8qBaNbFJ7awVf6ho/view?usp=sharing" >國立台北大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+</tr>
+<tr>
+<td><a class="link"   href="https://drive.google.com/file/d/1A65houjakXAo6vIPtcOFi094XYuW63cA/view?usp=sharing" >國立政治大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+<td><a class="link"   href="https://drive.google.com/file/d/13scHH-5mvW7UaMueoQTiMhg9TUbFjgnQ/view?usp=sharing" >中原大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+</tr>
+<tr>
+<td><a class="link"   href="https://drive.google.com/file/d/1gZDLHHhQ1_lbeb7NBSS7vV7xtNF8AeSq/view?usp=sharing" >國立清華大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+<td><a class="link"   href="https://drive.google.com/file/d/1rzvwcJF0odeOFMSojnJH2Lt9oTtpFf1O/view?usp=sharing" >逢甲大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+</tr>
+<tr>
+<td><a class="link"   href="https://drive.google.com/file/d/1100pUIf64_wEO1O5vlv_hsQU3aQEjQMu/view?usp=sharing" >國立陽明交通大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+<td><a class="link"   href="https://drive.google.com/file/d/1wB3-8U6kl88_DrxwkaiNCsk4j_sriXKk/view?usp=sharing" >輔仁大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+</tr>
+<tr>
+<td><a class="link"   href="https://drive.google.com/file/d/1qDoEAe8myagunjn-4NYgZb7pNe6hQI26/view?usp=sharing" >國立中央大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+<td><a class="link"   href="https://drive.google.com/file/d/1g7LkGeXlVBleEhgOsp7nNHgCaIU3hhwO/view?usp=sharing" >元智大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+</tr>
+<tr>
+<td><a class="link"   href="https://drive.google.com/file/d/1-uPFMQK2f6r01Vw9wpKWjeEladWonbgs/view?usp=sharing" >國立臺灣海洋大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+<td></td>
+</tr>
+</tbody></table>
+<h3 id="📑收錄："><a href="#📑收錄：" class="headerlink" title="📑收錄："></a>📑收錄：</h3><ul>
+<li>國立：中山、中央、中正、中興、北大、台大、臺師大、成大、東華、政大、海大、清大、陽明交大。</li>
+<li>私立：中原、元智、逢甲、輔仁。</li>
 </ul>
-<p>由於賽前這幾週有些忙碌，<br>最終只刷了 General Skill 480 分，<br>基本上只有很 basic 的下指令能力而已，<br>而且其中蠻多題都是靠網路上的 Write up 提示才解出來。</p>
-<h2 id="MFC-當天"><a href="#MFC-當天" class="headerlink" title="MFC 當天"></a>MFC 當天</h2><p>到賽前我都還以為比賽名稱 My First CTF 會在現場帶大家簡介一下 CTF 賽制和一些 Linux 操作之類的，結果完全沒有！<br>教授們致詞完後就直接開始比賽～<br>所以我當下是有點慌張的，因為對我來說這真的是 My First CTF，所以這邊建議之後來參賽的人，務必先裝好 Linux (我自己是用裝 ubuntu 在 VM)，然後熟悉一下操作方式，特別是 terminal！<br>千萬別像我傻傻的想用 Windows 解題，impossible～（真的要說還是有機會啦，不過很少）<br>今年題目的部分，基本上我只解了大約兩三題，不過因為 Write up 好像來不能公開，所以這段我先略過，七月再補上來。<br>（七月補上：結果主辦方沒有給 Write up，附上我解的三個入門題的 Write up <a class="link"   href="https://hackmd.io/@whyhugo/HJUBFS3S2" >🫠點我 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>）<br>其中最有趣的是比賽接近尾聲時突然出現一題「問卷回饋」，填完表單就能拿到 flag😂</p>
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/images/MyFirstCTF心得/20230513_094401.jpg"
-                      
-                >
-
-<p>另外現場的飲料可以一直拿，超讚！<br>而且午餐便當好吃的外還有附一大杯奶綠，好爽 ouo<br>整體體驗 UP 👍</p>
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/images/MyFirstCTF心得/20230513_174033.jpg"
-                      
-                >
-
-<h2 id="SecurityFocus-Online"><a href="#SecurityFocus-Online" class="headerlink" title="SecurityFocus Online"></a>SecurityFocus Online</h2><p>我在賽後真的開始覺得自己有夠廢，所以報了教育部資通計畫的 SecurityFocus Online，真心大推，特別是北部缺乏資安學習資源的同學，想入門 CTF 來報這個準沒錯～</p>
-<p>課程為期 5 天，完全線上，<br>流程大概是，<br>主辦單位會給 GitHub 和 Notion 筆記給你先自學一些基礎知識，教材寫得很清楚，連我這種 0 經驗的都看得懂，<br>接著是一天上午+下午的 meet 課程，老師會講解筆記中的題目、一些技術原理、為何這樣解等等，有問題也可以即時跟老師討論。<br>最後兩天給大家在 CTF 平台解題，<br>題目算很豐富的，有編解碼、網站安全、古典密碼學、Linux command、隱寫術、鑑識分析、Python、編解密碼學、PPC 解題等，<br>解不出來有 Write up 可以看，有一些程式基礎的人應該都看得懂，阿如果遇到真的不行的也可以在dc上直接討論（我是直接私訊高英耀老師，老師人超好，每個回答都很完整，感受到老師滿滿的教學熱忱）。<br>我最後有解完所有題目 2620 分，排名第三，解題過程看著排行榜一直往前衝，蠻有成就感的，一不小心就解到凌晨五點XD<br>重要的事，真的學到很多很多各種 CTF 題型的方法！真心大推！</p>
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/images/MyFirstCTF心得/CTFd_scoreboard_2023-05-27T17 52 40.png"
-                      
-                >
-<center>SecurityFocus Online CTF Top 10 Users</center>
-
-<h2 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h2><p>最後整理以上建議，<br>跟我一樣的完全新手來 My First CTF 前務必：</p>
-<ul>
-<li>架好並熟悉 Linux </li>
-<li>去參加一下 SecurityFocus Online</li>
-<li>刷一些 picoCTF</li>
+<h3 id="💡觀看重點："><a href="#💡觀看重點：" class="headerlink" title="💡觀看重點："></a>💡觀看重點：</h3><ul>
+<li>學系報考資格</li>
+<li>計分項目</li>
+<li>報名日程先後：例如，中央歷年幾乎都會最早開始（今年 9&#x2F;29~10&#x2F;5），私校期程最長且最晚（逢甲今年 10&#x2F;24~11&#x2F;23）</li>
+<li>招收人數：每年變動不大，之後我會分享我整理好的更詳細的統計資料～</li>
+<li>資安外加名額：（配合國家資安培育資安學研人才計畫，首度辦理）今年有台、政、清、師、興、央、海</li>
+<li>抉擇考量：特選期程會跟學測準備期完全重疊，若是落榜 大機率要退守分科，是否保守走個申，把豐富的學習歷程留到二階，是一個值得討論的想法～（而且若特選上了是不能參與繁星、個申、分發入學的喔）</li>
 </ul>
-<p>其他就是比賽現場的手感、經驗和通靈了吧 XD</p>
-<p>另外，在 MFC 除了可以拿來參與資工資安組的特殊選才招考，<br>表現優異者有機會直接保送進 AIS3 培訓營隊喔！</p>
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/images/MyFirstCTF心得/FB_IMG_1684084518635.jpg"
-                      
-                >
+<hr>
+<h3 id="相關連結"><a href="#相關連結" class="headerlink" title="相關連結"></a>相關連結</h3><ul>
+<li><a class="link"   href="https://drive.google.com/file/d/1I_4nXczCJbcGica2nqz62rwdrvc3QbQT/view?usp=sharing" >112 學年度大學辦理特殊選才招生計畫學校招生資訊 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://drive.google.com/file/d/1yl6SD626JX1nETaimg7GPvZutc-117jj/view?usp=sharing" >112 學年度大學辦理特殊選才招生-資安外加名額招生資訊 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a href="https://whyhugo.github.io/2023/03/27/%E7%89%B9%E6%AE%8A%E9%81%B8%E6%89%8D%E4%BA%BA%E6%95%B8%E6%95%B8%E6%93%9A/">112 特殊選才電資類學生熱門校系數據統計</a></li>
+</ul>
 ]]></content>
       <categories>
-        <category>資安</category>
+        <category>特殊選才</category>
       </categories>
       <tags>
-        <tag>CTF</tag>
-        <tag>資安</tag>
-        <tag>心得</tag>
+        <tag>特殊選才</tag>
+        <tag>簡章</tag>
       </tags>
   </entry>
   <entry>
-    <title>HITCON CMT 2023｜心得</title>
-    <url>/2023/09/03/HITCON2023%E5%BF%83%E5%BE%97/</url>
-    <content><![CDATA[<img  
+    <title>在 Colab 上使用 selenium 與 webdriver 不報錯！</title>
+    <url>/2023/10/02/using-selenium-in-colab/</url>
+    <content><![CDATA[<h2 id="試試-requests"><a href="#試試-requests" class="headerlink" title="試試 requests"></a>試試 requests</h2><p>起初，我原本以為 Colab 設計上有限制使用者在上面爬蟲，不過實測過後，使用 requests get 可以確實取得資料。<br><img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/images/HITCON2023心得/20230903_234918.jpg"
+                     data-src="/images/using-selenium-in-colab/螢幕擷取畫面 2023-10-02 093430.png"
                       
-                >
-<center>2023/08/18~19 @中研院人文社會科學館</center>
-
-<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>HITCON 為臺灣重要的資安國際研討會，過去幾年我皆因為票價金錢因素而無緣參與。今年很幸運參與了「HITCON 2023 學生免費專案」獲得免費進場的機會，當然也是我第一次接觸資安相關主題的研討會，同時更成為了我繼七月底完成 AIS3 課程後持續探索的機會。</p>
+                ></p>
+<h2 id="selenium-想必也可以？"><a href="#selenium-想必也可以？" class="headerlink" title="selenium 想必也可以？"></a>selenium 想必也可以？</h2><p>在本機端爬蟲時我都是在 Windows 11 環境下運行 chromedriver；因此剛開始測試時，我直接將 chromedriver 上傳至雲端並使用 </p>
+<div class="highlight-container" data-rel="Python"><figure class="iseeu highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> google.colab <span class="keyword">import</span> driver</span><br><span class="line">drive.mount(<span class="string">&#x27;/content/drive&#x27;</span>)</span><br></pre></td></tr></table></figure></div>
+<p>來架接 Google Drive 路徑存取 chrome-driver<br>卻忽略了一個重點：<br>Google Colab 是 Linux 架構！！！！！<br>Google Colab 是 Linux 架構！！！！！<br>Google Colab 是 Linux 架構！！！！！<br>（很重要講三次）</p>
+<blockquote>
+<p><a class="link"   href="https://googlechromelabs.github.io/chrome-for-testing/" >最新版 chromedriver 載點 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+</blockquote>
+<p>接著，我讓程式讀取 Linux64 的 chromedriver 的雲端路徑，並參考了需多網路上的做法卻依然持續出現 <code>wrong permissions</code> 的報錯。</p>
 <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/images/HITCON2023心得/20230818_135201.jpg"
-                      
-                >
-<center>人滿為患的 R0 會議廳</center>
-
-<h2 id="我參與的議程"><a href="#我參與的議程" class="headerlink" title="我參與的議程"></a>我參與的議程</h2><p>為期兩天的議程，印象最深刻的兩場分別是一場 Keynote：Your Teammate Isn’t Human: Mixing Decompilation and AI for Modern Reverse Engineering 與一場一般議程：Pennywise - Invisible privacy risk in the new AI era。兩場議程都跟過往我熟悉的 AI、ML 相關，其中 Pennywise - Invisible privacy risk in the new AI era 這場議程中分享生成式 AI 與 LLM 的發展過程中在法律、隱私權上的議題與風險，講者實際舉出現在產學界的現況與應對方法，在議程間我也協助撰寫共筆，整體的體驗使我對這場議程留下深刻的回憶與學習。</p>
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/images/HITCON2023心得/20230819_150952.jpg"
+                     data-src="/images/using-selenium-in-colab/螢幕擷取畫面 2023-10-02 091935.png"
                       
                 >
 
-<h2 id="其他讚讚的活動"><a href="#其他讚讚的活動" class="headerlink" title="其他讚讚的活動"></a>其他讚讚的活動</h2><p>兩天的研討會當中我花了不少時間在體驗大地遊戲，其中盲文、地圖等題都讓我花了不少時間才解出來，而摩斯密碼則是以外的立即通靈出來！最後也成功完成了所有關卡獲得獎品 — Google 口罩套👍，不得不說真的很佩服設計這些關卡的團隊，要把這些主線、支線、故事劇情、技術題目拼湊起來真的超強的。</p>
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/images/HITCON2023心得/20230903_225523.jpg"
-                      
-                >
-<center>大地遊戲</center>
-<br>
-另外，兩天下午的茶點真的是太強了，從鹹的到甜的的樣樣都有，而且精緻程度大概我過往參加過的研討會中最猛的。甚至我還為了超強的茶點，放棄參與 Day 2 與 Tea Time 時間重疊的 Hacking 101 議程：麋鹿在芝麻街 - ELK x BERT 資安分析實戰 XD，因此這次完全沒有參與到超級搶手的 Hacking 101 活動，希望未來這個議程可以延續辦下去。
-<br>
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/images/HITCON2023心得/20230903_233716.jpg"
-                      
-                >
-<center>超強的茶點 & 打卡就送的冰淇淋</center>
-
-<h2 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h2><p>能有幸參與今年的 HITCON CMT 2023 要非常感謝籌辦團隊提供學生免費專案的申請機會，讓身為學生目前口袋有點緊的我可以在資安領域獲得更廣闊的學習機會（讓我拿了紀念 T-shirt 和不少企業贈品 XD）。在 Day 2 的協會時間中也讓我更認識 HIT 的精神與在資安發展上的實務行動，同時更清楚這次研討會籌備、審稿背後的故事與秘辛；在各企業的攤位中使我更加了解目前業界職缺、實習機會與各企業致力發展的方向，也感受到各企業在為這次演討會設計的小遊戲上滿滿的用心，包括：奧義智慧的自創攻防指令比分遊戲、中華資安的投資遊戲甚至要去翻前端 code 才能解出來。這次的研討會真的不枉費我連續兩天早起參與，當然會場早茶提供的熱咖啡確實給我了精神上的調劑👍，真心希望明年還有學生免費專案可以參與，不然我就只能跳坑了啊。&gt;&lt;</p>
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/images/HITCON2023心得/20230819_165639.jpg"
-                      
-                >
-<center>閉幕散場與會場酷酷的燈光</center>
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/images/HITCON2023心得/20230818_121228.jpg"
-                      
-                >
-<center>很喜歡今年的設計風格</center>
-
-<hr>
+<h3 id="出-bug-的解方"><a href="#出-bug-的解方" class="headerlink" title="出 bug 的解方"></a>出 bug 的解方</h3><p>解決的過程中，歷經了腦袋一片混亂，到處翻了各種語言的資料，被 ChatGPT 耍了一波……QAQ</p>
+<p>這邊就直接讓大家少走這些冤枉路吧~<br>(以下解方為 Oct. 2nd, 2023 時適用的方法)</p>
 <ul>
-<li><a class="link"   href="https://hackmd.io/@HITCON/2023-note" >HITCON CMT 2023 議程共筆 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link"   href="https://hitcon.org/2023/CMT/" >HITCON CMT 2023 官網 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link"   href="https://www.facebook.com/HITCON/" >Facebook @HITCON <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link"   href="https://twitter.com/HacksInTaiwan" >X @HacksInTaiwan <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link"   href="https://blog.hitcon.org/" >HITCON’s blog <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link"   href="https://instagram.com/hacksintaiwan" >IG @hacksintaiwan <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>為何 Google Colab 無法直接執行 selenium 與 webdriver(chromedriver)?<ul>
+<li>Colab 架構為 Linux 雲端虛擬機，由於目前使用 Ubuntu 20.04 LTS，已不再支援直接使用 chromium-browser</li>
+<li><strong>解決辦法為：從 Debian buster repository 安裝套件</strong></li>
+</ul>
+</li>
+<li>若完成上述步驟後為何還是會有其他報錯<ul>
+<li>完成上述步驟後基本上已經可以執行程式，若還有報錯，此時大多數的原因為 selenium 在 4.10.0 版後，陸續有不少語法上的更新，而 <code>pip install selenium</code> 預設安裝最新版本 4.13.0，許多網路上及書本中的 source code 無法相容</li>
+<li><strong>解決辦法為：安裝時指定 4.3.0 版，<code>pip install selenium==4.3.0</code></strong></li>
+</ul>
+</li>
+</ul>
+<h3 id="source-code"><a href="#source-code" class="headerlink" title="source code"></a>source code</h3><ol>
+<li><p>從 Debian buster repository 安裝套件</p>
+<div class="highlight-container" data-rel="Python"><figure class="iseeu highlight python"><table><tr><td class="code"><pre><span class="line">%%shell</span><br><span class="line"><span class="comment"># Ubuntu no longer distributes chromium-browser outside of snap</span></span><br><span class="line"><span class="comment">#</span></span><br><span class="line"><span class="comment"># Proposed solution: https://askubuntu.com/questions/1204571/how-to-install-chromium-without-snap</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># Add debian buster</span></span><br><span class="line">cat &gt; /etc/apt/sources.<span class="built_in">list</span>.d/debian.<span class="built_in">list</span> &lt;&lt;<span class="string">&#x27;EOF&#x27;</span></span><br><span class="line">deb [arch=amd64 signed-by=/usr/share/keyrings/debian-buster.gpg] http://deb.debian.org/debian buster main</span><br><span class="line">deb [arch=amd64 signed-by=/usr/share/keyrings/debian-buster-updates.gpg] http://deb.debian.org/debian buster-updates main</span><br><span class="line">deb [arch=amd64 signed-by=/usr/share/keyrings/debian-security-buster.gpg] http://deb.debian.org/debian-security buster/updates main</span><br><span class="line">EOF</span><br><span class="line"></span><br><span class="line"><span class="comment"># Add keys</span></span><br><span class="line">apt-key adv --keyserver keyserver.ubuntu.com --recv-keys DCC9EFBF77E11517</span><br><span class="line">apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 648ACFD622F3D138</span><br><span class="line">apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 112695A0E562B32A</span><br><span class="line"></span><br><span class="line">apt-key export <span class="number">77E11517</span> | gpg --dearmour -o /usr/share/keyrings/debian-buster.gpg</span><br><span class="line">apt-key export 22F3D138 | gpg --dearmour -o /usr/share/keyrings/debian-buster-updates.gpg</span><br><span class="line">apt-key export E562B32A | gpg --dearmour -o /usr/share/keyrings/debian-security-buster.gpg</span><br><span class="line"></span><br><span class="line"><span class="comment"># Prefer debian repo for chromium* packages only</span></span><br><span class="line"><span class="comment"># Note the double-blank lines between entries</span></span><br><span class="line">cat &gt; /etc/apt/preferences.d/chromium.pref &lt;&lt; <span class="string">&#x27;EOF&#x27;</span></span><br><span class="line">Package: *</span><br><span class="line">Pin: release a=eoan</span><br><span class="line">Pin-Priority: <span class="number">500</span></span><br><span class="line"></span><br><span class="line">Package: *</span><br><span class="line">Pin: origin <span class="string">&quot;deb.debian.org&quot;</span></span><br><span class="line">Pin-Priority: <span class="number">300</span></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">Package: chromium*</span><br><span class="line">Pin: origin <span class="string">&quot;deb.debian.org&quot;</span></span><br><span class="line">Pin-Priority: <span class="number">700</span></span><br><span class="line">EOF</span><br><span class="line"></span><br><span class="line"><span class="comment"># Install chromium and chromium-driver</span></span><br><span class="line">apt-get update</span><br><span class="line">apt-get install chromium chromium-driver</span><br><span class="line"></span><br><span class="line"><span class="comment"># Install selenium</span></span><br><span class="line">pip install selenium <span class="comment">#若要指定版本，在這行後邊直接加上 ==版本號碼</span></span><br></pre></td></tr></table></figure></div>
+</li>
+<li><p>執行 selenium 程式</p>
+<div class="highlight-container" data-rel="Python"><figure class="iseeu highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> selenium <span class="keyword">import</span> webdriver</span><br><span class="line">chrome_options = webdriver.ChromeOptions()</span><br><span class="line">chrome_options.add_argument(<span class="string">&#x27;--headless&#x27;</span>)</span><br><span class="line">chrome_options.add_argument(<span class="string">&#x27;--no-sandbox&#x27;</span>)</span><br><span class="line">chrome_options.headless = <span class="literal">True</span></span><br><span class="line">drive = webdriver.Chrome(<span class="string">&#x27;chromedriver&#x27;</span>,options=chrome_options)</span><br><span class="line">drive.get(<span class="string">&quot;https://www.google.com&quot;</span>)</span><br></pre></td></tr></table></figure></div></li>
+</ol>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ul>
+<li><a class="link"   href="https://github.com/SeleniumHQ/selenium/issues/12746" >https://github.com/SeleniumHQ/selenium/issues/12746 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://stackoverflow.com/questions/51046454/how-can-we-use-selenium-webdriver-in-colab-research-google-com" >https://stackoverflow.com/questions/51046454/how-can-we-use-selenium-webdriver-in-colab-research-google-com <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://github.com/googlecolab/colabtools/issues/3347/" >https://github.com/googlecolab/colabtools/issues/3347/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://ithelp.ithome.com.tw/questions/10211773?sc=pt" >https://ithelp.ithome.com.tw/questions/10211773?sc=pt <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
 </ul>
 ]]></content>
       <categories>
-        <category>資安</category>
+        <category>技術筆記</category>
       </categories>
       <tags>
-        <tag>資安</tag>
-        <tag>心得</tag>
-        <tag>HITCON</tag>
+        <tag>Colab</tag>
+        <tag>selenium</tag>
+        <tag>爬蟲</tag>
+        <tag>webdriver</tag>
       </tags>
   </entry>
   <entry>
     <title>中央資工特殊選才｜心得</title>
     <url>/2023/03/29/%E4%B8%AD%E5%A4%AE%E8%B3%87%E5%B7%A5%E7%89%B9%E9%81%B8%E5%BF%83%E5%BE%97/</url>
     <content><![CDATA[<blockquote>
-<p><strong>112 特殊選才 - 應試資訊</strong><br>學系全名：國立中央大學資訊工程學系<br>報名截止：2022&#x2F;10&#x2F;05 Wed. 網路上傳<br>初審放榜：2022&#x2F;10&#x2F;21 Fri.<br>複試日期：2022&#x2F;11&#x2F;01 Tue.<br>複試地點：NCU 工程五館<br>結果放榜：2022&#x2F;11&#x2F;21 Mon.<br><a class="link"   href="https://drive.google.com/file/d/1qDoEAe8myagunjn-4NYgZb7pNe6hQI26/view?usp=sharing" >NCU 簡章點我 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> (檔案第 32~33 頁)</p>
+<p><strong>112 特殊選才 - 應試資訊</strong><br>學系全名：國立中央大學資訊工程學系<br>報名截止：2022&#x2F;10&#x2F;05 Wed. 網路上傳<br>初審放榜：2022&#x2F;10&#x2F;21 Fri.<br>複試日期：2022&#x2F;11&#x2F;01 Tue.<br>複試地點：NCU 工程五館<br>結果放榜：2022&#x2F;11&#x2F;21 Mon.<br><a class="link"   href="https://drive.google.com/file/d/1qDoEAe8myagunjn-4NYgZb7pNe6hQI26/view?usp=sharing" >NCU 簡章點我 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>（檔案第 32~33 頁）</p>
 </blockquote>
 <blockquote>
 <p><strong>關於中央資工</strong><br>隸屬資訊電機學院，位在桃園市中壢區，校園環境優美；<br>2023 QS 電腦科學類排名為全台第八，世界前 550；<br>2023 THE 電腦科學類排名為全台第八，世界前 800。</p>
@@ -342,316 +322,159 @@
       </tags>
   </entry>
   <entry>
-    <title>在 Colab 上使用 selenium 與 webdriver 不報錯！</title>
-    <url>/2023/10/02/using-selenium-in-colab/</url>
-    <content><![CDATA[<h2 id="試試-requests"><a href="#試試-requests" class="headerlink" title="試試 requests"></a>試試 requests</h2><p>起初，我原本以為 Colab 設計上有限制使用者在上面爬蟲，不過實測過後，使用 requests get 可以確實取得資料。<br><img  
+    <title>HITCON CMT 2023｜心得</title>
+    <url>/2023/09/03/HITCON2023%E5%BF%83%E5%BE%97/</url>
+    <content><![CDATA[<img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/images/using-selenium-in-colab/螢幕擷取畫面 2023-10-02 093430.png"
+                     data-src="/images/HITCON2023心得/20230903_234918.jpg"
                       
-                ></p>
-<h2 id="selenium-想必也可以？"><a href="#selenium-想必也可以？" class="headerlink" title="selenium 想必也可以？"></a>selenium 想必也可以？</h2><p>在本機端爬蟲時我都是在 Windows 11 環境下運行 chromedriver；因此剛開始測試時，我直接將 chromedriver 上傳至雲端並使用 </p>
-<div class="highlight-container" data-rel="Python"><figure class="iseeu highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> google.colab <span class="keyword">import</span> driver</span><br><span class="line">drive.mount(<span class="string">&#x27;/content/drive&#x27;</span>)</span><br></pre></td></tr></table></figure></div>
-<p>來架接 Google Drive 路徑存取 chrome-driver<br>卻忽略了一個重點：<br>Google Colab 是 Linux 架構！！！！！<br>Google Colab 是 Linux 架構！！！！！<br>Google Colab 是 Linux 架構！！！！！<br>（很重要講三次）</p>
-<blockquote>
-<p><a class="link"   href="https://googlechromelabs.github.io/chrome-for-testing/" >最新版 chromedriver 載點 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-</blockquote>
-<p>接著，我讓程式讀取 Linux64 的 chromedriver 的雲端路徑，並參考了需多網路上的做法卻依然持續出現 <code>wrong permissions</code> 的報錯。</p>
+                >
+<center>2023/08/18~19 @中研院人文社會科學館</center>
+
+<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>HITCON 為臺灣重要的資安國際研討會，過去幾年我皆因為票價金錢因素而無緣參與。今年很幸運參與了「HITCON 2023 學生免費專案」獲得免費進場的機會，當然也是我第一次接觸資安相關主題的研討會，同時更成為了我繼七月底完成 AIS3 課程後持續探索的機會。</p>
 <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/images/using-selenium-in-colab/螢幕擷取畫面 2023-10-02 091935.png"
+                     data-src="/images/HITCON2023心得/20230818_135201.jpg"
                       
                 >
+<center>人滿為患的 R0 會議廳</center>
 
-<h3 id="出-bug-的解方"><a href="#出-bug-的解方" class="headerlink" title="出 bug 的解方"></a>出 bug 的解方</h3><p>解決的過程中，歷經了腦袋一片混亂，到處翻了各種語言的資料，被 ChatGPT 耍了一波……QAQ</p>
-<p>這邊就直接讓大家少走這些冤枉路吧~<br>(以下解方為 Oct. 2nd, 2023 時適用的方法)</p>
-<ul>
-<li>為何 Google Colab 無法直接執行 selenium 與 webdriver(chromedriver)?<ul>
-<li>Colab 架構為 Linux 雲端虛擬機，由於目前使用 Ubuntu 20.04 LTS，已不再支援直接使用 chromium-browser</li>
-<li><strong>解決辦法為：從 Debian buster repository 安裝套件</strong></li>
-</ul>
-</li>
-<li>若完成上述步驟後為何還是會有其他報錯<ul>
-<li>完成上述步驟後基本上已經可以執行程式，若還有報錯，此時大多數的原因為 selenium 在 4.10.0 版後，陸續有不少語法上的更新，而 <code>pip install selenium</code> 預設安裝最新版本 4.13.0，許多網路上及書本中的 source code 無法相容</li>
-<li><strong>解決辦法為：安裝時指定 4.3.0 版，<code>pip install selenium==4.3.0</code></strong></li>
-</ul>
-</li>
-</ul>
-<h3 id="source-code"><a href="#source-code" class="headerlink" title="source code"></a>source code</h3><ol>
-<li><p>從 Debian buster repository 安裝套件</p>
-<div class="highlight-container" data-rel="Python"><figure class="iseeu highlight python"><table><tr><td class="code"><pre><span class="line">%%shell</span><br><span class="line"><span class="comment"># Ubuntu no longer distributes chromium-browser outside of snap</span></span><br><span class="line"><span class="comment">#</span></span><br><span class="line"><span class="comment"># Proposed solution: https://askubuntu.com/questions/1204571/how-to-install-chromium-without-snap</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># Add debian buster</span></span><br><span class="line">cat &gt; /etc/apt/sources.<span class="built_in">list</span>.d/debian.<span class="built_in">list</span> &lt;&lt;<span class="string">&#x27;EOF&#x27;</span></span><br><span class="line">deb [arch=amd64 signed-by=/usr/share/keyrings/debian-buster.gpg] http://deb.debian.org/debian buster main</span><br><span class="line">deb [arch=amd64 signed-by=/usr/share/keyrings/debian-buster-updates.gpg] http://deb.debian.org/debian buster-updates main</span><br><span class="line">deb [arch=amd64 signed-by=/usr/share/keyrings/debian-security-buster.gpg] http://deb.debian.org/debian-security buster/updates main</span><br><span class="line">EOF</span><br><span class="line"></span><br><span class="line"><span class="comment"># Add keys</span></span><br><span class="line">apt-key adv --keyserver keyserver.ubuntu.com --recv-keys DCC9EFBF77E11517</span><br><span class="line">apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 648ACFD622F3D138</span><br><span class="line">apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 112695A0E562B32A</span><br><span class="line"></span><br><span class="line">apt-key export <span class="number">77E11517</span> | gpg --dearmour -o /usr/share/keyrings/debian-buster.gpg</span><br><span class="line">apt-key export 22F3D138 | gpg --dearmour -o /usr/share/keyrings/debian-buster-updates.gpg</span><br><span class="line">apt-key export E562B32A | gpg --dearmour -o /usr/share/keyrings/debian-security-buster.gpg</span><br><span class="line"></span><br><span class="line"><span class="comment"># Prefer debian repo for chromium* packages only</span></span><br><span class="line"><span class="comment"># Note the double-blank lines between entries</span></span><br><span class="line">cat &gt; /etc/apt/preferences.d/chromium.pref &lt;&lt; <span class="string">&#x27;EOF&#x27;</span></span><br><span class="line">Package: *</span><br><span class="line">Pin: release a=eoan</span><br><span class="line">Pin-Priority: <span class="number">500</span></span><br><span class="line"></span><br><span class="line">Package: *</span><br><span class="line">Pin: origin <span class="string">&quot;deb.debian.org&quot;</span></span><br><span class="line">Pin-Priority: <span class="number">300</span></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">Package: chromium*</span><br><span class="line">Pin: origin <span class="string">&quot;deb.debian.org&quot;</span></span><br><span class="line">Pin-Priority: <span class="number">700</span></span><br><span class="line">EOF</span><br><span class="line"></span><br><span class="line"><span class="comment"># Install chromium and chromium-driver</span></span><br><span class="line">apt-get update</span><br><span class="line">apt-get install chromium chromium-driver</span><br><span class="line"></span><br><span class="line"><span class="comment"># Install selenium</span></span><br><span class="line">pip install selenium <span class="comment">#若要指定版本，在這行後邊直接加上 ==版本號碼</span></span><br></pre></td></tr></table></figure></div>
-</li>
-<li><p>執行 selenium 程式</p>
-<div class="highlight-container" data-rel="Python"><figure class="iseeu highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> selenium <span class="keyword">import</span> webdriver</span><br><span class="line">chrome_options = webdriver.ChromeOptions()</span><br><span class="line">chrome_options.add_argument(<span class="string">&#x27;--headless&#x27;</span>)</span><br><span class="line">chrome_options.add_argument(<span class="string">&#x27;--no-sandbox&#x27;</span>)</span><br><span class="line">chrome_options.headless = <span class="literal">True</span></span><br><span class="line">drive = webdriver.Chrome(<span class="string">&#x27;chromedriver&#x27;</span>,options=chrome_options)</span><br><span class="line">drive.get(<span class="string">&quot;https://www.google.com&quot;</span>)</span><br></pre></td></tr></table></figure></div></li>
-</ol>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ul>
-<li><a class="link"   href="https://github.com/SeleniumHQ/selenium/issues/12746" >https://github.com/SeleniumHQ/selenium/issues/12746 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link"   href="https://stackoverflow.com/questions/51046454/how-can-we-use-selenium-webdriver-in-colab-research-google-com" >https://stackoverflow.com/questions/51046454/how-can-we-use-selenium-webdriver-in-colab-research-google-com <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link"   href="https://github.com/googlecolab/colabtools/issues/3347/" >https://github.com/googlecolab/colabtools/issues/3347/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link"   href="https://ithelp.ithome.com.tw/questions/10211773?sc=pt" >https://ithelp.ithome.com.tw/questions/10211773?sc=pt <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-</ul>
-]]></content>
-      <categories>
-        <category>技術筆記</category>
-      </categories>
-      <tags>
-        <tag>Colab</tag>
-        <tag>selenium</tag>
-        <tag>爬蟲</tag>
-        <tag>webdriver</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>112 特殊選才｜熱門校系簡章彙整</title>
-    <url>/2022/12/18/%E7%89%B9%E6%AE%8A%E9%81%B8%E6%89%8D%E7%B0%A1%E7%AB%A0/</url>
-    <content><![CDATA[<p>今年度特殊選才招生在近期即將邁入尾聲~<br>這次彙整今年度有招收不分系、電資學系的熱門校系簡章跟大家分享，<br>給各位學弟妹參考招生方式與資格，<br>資工、不分系從特選開辦以來一直穩坐報名人數龍頭，競爭強度更是海放他系🥵<br>有計畫想嘗試的人可以盡早準備充實自己！</p>
-<h2 id="🗂️檔案連結"><a href="#🗂️檔案連結" class="headerlink" title="🗂️檔案連結"></a>🗂️檔案連結</h2><table>
-<thead>
-<tr>
-<th>學校簡章</th>
-<th>學校簡章</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><a class="link"   href="https://drive.google.com/file/d/1MvSx-yugc1fsDHP-sUS6-nCELFgFKKo5/view?usp=sharing" >國立臺灣大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-<td><a class="link"   href="https://drive.google.com/file/d/12dQeETKWSMecNmpsfHHqukKDbBhGs7Mz/view?usp=sharing" >國立中山大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-</tr>
-<tr>
-<td><a class="link"   href="https://drive.google.com/file/d/1shx2jgua5xMZRdFFwgsf_gvp6Z-pL9Hy/view?usp=sharing" >國立臺灣師範大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-<td><a class="link"   href="https://drive.google.com/file/d/1ylJTXJRA5oet7tASjjodyPlk1Z1RKEmS/view?usp=sharing" >國立中正大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-</tr>
-<tr>
-<td><a class="link"   href="https://drive.google.com/file/d/1f37NdnIMhx3Yb5s0Ooj1matulp9L_x0N/view?usp=sharing" >國立中興大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-<td><a class="link"   href="https://drive.google.com/file/d/1yE3cIz5e_PHDtrGlzOy-3h2ql3YAunSt/view?usp=sharing" >國立東華大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-</tr>
-<tr>
-<td><a class="link"   href="https://drive.google.com/file/d/19dDLmJlSu2cOUDual4X0cQ5rQMGZDXqY/view?usp=sharing" >國立成功大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-<td><a class="link"   href="https://drive.google.com/file/d/1WL8qf7xXZkfhyeTt8qBaNbFJ7awVf6ho/view?usp=sharing" >國立台北大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-</tr>
-<tr>
-<td><a class="link"   href="https://drive.google.com/file/d/1A65houjakXAo6vIPtcOFi094XYuW63cA/view?usp=sharing" >國立政治大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-<td><a class="link"   href="https://drive.google.com/file/d/13scHH-5mvW7UaMueoQTiMhg9TUbFjgnQ/view?usp=sharing" >中原大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-</tr>
-<tr>
-<td><a class="link"   href="https://drive.google.com/file/d/1gZDLHHhQ1_lbeb7NBSS7vV7xtNF8AeSq/view?usp=sharing" >國立清華大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-<td><a class="link"   href="https://drive.google.com/file/d/1rzvwcJF0odeOFMSojnJH2Lt9oTtpFf1O/view?usp=sharing" >逢甲大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-</tr>
-<tr>
-<td><a class="link"   href="https://drive.google.com/file/d/1100pUIf64_wEO1O5vlv_hsQU3aQEjQMu/view?usp=sharing" >國立陽明交通大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-<td><a class="link"   href="https://drive.google.com/file/d/1wB3-8U6kl88_DrxwkaiNCsk4j_sriXKk/view?usp=sharing" >輔仁大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-</tr>
-<tr>
-<td><a class="link"   href="https://drive.google.com/file/d/1qDoEAe8myagunjn-4NYgZb7pNe6hQI26/view?usp=sharing" >國立中央大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-<td><a class="link"   href="https://drive.google.com/file/d/1g7LkGeXlVBleEhgOsp7nNHgCaIU3hhwO/view?usp=sharing" >元智大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-</tr>
-<tr>
-<td><a class="link"   href="https://drive.google.com/file/d/1-uPFMQK2f6r01Vw9wpKWjeEladWonbgs/view?usp=sharing" >國立臺灣海洋大學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-<td></td>
-</tr>
-</tbody></table>
-<h3 id="📑收錄："><a href="#📑收錄：" class="headerlink" title="📑收錄："></a>📑收錄：</h3><ul>
-<li>國立：中山、中央、中正、中興、北大、台大、臺師大、成大、東華、政大、海大、清大、陽明交大。</li>
-<li>私立：中原、元智、逢甲、輔仁。</li>
-</ul>
-<h3 id="💡觀看重點："><a href="#💡觀看重點：" class="headerlink" title="💡觀看重點："></a>💡觀看重點：</h3><ul>
-<li>學系報考資格</li>
-<li>計分項目</li>
-<li>報名日程先後：例如，中央歷年幾乎都會最早開始（今年 9&#x2F;29~10&#x2F;5），私校期程最長且最晚（逢甲今年 10&#x2F;24~11&#x2F;23）</li>
-<li>招收人數：每年變動不大，之後我會分享我整理好的更詳細的統計資料～</li>
-<li>資安外加名額：（配合國家資安培育資安學研人才計畫，首度辦理）今年有台、政、清、師、興、央、海</li>
-<li>抉擇考量：特選期程會跟學測準備期完全重疊，若是落榜 大機率要退守分科，是否保守走個申，把豐富的學習歷程留到二階，是一個值得討論的想法～（而且若特選上了是不能參與繁星、個申、分發入學的喔）</li>
-</ul>
-<hr>
-<h3 id="相關連結"><a href="#相關連結" class="headerlink" title="相關連結"></a>相關連結</h3><ul>
-<li><a class="link"   href="https://drive.google.com/file/d/1I_4nXczCJbcGica2nqz62rwdrvc3QbQT/view?usp=sharing" >112 學年度大學辦理特殊選才招生計畫學校招生資訊 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link"   href="https://drive.google.com/file/d/1yl6SD626JX1nETaimg7GPvZutc-117jj/view?usp=sharing" >112 學年度大學辦理特殊選才招生-資安外加名額招生資訊 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a href="https://whyhugo.github.io/2023/03/27/%E7%89%B9%E6%AE%8A%E9%81%B8%E6%89%8D%E4%BA%BA%E6%95%B8%E6%95%B8%E6%93%9A/">112 特殊選才電資類學生熱門校系數據統計</a></li>
-</ul>
-]]></content>
-      <categories>
-        <category>特殊選才</category>
-      </categories>
-      <tags>
-        <tag>特殊選才</tag>
-        <tag>簡章</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>中山資工特殊選才｜心得</title>
-    <url>/2023/04/01/%E4%B8%AD%E5%B1%B1%E8%B3%87%E5%B7%A5%E7%89%B9%E9%81%B8%E5%BF%83%E5%BE%97/</url>
-    <content><![CDATA[<blockquote>
-<p><strong>112 特殊選才 - 應試資訊</strong><br>學系全名：國立中山大學資訊工程學系<br>報名截止：2022&#x2F;10&#x2F;26 Wed. 網路上傳<br>初審放榜：2022&#x2F;11&#x2F;22 Tue.<br>複試日期：2022&#x2F;11&#x2F;25 Fri.<br>複試地點：NSYSU 電資大樓<br>結果放榜：2022&#x2F;12&#x2F;14 Wed.<br><a class="link"   href="https://drive.google.com/file/d/12dQeETKWSMecNmpsfHHqukKDbBhGs7Mz/view?usp=sharing" >NSYSU 簡章點我 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> (檔案第 24~25 頁)</p>
-</blockquote>
-<blockquote>
-<p><strong>關於中山資工</strong><br>隸屬工學院，位在高雄市鼓山區，校園山海環繞；<br>2023 QS 電腦科學類排名為全台第七，世界前 450；<br>2023 THE 電腦科學類排名為全台第八，世界前 800。</p>
-</blockquote>
+<h2 id="我參與的議程"><a href="#我參與的議程" class="headerlink" title="我參與的議程"></a>我參與的議程</h2><p>為期兩天的議程，印象最深刻的兩場分別是一場 Keynote：Your Teammate Isn’t Human: Mixing Decompilation and AI for Modern Reverse Engineering 與一場一般議程：Pennywise - Invisible privacy risk in the new AI era。兩場議程都跟過往我熟悉的 AI、ML 相關，其中 Pennywise - Invisible privacy risk in the new AI era 這場議程中分享生成式 AI 與 LLM 的發展過程中在法律、隱私權上的議題與風險，講者實際舉出現在產學界的現況與應對方法，在議程間我也協助撰寫共筆，整體的體驗使我對這場議程留下深刻的回憶與學習。</p>
 <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/images/中山資工特選心得/20221125_164127.jpg"
+                     data-src="/images/HITCON2023心得/20230819_150952.jpg"
                       
                 >
 
-<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>今年進複試共 22 人，分成 4 組在各個時段：</p>
-<ul>
-<li>13:00~13:20 報到，13:30 開始</li>
-<li>13:30~13:50 報到，14:04 開始</li>
-<li>14:20~14:40 報到，14:50 開始</li>
-<li>14:55~15:15 報到，15:25 開始</li>
-</ul>
-<p>面試順序是按照准考證號碼~</p>
-<p>現場有開一間教室提供考生休息，但因為大家分流報到的關係，教室沒什麼人。</p>
-<h3 id="相關數據"><a href="#相關數據" class="headerlink" title="相關數據"></a>相關數據</h3><h4 id="人數"><a href="#人數" class="headerlink" title="人數"></a>人數</h4><table>
-<thead>
-<tr>
-<th>額定錄取</th>
-<th>榜單備取</th>
-<th>報名人數</th>
-<th>複試人數</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>3</td>
-<td>3</td>
-<td>50</td>
-<td>22</td>
-</tr>
-</tbody></table>
-<h4 id="錄取率"><a href="#錄取率" class="headerlink" title="錄取率"></a>錄取率</h4><table>
-<thead>
-<tr>
-<th>初試通過率</th>
-<th>複試通過率</th>
-<th>總錄取率</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>44.00%</td>
-<td>13.64%</td>
-<td>6.00%</td>
-</tr>
-</tbody></table>
-<blockquote>
-<p>初試通過率：複試人數 ÷ 報名人數<br>複試通過率：正取名額 ÷ 複試人數<br>總錄取率：正取名額 ÷ 報名人數</p>
-</blockquote>
-<h3 id="成績與結果"><a href="#成績與結果" class="headerlink" title="成績與結果"></a>成績與結果</h3><table>
-<thead>
-<tr>
-<th>初試成績&#x2F;及格分數</th>
-<th>複試成績</th>
-<th>總分&#x2F;備取及格分數&#x2F;正取分</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>81.50&#x2F;? <b><font style="color:#21A600">通過</font></b></td>
-<td>79.50</td>
-<td>80.10&#x2F;?&#x2F;? <font style="color:red"><b>不錄取</b></font></td>
-</tr>
-</tbody></table>
+<h2 id="其他讚讚的活動"><a href="#其他讚讚的活動" class="headerlink" title="其他讚讚的活動"></a>其他讚讚的活動</h2><p>兩天的研討會當中我花了不少時間在體驗大地遊戲，其中盲文、地圖等題都讓我花了不少時間才解出來，而摩斯密碼則是以外的立即通靈出來！最後也成功完成了所有關卡獲得獎品 — Google 口罩套👍，不得不說真的很佩服設計這些關卡的團隊，要把這些主線、支線、故事劇情、技術題目拼湊起來真的超強的。</p>
 <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/images/中山資工特選心得/中山資工計分項目.png"
+                     data-src="/images/HITCON2023心得/20230903_225523.jpg"
                       
                 >
-<center>評分項目與占比</center>
-
-
-<h2 id="面試方式"><a href="#面試方式" class="headerlink" title="面試方式"></a>面試方式</h2><p>面試以類似團體面試進行，</p>
-<p>在一間會議室進行，桌子圍成四方環形，</p>
-<p>每個人坐其中一邊，現場學長姐會帶考生入座，桌上有名牌 &amp; 一排插座，然後考生所有的東西都可以帶入會議室，</p>
-<p>我們這組三個人，人跟人距離算蠻大的，</p>
-<p>分兩輪各有兩個教授，旁邊會有學長姐幫忙計時，時間快到會響鈴，</p>
-<p>每輪都是簡報 present ( 5 分鐘) + QA ( 1 分鐘)。</p>
-<p>我是這組第一個，第一輪的教授去旁邊面第二個的時候，第二輪就開始了，</p>
-<p>面試時你可以選擇坐著側身對教授，講解桌上的筆電簡報或是拿著平板站起來講解（所有裝置都要自備~）。</p>
+<center>大地遊戲</center>
+<br>
+另外，兩天下午的茶點真的是太強了，從鹹的到甜的的樣樣都有，而且精緻程度大概我過往參加過的研討會中最猛的。甚至我還為了超強的茶點，放棄參與 Day 2 與 Tea Time 時間重疊的 Hacking 101 議程：麋鹿在芝麻街 - ELK x BERT 資安分析實戰 XD，因此這次完全沒有參與到超級搶手的 Hacking 101 活動，希望未來這個議程可以延續辦下去。
+<br>
 <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/images/中山資工特選心得/20230331_143030.jpg"
+                     data-src="/images/HITCON2023心得/20230903_233716.jpg"
                       
                 >
-<center>面試會議室的座位</center>
+<center>超強的茶點 & 打卡就送的冰淇淋</center>
 
-<h2 id="面試過程"><a href="#面試過程" class="headerlink" title="面試過程"></a>面試過程</h2><ul>
-<li>第一輪<ul>
-<li>自我介紹 (5 mins.)<ul>
-<li>會有兩個學長姊幫忙計時，時間快到會響鈴，我講完剛好 5 分鐘。</li>
-</ul>
-</li>
-<li>QA (1 min.)<ul>
-<li>你有考過 APCS 嗎?<ul>
-<li>由於這部分跟我的專業比較不同，因此我是站在跟同學一起討論的角度，像是同學因為都知道我會寫程式，因此會來找我討論、解題，同時我自己也會自己上網找一些競程練習。</li>
-</ul>
-</li>
-<li>你自學的方法?<ul>
-<li>以架設 103 停課不停學網頁為例，我是從發現問題後，覺得需要透過網頁的方式來整合資訊，需要從 HTML、CS、JS 來組成網頁，因此我是運用 W3Schools 的資源，一步步嘗試，依照需求堆疊出網頁。</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>第二輪<ul>
-<li>自我介紹 (5 mins.)<ul>
-<li>跟前一輪差不多</li>
-</ul>
-</li>
-<li>QA (1 min.)<ul>
-<li>最有特色的專題是甚麼？<ul>
-<li>我最有特色的專題是參與國際科展的 NLP 獨立研究，我主要是運用 fnc-1 的 dataset，運用 BERT、RoBERTa、XLNet 來嘗試進行遷移學習，最終使用效能評估最佳的 XLNet 來 predict 我實際在 fb 上爬取美國幾大新聞媒體的文本，與 Oxford University media report 進行媒體品質的比對。</li>
-</ul>
-</li>
-<li>專題是一個人做嗎？有老師指導嗎？<ul>
-<li>是的，這個專題是我個人的成果；研究初期是在科教館的培訓營隊由台大電機系的教授來協助我們改善研究的內容，提升研究價值，主要的研究的過程是由台科大鮑興國教授指導，同時還有一位碩班做 sentiment analysis 的學長跟我一起討論技術面的問題。</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<h2 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h2><p>能有幸參與今年的 HITCON CMT 2023 要非常感謝籌辦團隊提供學生免費專案的申請機會，讓身為學生目前口袋有點緊的我可以在資安領域獲得更廣闊的學習機會（讓我拿了紀念 T-shirt 和不少企業贈品 XD）。在 Day 2 的協會時間中也讓我更認識 HIT 的精神與在資安發展上的實務行動，同時更清楚這次研討會籌備、審稿背後的故事與秘辛；在各企業的攤位中使我更加了解目前業界職缺、實習機會與各企業致力發展的方向，也感受到各企業在為這次演討會設計的小遊戲上滿滿的用心，包括：奧義智慧的自創攻防指令比分遊戲、中華資安的投資遊戲甚至要去翻前端 code 才能解出來。這次的研討會真的不枉費我連續兩天早起參與，當然會場早茶提供的熱咖啡確實給我了精神上的調劑👍，真心希望明年還有學生免費專案可以參與，不然我就只能跳坑了啊。&gt;&lt;</p>
 <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/images/中山資工特選心得/20230402_030536.jpg"
+                     data-src="/images/HITCON2023心得/20230819_165639.jpg"
                       
                 >
-<center>面試當天拍攝的中山大學校園</center>
-
-<h2 id="心得-amp-小建議"><a href="#心得-amp-小建議" class="headerlink" title="心得&amp;小建議"></a>心得&amp;小建議</h2><p>整體面試的過程感覺還不錯，</p>
-<p>不論是分流面試避免考生等待，</p>
-<p>或是整體 present &amp; QA 的過程都比前一次中央的面試好很多，</p>
-<p>除了抑揚頓挫，時間也抓的不錯，</p>
-<p>唯有 APCS 那題我一直沒有擬好一個最好的答案🤦‍♂️</p>
-<p>印象比較深刻的是團體面試可以聽（參）到（考）別人的問答過程，還可以觀察教授的反應，不過我是這組第一個面就覺得蠻吃虧的🥲</p>
-<p>此外，我發現團體面試的關係，同組會議室面試的感覺會蠻一致的，</p>
-<p>像是我們這組就全部都坐著講解簡報、風格也相似，</p>
-<p>雖然開始之前我有問教授我要坐著還是站著，教授說沒關係，</p>
-<p>但建議若可以用平板拿著站起來講，</p>
-<p>同時，由於簡報是直接用自己的裝置螢幕播放，所以建議可以一邊講一邊用手或筆來指著 ppt，</p>
-<p>做到以上兩點效果會更好！</p>
+<center>閉幕散場與會場酷酷的燈光</center>
 <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/images/中山資工特選心得/20230331_143531.jpg"
+                     data-src="/images/HITCON2023心得/20230818_121228.jpg"
                       
                 >
-<center>面試結束後可以到校園周圍走走</center>
+<center>很喜歡今年的設計風格</center>
 
 <hr>
-<h3 id="相關連結"><a href="#相關連結" class="headerlink" title="相關連結"></a>相關連結</h3><ul>
-<li><a class="link"   href="https://drive.google.com/file/d/1I_4nXczCJbcGica2nqz62rwdrvc3QbQT/view?usp=sharing" >112 學年度大學辦理特殊選才招生計畫學校招生資訊 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link"   href="https://drive.google.com/file/d/1yl6SD626JX1nETaimg7GPvZutc-117jj/view?usp=sharing" >112 學年度大學辦理特殊選才招生-資安外加名額招生資訊 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<ul>
+<li><a class="link"   href="https://hackmd.io/@HITCON/2023-note" >HITCON CMT 2023 議程共筆 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://hitcon.org/2023/CMT/" >HITCON CMT 2023 官網 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://www.facebook.com/HITCON/" >Facebook @HITCON <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://twitter.com/HacksInTaiwan" >X @HacksInTaiwan <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://blog.hitcon.org/" >HITCON’s blog <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://instagram.com/hacksintaiwan" >IG @hacksintaiwan <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
 </ul>
 ]]></content>
       <categories>
-        <category>特殊選才</category>
+        <category>資安</category>
       </categories>
       <tags>
-        <tag>特殊選才</tag>
         <tag>心得</tag>
+        <tag>HITCON</tag>
+        <tag>資安</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>My First CTF 2023｜心得</title>
+    <url>/2023/06/04/MyFirstCTF%E5%BF%83%E5%BE%97/</url>
+    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>進高中開始玩電資圈後就一直有想學資安的念頭，<br>但自學資源不易取得且入門門檻相對高，<br>於是就一頭栽入了 AI 領域；<br>直到剛好特選上岸後，有了相當長一段自由的時間，<br>於是這次決定來打一生一次的 My First CTF 2023。</p>
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/MyFirstCTF心得/20230513_094339.jpg"
+                      
+                >
+
+<h2 id="賽前"><a href="#賽前" class="headerlink" title="賽前"></a>賽前</h2><p>我很早以前大概就知道 CTF 競賽的概念，<br>大概就是類似用程式解謎獲得 flag 提交後得分，<br>（My First CTF 屬於 Jeopardy 類型的比賽，基本上目前國內給高中生的競賽都是此類）<br>不過究竟是如何實作我實在是毫無頭緒，<br>在網路上蒐集一些資料後開始在 picoCTF 上刷題。</p>
+<p>👇以下也附上幾個蠻多人推薦的練習網站 &amp; 資源~</p>
+<ul>
+<li><a class="link"   href="https://picoctf.org/" >picoCTF <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://www.ctfhub.com/#/index" >CTFHub <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://lotuxctf.com/" >LoTuX CTF <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://ctflearn.com/" >CTFLEARN <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://hackmd.io/@hSnxK9vjScK81ezlVUOpZA/HyS2ErKm9?print-pdf#/" >資安 X CTF的介紹 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://infosecdecompress.com/posts/patches_study_resources_for_cybersecurity?fbclid=IwAR0kRJjlsHsx8dX9GyFPiw2PeURMgBAL6pG4rFyk0NfWB4OzMS1yJc_ZALo" >資安學習資源包 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://github.com/Ice1187/TW-Security-and-CTF-Resource" >台灣資安 &#x2F; CTF 學習資源整理 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://github.com/ktecv2000/How-to-play-CTF" >How to play CTF <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+</ul>
+<p>由於賽前這幾週有些忙碌，<br>最終只刷了 General Skill 480 分，<br>基本上只有很 basic 的下指令能力而已，<br>而且其中蠻多題都是靠網路上的 Write up 提示才解出來。</p>
+<h2 id="MFC-當天"><a href="#MFC-當天" class="headerlink" title="MFC 當天"></a>MFC 當天</h2><p>到賽前我都還以為比賽名稱 My First CTF 會在現場帶大家簡介一下 CTF 賽制和一些 Linux 操作之類的，結果完全沒有！<br>教授們致詞完後就直接開始比賽～<br>所以我當下是有點慌張的，因為對我來說這真的是 My First CTF，所以這邊建議之後來參賽的人，務必先裝好 Linux (我自己是用裝 ubuntu 在 VM)，然後熟悉一下操作方式，特別是 terminal！<br>千萬別像我傻傻的想用 Windows 解題，impossible～（真的要說還是有機會啦，不過很少）<br>今年題目的部分，基本上我只解了大約兩三題，不過因為 Write up 好像來不能公開，所以這段我先略過，七月再補上來。<br>（七月補上：結果主辦方沒有給 Write up，附上我解的三個入門題的 Write up <a class="link"   href="https://hackmd.io/@whyhugo/HJUBFS3S2" >🫠點我 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>）<br>其中最有趣的是比賽接近尾聲時突然出現一題「問卷回饋」，填完表單就能拿到 flag😂</p>
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/MyFirstCTF心得/20230513_094401.jpg"
+                      
+                >
+
+<p>另外現場的飲料可以一直拿，超讚！<br>而且午餐便當好吃的外還有附一大杯奶綠，好爽 ouo<br>整體體驗 UP 👍</p>
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/MyFirstCTF心得/20230513_174033.jpg"
+                      
+                >
+
+<h2 id="SecurityFocus-Online"><a href="#SecurityFocus-Online" class="headerlink" title="SecurityFocus Online"></a>SecurityFocus Online</h2><p>我在賽後真的開始覺得自己有夠廢，所以報了教育部資通計畫的 SecurityFocus Online，真心大推，特別是北部缺乏資安學習資源的同學，想入門 CTF 來報這個準沒錯～</p>
+<p>課程為期 5 天，完全線上，<br>流程大概是，<br>主辦單位會給 GitHub 和 Notion 筆記給你先自學一些基礎知識，教材寫得很清楚，連我這種 0 經驗的都看得懂，<br>接著是一天上午+下午的 meet 課程，老師會講解筆記中的題目、一些技術原理、為何這樣解等等，有問題也可以即時跟老師討論。<br>最後兩天給大家在 CTF 平台解題，<br>題目算很豐富的，有編解碼、網站安全、古典密碼學、Linux command、隱寫術、鑑識分析、Python、編解密碼學、PPC 解題等，<br>解不出來有 Write up 可以看，有一些程式基礎的人應該都看得懂，阿如果遇到真的不行的也可以在dc上直接討論（我是直接私訊高英耀老師，老師人超好，每個回答都很完整，感受到老師滿滿的教學熱忱）。<br>我最後有解完所有題目 2620 分，排名第三，解題過程看著排行榜一直往前衝，蠻有成就感的，一不小心就解到凌晨五點XD<br>重要的事，真的學到很多很多各種 CTF 題型的方法！真心大推！</p>
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/MyFirstCTF心得/CTFd_scoreboard_2023-05-27T17 52 40.png"
+                      
+                >
+<center>SecurityFocus Online CTF Top 10 Users</center>
+
+<h2 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h2><p>最後整理以上建議，<br>跟我一樣的完全新手來 My First CTF 前務必：</p>
+<ul>
+<li>架好並熟悉 Linux </li>
+<li>去參加一下 SecurityFocus Online</li>
+<li>刷一些 picoCTF</li>
+</ul>
+<p>其他就是比賽現場的手感、經驗和通靈了吧 XD</p>
+<p>另外，在 MFC 除了可以拿來參與資工資安組的特殊選才招考，<br>表現優異者有機會直接保送進 AIS3 培訓營隊喔！</p>
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/MyFirstCTF心得/FB_IMG_1684084518635.jpg"
+                      
+                >
+]]></content>
+      <categories>
+        <category>資安</category>
+      </categories>
+      <tags>
+        <tag>心得</tag>
+        <tag>資安</tag>
+        <tag>CTF</tag>
       </tags>
   </entry>
   <entry>
@@ -690,7 +513,7 @@
     <title>臺灣師大資工特殊選才｜心得</title>
     <url>/2023/04/04/%E5%B8%AB%E5%A4%A7%E8%B3%87%E5%B7%A5%E7%89%B9%E9%81%B8%E5%BF%83%E5%BE%97/</url>
     <content><![CDATA[<blockquote>
-<p><strong>112特殊選才 - 應試資訊</strong><br>學系全名：國立臺灣師範大學資訊工程學系<br>報名截止：2022&#x2F;11&#x2F;10 Thu. 郵寄備審<br>初審放榜：2022&#x2F;12&#x2F;06 Tue.<br>複試日期：2022&#x2F;12&#x2F;09 Fri.<br>複試地點：NTNU 公館校區 應科大樓<br>結果放榜：2022&#x2F;12&#x2F;22 Thu.<br><a class="link"   href="https://drive.google.com/file/d/1shx2jgua5xMZRdFFwgsf_gvp6Z-pL9Hy/view?usp=sharing" >NTNU簡章點我 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> (檔案第 27~28 頁)</p>
+<p><strong>112特殊選才 - 應試資訊</strong><br>學系全名：國立臺灣師範大學資訊工程學系<br>報名截止：2022&#x2F;11&#x2F;10 Thu. 郵寄備審<br>初審放榜：2022&#x2F;12&#x2F;06 Tue.<br>複試日期：2022&#x2F;12&#x2F;09 Fri.<br>複試地點：NTNU 公館校區 應科大樓<br>結果放榜：2022&#x2F;12&#x2F;22 Thu.<br><a class="link"   href="https://drive.google.com/file/d/1shx2jgua5xMZRdFFwgsf_gvp6Z-pL9Hy/view?usp=sharing" >NTNU簡章點我 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>（檔案第 27~28 頁）</p>
 </blockquote>
 <blockquote>
 <p><strong>關於臺師大資工</strong><br>隸屬理學院，位在臺北市文山區的公館校區，校區旁即為公館商圈，同時與鄰近的台大與台科大組成<a class="link"   href="https://triangle.ntu.edu.tw/Default.html" >臺灣大學三校聯盟 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>；<br>2023 QS 電腦科學類排名為全台第八，世界前 550；<br>2023 THE 電腦科學類排名為全台第六，世界前 600。</p>
@@ -795,7 +618,7 @@
 </li>
 </ul>
 </li>
-<li>第二間 (直接進入 QA，非常閒聊，以下對話呈現)<ul>
+<li>第二間（直接進入 QA，非常閒聊，以下對話呈現）<ul>
 <li>還有沒有前面沒講到或來不及講完的或想問甚麼？<ul>
 <li>看教授對於我的專題實作、自學經歷或是團隊領導哪一方面比較有興趣，我可以來多做說明</li>
 </ul>
@@ -835,7 +658,7 @@
 </ul>
 </li>
 <li>你知道中華民國計算語言學學會理事長就在我們系上嗎？<ul>
-<li>阿…沒有了解到耶&gt;&lt; (後來查了一下是陳柏琳教授XD)</li>
+<li>阿…沒有了解到耶 &gt;&lt;（後來查了一下是陳柏琳教授 XD）</li>
 </ul>
 </li>
 <li>&gt;&lt;進來之後要做 NLP 沒問題，系上有很棒的老師可以指導</li>
@@ -843,7 +666,7 @@
 <li>對呀，像我也聽哥哥說過像是台聯大系統就比較沒太大效益，確實沒像三校聯盟這樣有頻繁的交流，而且我之前專題的指導教授也是台科大的鮑興國教授。</li>
 </ul>
 </li>
-<li>(最後敲門時間到，教授說「時間關係今天先跟你聊到這邊」大概就結束惹~)</li>
+<li>（最後敲門時間到，教授說「時間關係今天先跟你聊到這邊」大概就結束惹～）</li>
 </ul>
 </li>
 </ul>
@@ -1042,6 +865,183 @@
       <tags>
         <tag>特殊選才</tag>
         <tag>資工</tag>
+        <tag>心得</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>中山資工特殊選才｜心得</title>
+    <url>/2023/04/01/%E4%B8%AD%E5%B1%B1%E8%B3%87%E5%B7%A5%E7%89%B9%E9%81%B8%E5%BF%83%E5%BE%97/</url>
+    <content><![CDATA[<blockquote>
+<p><strong>112 特殊選才 - 應試資訊</strong><br>學系全名：國立中山大學資訊工程學系<br>報名截止：2022&#x2F;10&#x2F;26 Wed. 網路上傳<br>初審放榜：2022&#x2F;11&#x2F;22 Tue.<br>複試日期：2022&#x2F;11&#x2F;25 Fri.<br>複試地點：NSYSU 電資大樓<br>結果放榜：2022&#x2F;12&#x2F;14 Wed.<br><a class="link"   href="https://drive.google.com/file/d/12dQeETKWSMecNmpsfHHqukKDbBhGs7Mz/view?usp=sharing" >NSYSU 簡章點我 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>（檔案第 24~25 頁）</p>
+</blockquote>
+<blockquote>
+<p><strong>關於中山資工</strong><br>隸屬工學院，位在高雄市鼓山區，校園山海環繞；<br>2023 QS 電腦科學類排名為全台第七，世界前 450；<br>2023 THE 電腦科學類排名為全台第八，世界前 800。</p>
+</blockquote>
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/中山資工特選心得/20221125_164127.jpg"
+                      
+                >
+
+<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>今年進複試共 22 人，分成 4 組在各個時段：</p>
+<ul>
+<li>13:00~13:20 報到，13:30 開始</li>
+<li>13:30~13:50 報到，14:04 開始</li>
+<li>14:20~14:40 報到，14:50 開始</li>
+<li>14:55~15:15 報到，15:25 開始</li>
+</ul>
+<p>面試順序是按照准考證號碼~</p>
+<p>現場有開一間教室提供考生休息，但因為大家分流報到的關係，教室沒什麼人。</p>
+<h3 id="相關數據"><a href="#相關數據" class="headerlink" title="相關數據"></a>相關數據</h3><h4 id="人數"><a href="#人數" class="headerlink" title="人數"></a>人數</h4><table>
+<thead>
+<tr>
+<th>額定錄取</th>
+<th>榜單備取</th>
+<th>報名人數</th>
+<th>複試人數</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>3</td>
+<td>3</td>
+<td>50</td>
+<td>22</td>
+</tr>
+</tbody></table>
+<h4 id="錄取率"><a href="#錄取率" class="headerlink" title="錄取率"></a>錄取率</h4><table>
+<thead>
+<tr>
+<th>初試通過率</th>
+<th>複試通過率</th>
+<th>總錄取率</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>44.00%</td>
+<td>13.64%</td>
+<td>6.00%</td>
+</tr>
+</tbody></table>
+<blockquote>
+<p>初試通過率：複試人數 ÷ 報名人數<br>複試通過率：正取名額 ÷ 複試人數<br>總錄取率：正取名額 ÷ 報名人數</p>
+</blockquote>
+<h3 id="成績與結果"><a href="#成績與結果" class="headerlink" title="成績與結果"></a>成績與結果</h3><table>
+<thead>
+<tr>
+<th>初試成績&#x2F;及格分數</th>
+<th>複試成績</th>
+<th>總分&#x2F;備取及格分數&#x2F;正取分</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>81.50&#x2F;? <b><font style="color:#21A600">通過</font></b></td>
+<td>79.50</td>
+<td>80.10&#x2F;?&#x2F;? <font style="color:red"><b>不錄取</b></font></td>
+</tr>
+</tbody></table>
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/中山資工特選心得/中山資工計分項目.png"
+                      
+                >
+<center>評分項目與占比</center>
+
+
+<h2 id="面試方式"><a href="#面試方式" class="headerlink" title="面試方式"></a>面試方式</h2><p>面試以類似團體面試進行，</p>
+<p>在一間會議室進行，桌子圍成四方環形，</p>
+<p>每個人坐其中一邊，現場學長姐會帶考生入座，桌上有名牌 &amp; 一排插座，然後考生所有的東西都可以帶入會議室，</p>
+<p>我們這組三個人，人跟人距離算蠻大的，</p>
+<p>分兩輪各有兩個教授，旁邊會有學長姐幫忙計時，時間快到會響鈴，</p>
+<p>每輪都是簡報 present（5 分鐘）+ QA（1 分鐘）。</p>
+<p>我是這組第一個，第一輪的教授去旁邊面第二個的時候，第二輪就開始了，</p>
+<p>面試時你可以選擇坐著側身對教授，講解桌上的筆電簡報或是拿著平板站起來講解（所有裝置都要自備～）。</p>
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/中山資工特選心得/20230331_143030.jpg"
+                      
+                >
+<center>面試會議室的座位</center>
+
+<h2 id="面試過程"><a href="#面試過程" class="headerlink" title="面試過程"></a>面試過程</h2><ul>
+<li>第一輪<ul>
+<li>自我介紹 (5 mins.)<ul>
+<li>會有兩個學長姊幫忙計時，時間快到會響鈴，我講完剛好 5 分鐘。</li>
+</ul>
+</li>
+<li>QA (1 min.)<ul>
+<li>你有考過 APCS 嗎?<ul>
+<li>由於這部分跟我的專業比較不同，因此我是站在跟同學一起討論的角度，像是同學因為都知道我會寫程式，因此會來找我討論、解題，同時我自己也會自己上網找一些競程練習。</li>
+</ul>
+</li>
+<li>你自學的方法?<ul>
+<li>以架設 103 停課不停學網頁為例，我是從發現問題後，覺得需要透過網頁的方式來整合資訊，需要從 HTML、CS、JS 來組成網頁，因此我是運用 W3Schools 的資源，一步步嘗試，依照需求堆疊出網頁。</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>第二輪<ul>
+<li>自我介紹 (5 mins.)<ul>
+<li>跟前一輪差不多</li>
+</ul>
+</li>
+<li>QA (1 min.)<ul>
+<li>最有特色的專題是甚麼？<ul>
+<li>我最有特色的專題是參與國際科展的 NLP 獨立研究，我主要是運用 fnc-1 的 dataset，運用 BERT、RoBERTa、XLNet 來嘗試進行遷移學習，最終使用效能評估最佳的 XLNet 來 predict 我實際在 fb 上爬取美國幾大新聞媒體的文本，與 Oxford University media report 進行媒體品質的比對。</li>
+</ul>
+</li>
+<li>專題是一個人做嗎？有老師指導嗎？<ul>
+<li>是的，這個專題是我個人的成果；研究初期是在科教館的培訓營隊由台大電機系的教授來協助我們改善研究的內容，提升研究價值，主要的研究的過程是由台科大鮑興國教授指導，同時還有一位碩班做 sentiment analysis 的學長跟我一起討論技術面的問題。</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/中山資工特選心得/20230402_030536.jpg"
+                      
+                >
+<center>面試當天拍攝的中山大學校園</center>
+
+<h2 id="心得-amp-小建議"><a href="#心得-amp-小建議" class="headerlink" title="心得&amp;小建議"></a>心得&amp;小建議</h2><p>整體面試的過程感覺還不錯，</p>
+<p>不論是分流面試避免考生等待，</p>
+<p>或是整體 present &amp; QA 的過程都比前一次中央的面試好很多，</p>
+<p>除了抑揚頓挫，時間也抓的不錯，</p>
+<p>唯有 APCS 那題我一直沒有擬好一個最好的答案🤦‍♂️</p>
+<p>印象比較深刻的是團體面試可以聽（參）到（考）別人的問答過程，還可以觀察教授的反應，不過我是這組第一個面就覺得蠻吃虧的🥲</p>
+<p>此外，我發現團體面試的關係，同組會議室面試的感覺會蠻一致的，</p>
+<p>像是我們這組就全部都坐著講解簡報、風格也相似，</p>
+<p>雖然開始之前我有問教授我要坐著還是站著，教授說沒關係，</p>
+<p>但建議若可以用平板拿著站起來講，</p>
+<p>同時，由於簡報是直接用自己的裝置螢幕播放，所以建議可以一邊講一邊用手或筆來指著 ppt，</p>
+<p>做到以上兩點效果會更好！</p>
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/中山資工特選心得/20230331_143531.jpg"
+                      
+                >
+<center>面試結束後可以到校園周圍走走</center>
+
+<hr>
+<h3 id="相關連結"><a href="#相關連結" class="headerlink" title="相關連結"></a>相關連結</h3><ul>
+<li><a class="link"   href="https://drive.google.com/file/d/1I_4nXczCJbcGica2nqz62rwdrvc3QbQT/view?usp=sharing" >112 學年度大學辦理特殊選才招生計畫學校招生資訊 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://drive.google.com/file/d/1yl6SD626JX1nETaimg7GPvZutc-117jj/view?usp=sharing" >112 學年度大學辦理特殊選才招生-資安外加名額招生資訊 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+</ul>
+]]></content>
+      <categories>
+        <category>特殊選才</category>
+      </categories>
+      <tags>
+        <tag>特殊選才</tag>
         <tag>心得</tag>
       </tags>
   </entry>
