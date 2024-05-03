@@ -117,7 +117,7 @@
   <entry>
     <title>My First CTF 2023｜心得</title>
     <url>/2023/06/04/MyFirstCTF%E5%BF%83%E5%BE%97/</url>
-    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>進高中開始玩電資圈後就一直有想學資安的念頭，<br>但自學資源不易取得且入門門檻相對高，<br>於是就一頭栽入了 AI 領域；<br>直到剛好特選上岸後，有了相當長一段自由的時間，<br>於是這次決定來打一生一次的 My First CTF 2023。</p>
+    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>進高中開始玩電資圈後就一直有想學資安的念頭，<br>但自學資源不易取得且入門門檻相對高，<br>於是就一頭栽入了 AI 領域；<br>直到剛好特選上岸後，有了相當長一段自由的時間，<br>於是這次決定來打幾乎一生一次的 My First CTF 2023。</p>
 <img  
                      lazyload
                      src="/images/loading.svg"
@@ -138,7 +138,7 @@
 <li><a class="link"   href="https://github.com/ktecv2000/How-to-play-CTF" >How to play CTF <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
 </ul>
 <p>由於賽前這幾週有些忙碌，<br>最終只刷了 General Skill 480 分，<br>基本上只有很 basic 的下指令能力而已，<br>而且其中蠻多題都是靠網路上的 Write up 提示才解出來。</p>
-<h2 id="MFC-當天"><a href="#MFC-當天" class="headerlink" title="MFC 當天"></a>MFC 當天</h2><p>到賽前我都還以為比賽名稱 My First CTF 會在現場帶大家簡介一下 CTF 賽制和一些 Linux 操作之類的，結果完全沒有！<br>教授們致詞完後就直接開始比賽～<br>所以我當下是有點慌張的，因為對我來說這真的是 My First CTF，所以這邊建議之後來參賽的人，務必先裝好 Linux (我自己是用裝 ubuntu 在 VM)，然後熟悉一下操作方式，特別是 terminal！<br>千萬別像我傻傻的想用 Windows 解題，impossible～（真的要說還是有機會啦，不過很少）<br>今年題目的部分，基本上我只解了大約兩三題，不過因為 Write up 好像來不能公開，所以這段我先略過，七月再補上來。<br>（七月補上：結果主辦方沒有給 Write up，附上我解的三個入門題的 Write up <a class="link"   href="https://hackmd.io/@whyhugo/HJUBFS3S2" >🫠點我 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>）<br>其中最有趣的是比賽接近尾聲時突然出現一題「問卷回饋」，填完表單就能拿到 flag😂</p>
+<h2 id="MFC-當天"><a href="#MFC-當天" class="headerlink" title="MFC 當天"></a>MFC 當天</h2><p>到賽前我都還以為比賽名稱 My First CTF 會在現場帶大家簡介一下 CTF 賽制和一些 Linux 操作之類的，結果完全沒有！<br>教授們致詞完後就直接開始比賽～<br>所以我當下是有點慌張的，因為對我來說這真的是 My First CTF，所以這邊建議之後來參賽的人，務必先裝好 Linux (我自己是用裝 ubuntu 在 VM)，然後熟悉一下操作方式，特別是 terminal！<br>千萬別像我傻傻的想用 Windows 解題，impossible～（真的要說還是有機會啦，不過很少很少）<br>今年題目的部分，基本上我只解了大約兩三題，不過因為 Write up 好像還不能公開，所以這段我先略過，七月再補上來。<br>（七月補上：結果主辦方沒有給 Write up，附上我解的三個入門題的 Write up <a class="link"   href="https://hackmd.io/@whyhugo/HJUBFS3S2" >🫠點我 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>）<br>其中最有趣的是比賽接近尾聲時突然出現一題「問卷回饋」，填完表單就能拿到 flag😂</p>
 <img  
                      lazyload
                      src="/images/loading.svg"
@@ -155,7 +155,7 @@
                 >
 
 <h2 id="SecurityFocus-Online"><a href="#SecurityFocus-Online" class="headerlink" title="SecurityFocus Online"></a>SecurityFocus Online</h2><p>我在賽後真的開始覺得自己有夠廢，所以報了教育部資通計畫的 SecurityFocus Online，真心大推，特別是北部缺乏資安學習資源的同學，想入門 CTF 來報這個準沒錯～</p>
-<p>課程為期 5 天，完全線上，<br>流程大概是，<br>主辦單位會給 GitHub 和 Notion 筆記給你先自學一些基礎知識，教材寫得很清楚，連我這種 0 經驗的都看得懂，<br>接著是一天上午+下午的 meet 課程，老師會講解筆記中的題目、一些技術原理、為何這樣解等等，有問題也可以即時跟老師討論。<br>最後兩天給大家在 CTF 平台解題，<br>題目算很豐富的，有編解碼、網站安全、古典密碼學、Linux command、隱寫術、鑑識分析、Python、編解密碼學、PPC 解題等，<br>解不出來有 Write up 可以看，有一些程式基礎的人應該都看得懂，阿如果遇到真的不行的也可以在dc上直接討論（我是直接私訊高英耀老師，老師人超好，每個回答都很完整，感受到老師滿滿的教學熱忱）。<br>我最後有解完所有題目 2620 分，排名第三，解題過程看著排行榜一直往前衝，蠻有成就感的，一不小心就解到凌晨五點XD<br>重要的事，真的學到很多很多各種 CTF 題型的方法！真心大推！</p>
+<p>課程為期 5 天，完全線上，<br>流程大概是，<br>主辦單位會給 GitHub 和 Notion 筆記給你先自學一些基礎知識，教材寫得很清楚，連我這種 0 經驗的都看得懂，<br>接著是一天上午+下午的 meet 課程，老師會講解筆記中的題目、一些技術原理、為何這樣解等等，有問題也可以即時跟老師討論。<br>最後兩天給大家在 CTF 平台解題，<br>題目算很豐富的，有編解碼、網站安全、古典密碼學、Linux command、隱寫術、鑑識分析、Python、編解密碼學、PPC 解題等，<br>解不出來有 Write up 可以看，有一些程式基礎的人應該都看得懂，阿如果遇到真的不行的也可以在 DC 上直接討論（我是直接私訊高英耀老師，老師人超好，每個回答都很完整，感受到老師滿滿的教學熱忱）。<br>我最後有解完所有題目 2620 分，排名第三，解題過程看著排行榜一直往前衝，蠻有成就感的，一不小心就解到凌晨五點 XD<br>重要的是，真的學到很多很多各種 CTF 題型的方法！真心大推！</p>
 <img  
                      lazyload
                      src="/images/loading.svg"
