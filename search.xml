@@ -301,67 +301,6 @@
       </tags>
   </entry>
   <entry>
-    <title>在 Colab 上使用 selenium 與 webdriver 不報錯！</title>
-    <url>/2023/10/02/using-selenium-in-colab/</url>
-    <content><![CDATA[<h2 id="試試-requests"><a href="#試試-requests" class="headerlink" title="試試 requests"></a>試試 requests</h2><p>起初，我原本以為 Colab 設計上有限制使用者在上面爬蟲，不過實測過後，使用 requests get 可以確實取得資料。<br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/images/using-selenium-in-colab/螢幕擷取畫面 2023-10-02 093430.png"
-                      
-                ></p>
-<h2 id="selenium-想必也可以？"><a href="#selenium-想必也可以？" class="headerlink" title="selenium 想必也可以？"></a>selenium 想必也可以？</h2><p>在本機端爬蟲時我都是在 Windows 11 環境下運行 chromedriver；因此剛開始測試時，我直接將 chromedriver 上傳至雲端並使用 </p>
-<div class="highlight-container" data-rel="Python"><figure class="iseeu highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> google.colab <span class="keyword">import</span> driver</span><br><span class="line">drive.mount(<span class="string">&#x27;/content/drive&#x27;</span>)</span><br></pre></td></tr></table></figure></div>
-<p>來架接 Google Drive 路徑存取 chrome-driver<br>卻忽略了一個重點：<br>Google Colab 是 Linux 架構！！！！！<br>Google Colab 是 Linux 架構！！！！！<br>Google Colab 是 Linux 架構！！！！！<br>（很重要講三次）</p>
-<blockquote>
-<p><a class="link"   href="https://googlechromelabs.github.io/chrome-for-testing/" >最新版 chromedriver 載點 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-</blockquote>
-<p>接著，我讓程式讀取 Linux64 的 chromedriver 的雲端路徑，並參考了需多網路上的做法卻依然持續出現 <code>wrong permissions</code> 的報錯。</p>
-<img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/images/using-selenium-in-colab/螢幕擷取畫面 2023-10-02 091935.png"
-                      
-                >
-
-<h3 id="出-bug-的解方"><a href="#出-bug-的解方" class="headerlink" title="出 bug 的解方"></a>出 bug 的解方</h3><p>解決的過程中，歷經了腦袋一片混亂，到處翻了各種語言的資料，被 ChatGPT 耍了一波……QAQ</p>
-<p>這邊就直接讓大家少走這些冤枉路吧~<br>(以下解方為 Oct. 2nd, 2023 時適用的方法)</p>
-<ul>
-<li>為何 Google Colab 無法直接執行 selenium 與 webdriver(chromedriver)?<ul>
-<li>Colab 架構為 Linux 雲端虛擬機，由於目前使用 Ubuntu 20.04 LTS，已不再支援直接使用 chromium-browser</li>
-<li><strong>解決辦法為：從 Debian buster repository 安裝套件</strong></li>
-</ul>
-</li>
-<li>若完成上述步驟後為何還是會有其他報錯<ul>
-<li>完成上述步驟後基本上已經可以執行程式，若還有報錯，此時大多數的原因為 selenium 在 4.10.0 版後，陸續有不少語法上的更新，而 <code>pip install selenium</code> 預設安裝最新版本 4.13.0，許多網路上及書本中的 source code 無法相容</li>
-<li><strong>解決辦法為：安裝時指定 4.3.0 版，<code>pip install selenium==4.3.0</code></strong></li>
-</ul>
-</li>
-</ul>
-<h3 id="source-code"><a href="#source-code" class="headerlink" title="source code"></a>source code</h3><ol>
-<li><p>從 Debian buster repository 安裝套件</p>
-<div class="highlight-container" data-rel="Python"><figure class="iseeu highlight python"><table><tr><td class="code"><pre><span class="line">%%shell</span><br><span class="line"><span class="comment"># Ubuntu no longer distributes chromium-browser outside of snap</span></span><br><span class="line"><span class="comment">#</span></span><br><span class="line"><span class="comment"># Proposed solution: https://askubuntu.com/questions/1204571/how-to-install-chromium-without-snap</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># Add debian buster</span></span><br><span class="line">cat &gt; /etc/apt/sources.<span class="built_in">list</span>.d/debian.<span class="built_in">list</span> &lt;&lt;<span class="string">&#x27;EOF&#x27;</span></span><br><span class="line">deb [arch=amd64 signed-by=/usr/share/keyrings/debian-buster.gpg] http://deb.debian.org/debian buster main</span><br><span class="line">deb [arch=amd64 signed-by=/usr/share/keyrings/debian-buster-updates.gpg] http://deb.debian.org/debian buster-updates main</span><br><span class="line">deb [arch=amd64 signed-by=/usr/share/keyrings/debian-security-buster.gpg] http://deb.debian.org/debian-security buster/updates main</span><br><span class="line">EOF</span><br><span class="line"></span><br><span class="line"><span class="comment"># Add keys</span></span><br><span class="line">apt-key adv --keyserver keyserver.ubuntu.com --recv-keys DCC9EFBF77E11517</span><br><span class="line">apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 648ACFD622F3D138</span><br><span class="line">apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 112695A0E562B32A</span><br><span class="line"></span><br><span class="line">apt-key export <span class="number">77E11517</span> | gpg --dearmour -o /usr/share/keyrings/debian-buster.gpg</span><br><span class="line">apt-key export 22F3D138 | gpg --dearmour -o /usr/share/keyrings/debian-buster-updates.gpg</span><br><span class="line">apt-key export E562B32A | gpg --dearmour -o /usr/share/keyrings/debian-security-buster.gpg</span><br><span class="line"></span><br><span class="line"><span class="comment"># Prefer debian repo for chromium* packages only</span></span><br><span class="line"><span class="comment"># Note the double-blank lines between entries</span></span><br><span class="line">cat &gt; /etc/apt/preferences.d/chromium.pref &lt;&lt; <span class="string">&#x27;EOF&#x27;</span></span><br><span class="line">Package: *</span><br><span class="line">Pin: release a=eoan</span><br><span class="line">Pin-Priority: <span class="number">500</span></span><br><span class="line"></span><br><span class="line">Package: *</span><br><span class="line">Pin: origin <span class="string">&quot;deb.debian.org&quot;</span></span><br><span class="line">Pin-Priority: <span class="number">300</span></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">Package: chromium*</span><br><span class="line">Pin: origin <span class="string">&quot;deb.debian.org&quot;</span></span><br><span class="line">Pin-Priority: <span class="number">700</span></span><br><span class="line">EOF</span><br><span class="line"></span><br><span class="line"><span class="comment"># Install chromium and chromium-driver</span></span><br><span class="line">apt-get update</span><br><span class="line">apt-get install chromium chromium-driver</span><br><span class="line"></span><br><span class="line"><span class="comment"># Install selenium</span></span><br><span class="line">pip install selenium <span class="comment">#若要指定版本，在這行後邊直接加上 ==版本號碼</span></span><br></pre></td></tr></table></figure></div>
-</li>
-<li><p>執行 selenium 程式</p>
-<div class="highlight-container" data-rel="Python"><figure class="iseeu highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> selenium <span class="keyword">import</span> webdriver</span><br><span class="line">chrome_options = webdriver.ChromeOptions()</span><br><span class="line">chrome_options.add_argument(<span class="string">&#x27;--headless&#x27;</span>)</span><br><span class="line">chrome_options.add_argument(<span class="string">&#x27;--no-sandbox&#x27;</span>)</span><br><span class="line">chrome_options.headless = <span class="literal">True</span></span><br><span class="line">drive = webdriver.Chrome(<span class="string">&#x27;chromedriver&#x27;</span>,options=chrome_options)</span><br><span class="line">drive.get(<span class="string">&quot;https://www.google.com&quot;</span>)</span><br></pre></td></tr></table></figure></div></li>
-</ol>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ul>
-<li><a class="link"   href="https://github.com/SeleniumHQ/selenium/issues/12746" >https://github.com/SeleniumHQ/selenium/issues/12746 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link"   href="https://stackoverflow.com/questions/51046454/how-can-we-use-selenium-webdriver-in-colab-research-google-com" >https://stackoverflow.com/questions/51046454/how-can-we-use-selenium-webdriver-in-colab-research-google-com <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link"   href="https://github.com/googlecolab/colabtools/issues/3347/" >https://github.com/googlecolab/colabtools/issues/3347/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link"   href="https://ithelp.ithome.com.tw/questions/10211773?sc=pt" >https://ithelp.ithome.com.tw/questions/10211773?sc=pt <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-</ul>
-]]></content>
-      <categories>
-        <category>技術筆記</category>
-      </categories>
-      <tags>
-        <tag>Colab</tag>
-        <tag>selenium</tag>
-        <tag>爬蟲</tag>
-        <tag>webdriver</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>中央資工特殊選才｜心得</title>
     <url>/2023/03/29/%E4%B8%AD%E5%A4%AE%E8%B3%87%E5%B7%A5%E7%89%B9%E9%81%B8%E5%BF%83%E5%BE%97/</url>
     <content><![CDATA[<blockquote>
@@ -842,6 +781,67 @@
         <tag>特殊選才</tag>
         <tag>資工</tag>
         <tag>心得</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>在 Colab 上使用 selenium 與 webdriver 不報錯！</title>
+    <url>/2023/10/02/using-selenium-in-colab/</url>
+    <content><![CDATA[<h2 id="試試-requests"><a href="#試試-requests" class="headerlink" title="試試 requests"></a>試試 requests</h2><p>起初，我原本以為 Colab 設計上有限制使用者在上面爬蟲，不過實測過後，使用 requests get 可以確實取得資料。<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/using-selenium-in-colab/螢幕擷取畫面 2023-10-02 093430.png"
+                      
+                ></p>
+<h2 id="selenium-想必也可以？"><a href="#selenium-想必也可以？" class="headerlink" title="selenium 想必也可以？"></a>selenium 想必也可以？</h2><p>在本機端爬蟲時我都是在 Windows 11 環境下運行 chromedriver；因此剛開始測試時，我直接將 chromedriver 上傳至雲端並使用 </p>
+<div class="highlight-container" data-rel="Python"><figure class="iseeu highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> google.colab <span class="keyword">import</span> driver</span><br><span class="line">drive.mount(<span class="string">&#x27;/content/drive&#x27;</span>)</span><br></pre></td></tr></table></figure></div>
+<p>來架接 Google Drive 路徑存取 chrome-driver<br>卻忽略了一個重點：<br>Google Colab 是 Linux 架構！！！！！<br>Google Colab 是 Linux 架構！！！！！<br>Google Colab 是 Linux 架構！！！！！<br>（很重要講三次）</p>
+<blockquote>
+<p><a class="link"   href="https://googlechromelabs.github.io/chrome-for-testing/" >最新版 chromedriver 載點 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+</blockquote>
+<p>接著，我讓程式讀取 Linux64 的 chromedriver 的雲端路徑，並參考了需多網路上的做法卻依然持續出現 <code>wrong permissions</code> 的報錯。</p>
+<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/using-selenium-in-colab/螢幕擷取畫面 2023-10-02 091935.png"
+                      
+                >
+
+<h3 id="出-bug-的解方"><a href="#出-bug-的解方" class="headerlink" title="出 bug 的解方"></a>出 bug 的解方</h3><p>解決的過程中，歷經了腦袋一片混亂，到處翻了各種語言的資料，被 ChatGPT 耍了一波……QAQ</p>
+<p>這邊就直接讓大家少走這些冤枉路吧~<br>(以下解方為 Oct. 2nd, 2023 時適用的方法)</p>
+<ul>
+<li>為何 Google Colab 無法直接執行 selenium 與 webdriver(chromedriver)?<ul>
+<li>Colab 架構為 Linux 雲端虛擬機，由於目前使用 Ubuntu 20.04 LTS，已不再支援直接使用 chromium-browser</li>
+<li><strong>解決辦法為：從 Debian buster repository 安裝套件</strong></li>
+</ul>
+</li>
+<li>若完成上述步驟後為何還是會有其他報錯<ul>
+<li>完成上述步驟後基本上已經可以執行程式，若還有報錯，此時大多數的原因為 selenium 在 4.10.0 版後，陸續有不少語法上的更新，而 <code>pip install selenium</code> 預設安裝最新版本 4.13.0，許多網路上及書本中的 source code 無法相容</li>
+<li><strong>解決辦法為：安裝時指定 4.3.0 版，<code>pip install selenium==4.3.0</code></strong></li>
+</ul>
+</li>
+</ul>
+<h3 id="source-code"><a href="#source-code" class="headerlink" title="source code"></a>source code</h3><ol>
+<li><p>從 Debian buster repository 安裝套件</p>
+<div class="highlight-container" data-rel="Python"><figure class="iseeu highlight python"><table><tr><td class="code"><pre><span class="line">%%shell</span><br><span class="line"><span class="comment"># Ubuntu no longer distributes chromium-browser outside of snap</span></span><br><span class="line"><span class="comment">#</span></span><br><span class="line"><span class="comment"># Proposed solution: https://askubuntu.com/questions/1204571/how-to-install-chromium-without-snap</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># Add debian buster</span></span><br><span class="line">cat &gt; /etc/apt/sources.<span class="built_in">list</span>.d/debian.<span class="built_in">list</span> &lt;&lt;<span class="string">&#x27;EOF&#x27;</span></span><br><span class="line">deb [arch=amd64 signed-by=/usr/share/keyrings/debian-buster.gpg] http://deb.debian.org/debian buster main</span><br><span class="line">deb [arch=amd64 signed-by=/usr/share/keyrings/debian-buster-updates.gpg] http://deb.debian.org/debian buster-updates main</span><br><span class="line">deb [arch=amd64 signed-by=/usr/share/keyrings/debian-security-buster.gpg] http://deb.debian.org/debian-security buster/updates main</span><br><span class="line">EOF</span><br><span class="line"></span><br><span class="line"><span class="comment"># Add keys</span></span><br><span class="line">apt-key adv --keyserver keyserver.ubuntu.com --recv-keys DCC9EFBF77E11517</span><br><span class="line">apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 648ACFD622F3D138</span><br><span class="line">apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 112695A0E562B32A</span><br><span class="line"></span><br><span class="line">apt-key export <span class="number">77E11517</span> | gpg --dearmour -o /usr/share/keyrings/debian-buster.gpg</span><br><span class="line">apt-key export 22F3D138 | gpg --dearmour -o /usr/share/keyrings/debian-buster-updates.gpg</span><br><span class="line">apt-key export E562B32A | gpg --dearmour -o /usr/share/keyrings/debian-security-buster.gpg</span><br><span class="line"></span><br><span class="line"><span class="comment"># Prefer debian repo for chromium* packages only</span></span><br><span class="line"><span class="comment"># Note the double-blank lines between entries</span></span><br><span class="line">cat &gt; /etc/apt/preferences.d/chromium.pref &lt;&lt; <span class="string">&#x27;EOF&#x27;</span></span><br><span class="line">Package: *</span><br><span class="line">Pin: release a=eoan</span><br><span class="line">Pin-Priority: <span class="number">500</span></span><br><span class="line"></span><br><span class="line">Package: *</span><br><span class="line">Pin: origin <span class="string">&quot;deb.debian.org&quot;</span></span><br><span class="line">Pin-Priority: <span class="number">300</span></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">Package: chromium*</span><br><span class="line">Pin: origin <span class="string">&quot;deb.debian.org&quot;</span></span><br><span class="line">Pin-Priority: <span class="number">700</span></span><br><span class="line">EOF</span><br><span class="line"></span><br><span class="line"><span class="comment"># Install chromium and chromium-driver</span></span><br><span class="line">apt-get update</span><br><span class="line">apt-get install chromium chromium-driver</span><br><span class="line"></span><br><span class="line"><span class="comment"># Install selenium</span></span><br><span class="line">pip install selenium <span class="comment">#若要指定版本，在這行後邊直接加上 ==版本號碼</span></span><br></pre></td></tr></table></figure></div>
+</li>
+<li><p>執行 selenium 程式</p>
+<div class="highlight-container" data-rel="Python"><figure class="iseeu highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> selenium <span class="keyword">import</span> webdriver</span><br><span class="line">chrome_options = webdriver.ChromeOptions()</span><br><span class="line">chrome_options.add_argument(<span class="string">&#x27;--headless&#x27;</span>)</span><br><span class="line">chrome_options.add_argument(<span class="string">&#x27;--no-sandbox&#x27;</span>)</span><br><span class="line">chrome_options.headless = <span class="literal">True</span></span><br><span class="line">drive = webdriver.Chrome(<span class="string">&#x27;chromedriver&#x27;</span>,options=chrome_options)</span><br><span class="line">drive.get(<span class="string">&quot;https://www.google.com&quot;</span>)</span><br></pre></td></tr></table></figure></div></li>
+</ol>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><ul>
+<li><a class="link"   href="https://github.com/SeleniumHQ/selenium/issues/12746" >https://github.com/SeleniumHQ/selenium/issues/12746 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://stackoverflow.com/questions/51046454/how-can-we-use-selenium-webdriver-in-colab-research-google-com" >https://stackoverflow.com/questions/51046454/how-can-we-use-selenium-webdriver-in-colab-research-google-com <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://github.com/googlecolab/colabtools/issues/3347/" >https://github.com/googlecolab/colabtools/issues/3347/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://ithelp.ithome.com.tw/questions/10211773?sc=pt" >https://ithelp.ithome.com.tw/questions/10211773?sc=pt <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+</ul>
+]]></content>
+      <categories>
+        <category>技術筆記</category>
+      </categories>
+      <tags>
+        <tag>Colab</tag>
+        <tag>selenium</tag>
+        <tag>爬蟲</tag>
+        <tag>webdriver</tag>
       </tags>
   </entry>
   <entry>
